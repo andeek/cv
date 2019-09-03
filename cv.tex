@@ -1,0 +1,416 @@
+\documentclass[margin,line]{res}
+\usepackage{multicol, enumitem, url}
+
+\usepackage[backend=biber,
+            sorting=none,
+            defernumbers=true,
+            firstinits=true,
+            maxbibnames=99,
+            hyperref=true]{biblatex} % load the package
+\DeclareNameAlias{author}{last-first}
+\renewbibmacro{in:}{} % get rid of "In:"
+\addbibresource{../bib/papers.bib}
+\addbibresource{../bib/posters.bib}
+\addbibresource{../bib/talks.bib} % add a bib-reference file
+
+
+\oddsidemargin -.5in
+\evensidemargin -.5in
+\textwidth=6.0in
+\itemsep=0in
+\parsep=0in
+
+\newenvironment{list1}{
+  \begin{list}{\ding{113}}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in}
+      \setlength{\leftmargin}{0.17in}}}{\end{list}}
+\newenvironment{list2}{
+  \begin{list}{$\bullet$}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in}
+      \setlength{\leftmargin}{0.2in}}}{\end{list}}
+
+\pagestyle{plain} % page numbers
+ 
+
+\begin{document}
+\nocite{*}
+\name{Andee Kaplan \vspace*{.1in}}
+
+\begin{resume}
+
+\section{\sc Contact Information}
+\vspace{.05in}
+\begin{tabular}{@{}p{2in}p{4in}}
+Department of Statistics  & {\it Phone:}  (832) 526-7947 \\
+102 Statistics Building &  {\it E-mail:} andee.kaplan@colostate.edu\\
+851 Oval Dr. & {\it WWW:} \url{andeekaplan.com} \\
+Fort Collins, CO 80523-1877 & \\
+\end{tabular}
+
+\section{\sc Professional Appointments}
+{\bf Colorado State University}, Fort Collins, CO USA\\
+\vspace*{-.1in}
+\begin{list1}
+\item[] Assistant Professor, Department of Statistics, August 2019 - Present
+\end{list1}
+
+{\bf Duke University}, Durham, NC USA\\
+\vspace*{-.1in}
+\begin{list1}
+\item[] Postdoctoral Associate, Department of Statistical Science, August 2017 - July 2019
+\begin{list2}
+\vspace*{.05in}
+\item[] Advisor: Rebecca C. Steorts
+\end{list2}
+\end{list1}
+
+\section{\sc Education}
+{\bf Iowa State University (ISU)}, Ames, Iowa USA\\
+\vspace*{-.1in}
+\begin{list1}
+\item[]Ph.D., Statistics, August 2017 
+\begin{list2}
+\vspace*{.05in}
+\item[] Dissertation title:  ``On advancing MCMC-based methods for Markovian data structures with applications to deep learning, simulation, and resampling''
+\item[] Advisors: Daniel Nordman, Stephen Vardeman
+\end{list2}
+\vspace*{.05in}
+\item[]M.S., Statistics, May 2014
+\begin{list2}
+\vspace*{.05in}
+\item[] Research title:  ``gravicom - a web-based tool for community detection in networks''
+\item[] Advisors: Heike Hofmann, Daniel Nordman
+\end{list2}
+\end{list1}
+{\bf The University of Texas}, Austin, Texas USA\\
+%{\em Department of Mathematics}
+\vspace*{-.1in}
+\begin{list1}
+\item[]M.A., Mathematics, December 2010
+\begin{list2}
+\vspace*{.05in}
+\item[] Research title:  ``An Overview of Multilevel Regression''
+\item[] Advisors: Martha Smith, John Luecke
+\end{list2}
+\vspace*{.05in}
+\item[] B.S., Mathematics, May 2006
+\begin{list2}
+\vspace*{.05in}
+\item[] Elements of Computing Certificate
+\end{list2}
+\end{list1}
+
+\section{\sc Research Interests}
+Statistical Machine Learning, Bayesian Statistics, Computational Statistics, Record Linkage, Differential Privacy,  Markov chain Monte Carlo and Spatial Resampling, Interactive Statistical Graphics, Reproducible Research, Social Statistics, Human Rights
+
+\section{\sc Honors and Awards}
+{\em ISU Department of Statistics George W. Snedecor Award } \hfill 2015\\
+This award honors the founder and first director of the Statistical Laboratory, George W. Snedecor, and is awarded to the most outstanding PhD candidate in the Department of Statistics.
+
+{\em American Statistical Association Computing Section Student Paper Award } \hfill 2015 \\
+Awarded for paper ``Introductory statistics with intRo."
+
+{\em ISU Department of Statistics Holly and Beth Fryer Scholarship } \hfill 2014\\
+Criteria for this scholarship include grades received in Statistics and related courses, performance in assistantship duties and other information that indicates a high likelihood that the student will make contributions to the Statistics profession throughout their career.
+
+{\em Women in Statistics Conference Poster Award } \hfill 2014\\
+Awarded for poster ``Mathematical Self-Efficacy of Incoming Students at a Large Public University."
+
+{\em American Statistical Association Data Exposition $1^{st}$ Place } \hfill 2013\\
+Awarded for poster ``Putting Down Roots: A Graphical Exploration of Community Attachment."
+
+{\em ISU Department of Statistics Vera David Fellowship } \hfill 2013\\
+This fellowship, is given to a female student who has just completed her first year of graduate studies. The scholarship is awarded on the basis of academic achievement during the student’s first year.
+
+{\em NSF Research Experiences for Undergraduates } \hfill 2006\\
+Participant in Extensible Undergraduate Research in Communications Applications, in the areas of Communications, Networks and Systems.
+
+{\em University of Texas at Austin Honors and Dean's List } \hfill 2005 \& 2006
+
+\section{\sc Other Awards}
+{\em IMS New Researchers Conference Travel Award} \hfill 2018\\
+{\em IMA Frontiers in Forecasting Travel Award} \hfill 2018\\
+{\em Conference on Data Analysis Poster Grant } \hfill 2016\\
+{\em rOpenSci Unconf Travel Funding } \hfill 2015\\
+{\em Fields Institute Workshop on Visualization for Big Data Travel Award } \hfill 2015\\
+{\em Women in Statistics Conference Travel Award } \hfill 2014\\
+{\em ASA Joint Statistical Meetings Special Student Funding Travel Award } \hfill 2014
+
+\section{\sc Grants}
+As PI: {\em An Extensible Model for Deduplication of the GDELT Events Database} (North Carolina State University Laboratory for Analytic Sciences). PI: Kaplan (Pending).
+
+As Co-PI: {\em Posterior Prototyping: Bridging the Gap between Record Linkage and Regression} (North Carolina State University Laboratory for Analytic Sciences). PI: Kaplan, Betancourt, and Steorts.
+
+\section{\sc Refereed \\ Journal Publications}
+\printbibliography[keyword=refereed, heading=none, resetnumbers=true]
+
+\section{\sc Preprints}
+\printbibliography[keyword=submitted, heading=none, resetnumbers=false]
+
+\printbibliography[keyword=inprep, heading=none]
+
+\section{\sc Refereed Conference Preceedings}
+\printbibliography[keyword=conf-ref, heading=none, resetnumbers=false]
+
+\section{\sc Unrefereed Conference Preceedings}
+\printbibliography[keyword=conf-unref, heading=none, resetnumbers=false]
+
+\section{\sc Software}
+
+\begin{enumerate}[label={[\arabic*]}, labelsep=.35cm]
+\item \texttt{representr}, Create Representative Records Post-Record Linkage, with Brenda Betancourt and Rebecca C. Steorts \cite{kaplan2018posterior}. (\url{https://github.com/andeek/representr})
+\item \texttt{dblink}, Scalable Empirical Bayes Entity Resolution, with Neil Marchant, Ben Rubenstein, and Rebecca C. Steorts \cite{marchant2018dblink}. (Forthcoming)
+\item \texttt{conclique}, Gibbs Sampling for Spatial Data and Concliques, with Daniel Nordman, Mark Kaiser, and Soumendra Lahiri \cite{kaplan2016geometrically}. (\url{https://github.com/andeek/conclique})
+\item \texttt{intro}, Download and Run the intRo Statistical Software, with Eric Hare \cite{hare2017introductory}. (\url{https://github.com/gammarama/intro})
+\item \texttt{forestr}, Random Forests with a User Created Splitting Criterion. (\url{https://github.com/andeek/forestr})
+\end{enumerate}
+
+\section{\sc Invited Talks}
+*Denotes presenter.\\
+\printbibliography[keyword=talk-invited, heading=none, resetnumbers=true]
+
+\section{\sc Invited Short Courses}
+
+{\bf Some of Record Linkage}, US Census Bureau \& Centro de Investigaci\'{o}n de Matem\'{a}ticas, A. C.
+
+\vspace{-.3cm}
+{\em Co-instructor} \hfill \\
+Designed and facilitated a workshop that provides a broad introduction to multiple methods for performing record linkage and deduplification, including blocking and evaluation topics (\url{https://resteorts.github.io/record-linkage-tutorial/}).
+
+
+{\bf Machine Learning Day}, Duke University
+
+\vspace{-.3cm}
+{\em Co-organizer} \hfill \\
+Helped organize Duke's first Machine Learning Day for undergraduates and participated as a panel speaker.
+
+{\bf D3 Workshop}, NORC at the University of Chicago
+
+\vspace{-.3cm}
+{\em Co-instructor} \hfill \\
+Designed and presented a workshop for NORC employees on the JavaScript plotting library D3 (\url{http://andeekaplan.com/d3workshop/}).
+
+{\bf Week of R}, Iowa State University
+
+\vspace{-.3cm}
+{\em Co-instructor} \hfill \\
+Student run R workshop within the Department of Statistics covering the basics of R, plotting, data manipulation, scraping web data, and Shiny (\url{http://heike.github.io/rwrks/}).
+
+
+\section{\sc Contributed Talks}
+\printbibliography[keyword=talk-contributed, heading=none, resetnumbers=true]
+
+\section{\sc Contributed Posters}
+\printbibliography[keyword=poster, heading=none, resetnumbers=true]
+
+\section{\sc Teaching Experience}
+{\bf Duke University}, Durham, North Carolina USA
+
+{\em Guest Lecturer} \hfill {\bf Fall 2017 \& Spring 2018}\\
+Presented material for Data Mining and Machine Learning (Undergraduate level) and Bayesian Methods and Modern Statistics (Masters level) courses.
+
+{\bf Iowa State University}, Ames, Iowa USA
+
+{\em Instructor} \hfill {\bf Summer 2017}\\
+Course instructor for Engineering Statistics (\url{http://andeekaplan.com/stat305}). Statistics for engineering problem solving, covering principles of engineering data collection, descriptive statistics, elementary probability distributions, principles of experimentation, confidence intervals and significance tests, one- and two-sample studies, regression analysis, and statistical software.
+
+{\em Instructor} \hfill {\bf Spring 2017}\\
+Course instructor for Engineering Statistics (\url{http://andeekaplan.com/stat305/spring2017}). Statistics for engineering problem solving, covering principles of engineering data collection, descriptive statistics, elementary probability distributions, principles of experimentation, confidence intervals and significance tests, one- and two-sample studies, regression analysis, and statistical software.
+
+{\em Instructor} \hfill {\bf Fall 2016}\\
+Course instructor for Data Stewardship for Earth Systems Scientists (\url{http://agron590-ISU.github.io}). Co-designed
+and delivered course material focusing on fundamental data skills required for successful,
+collaborative, and reproducible research within the context of plant, soil, and atmospheric sciences.
+
+{\em Guest Lecturer} \hfill {\bf Spring 2015}\\
+Presented material for one week of Advanced Probability Theory (PhD level) and one week of Time Series Analysis (Masters level) courses.
+
+{\em Teaching Assistant} \hfill {\bf Fall 2014}\\
+Lab instructor for Introduction to Business Statistics II. Responsible for running lab section and grading exams. Approximately 30 students.
+
+{\em Instructor} \hfill {\bf Spring 2013}\\
+Course instructor for Introduction to Business Statistics. Responsible for lecture and the development of course notes, homework assignments, and exams. Approximately 80 students.
+
+{\em Grading Coordinator} \hfill {\bf Fall 2012}\\
+Coordinated a team of seven undergraduates to grade for Introduction to Business Statistics. Duties included creating a rubric each week and ensuring consistent grading across all sections.
+
+\section{\sc Research Students}
+
+{\em Undergraduate Students} \hfill \\
+Ritika Bharati, Undergraduate research project, Spring 2018 - Present \\
+Srini Sunil, Undergraduate research on blocking methods for record linkage, Fall 2017 - Present
+
+
+\section{\sc Research Experience}
+{\bf Duke University}, Durham, North Carolina USA
+
+\vspace{-.3cm}
+{\em Postdoctoral Associate} \hfill {\bf August, 2017 - Present}\\
+Scalable Record Linkage through the Microclustering Property, funded by NSF, with Steorts, R. C.
+
+{\bf Iowa State University}, Ames, Iowa USA
+
+\vspace{-.3cm}
+%{\em Graduate Student} \hfill {\bf August, 2012 - Present}\\
+%Includes Masters and PhD level coursework.
+
+{\em Graduate Research Assistant} \hfill {\bf May, 2015 - August, 2016}\\
+Nonparametric Likelihood Enhancements for Dependent Data, funded by NSF, with Nordman, D.
+
+{\em Graduate Research Assistant} \hfill {\bf May, 2013 - August, 2015}\\
+Exploring the STEM Gender Gap: Introductory College Mathematics and Statistics Instruction and its Association with Self-Efficacy, funded by NSF, with Genschel, U., Carriquiry, A., Kliemann, W., Johnston, E., Koehler, K., Nguyen, X., Mouzon, I.
+
+{\bf The University of Texas}, Austin, Texas USA
+
+\vspace{-.3cm}
+{\em Graduate Research Assistant} \hfill {\bf April, 2011 - July, 2012}\\
+Worked with Prof. Tasha Beretvas to assess use of Bayesian methods to estimate a two-level cross-classified random effects model with correlated Level 2 residuals.
+
+%Designed an R function that simulates cross-classified data and then utilizes OpenBUGS to estimate different models including: multiple membership, unconstrained multiple membership, uncorrelated-residuals CCREM, correlated-residuals CCREM, and a fully multivariate CCREM.
+
+%{\em Graduate Student} \hfill {\bf August, 2006 - December, 2010}\\
+%Includes Masters level coursework and report research.
+
+%\vspace{-.1cm}
+
+%\vspace{-.1cm}
+{\em Summer REU} \hfill {\bf June, 2006 - August, 2006}\\
+Participant in Extensible Undergraduate Research in Communications Applications, a summer REU in the Department of Electrical Engineering sponsored by the National Science Foundation for research in the areas of Communications, Networks and Systems. Worked on optimization of binary erasure channels project with Prof. Sriram Vishwanath.
+
+%\vspace{-.1cm}
+{\em Undergraduate Research Assistant} \hfill {\bf June, 2005 - March, 2006}\\
+Worked with Prof.\ Tasha Beretvas to identify different methods of effect size estimation and evaluate the advantages and disadvantages of each method. Developed a Java program for data entry.
+
+\vspace{-.1cm}
+{\bf Applied Research Laboratories}, Austin, Texas USA
+
+\vspace{-.3cm}
+{\em Graduate Research Assistant} \hfill {\bf August, 2006 - February, 2007}\\
+Research with a concentration in active and passive data fusion. Programmed graphical work in signal processing using Matlab.
+
+\section{\sc Industry Experience}
+{\bf NORC at the University of Chicago}, Chicago, Illinois USA
+
+\vspace{-.3cm}
+{\em Graduate Research Assistant} \hfill {\bf May, 2015 - August, 2015}\\
+Summer internship with Statistics and Methodology Department. Primarily developed web-based interactive graphics using JavaScript library D3 to explore data linkage for extant sources. Additionally, performed data munging and low level data analysis as well as report generation for third-party clients in R and R Markdown.
+
+{\bf Banks Information Group}, Austin, Texas USA
+
+\vspace{-.3cm}
+{\em Independent Contractor} \hfill {\bf July, 2011 - July, 2012}\\
+Developed web-based environmental GIS reporting tool for Phase I reporting. Additionally, developed and implemented a web-based tool to convert images to PDF files programatically.  Utilized ESRI ArcSDE and .NET/C\#, as well as Microsoft SQL Server for development.
+
+{\bf Sense Corp}, Austin, Texas USA
+
+\vspace{-.3cm}
+{\em Consultant} \hfill {\bf July, 2009 - July, 2011}\\
+Designed monthly subscriber activity forecasts across key markets at a top-five broadband telecommunications company using ARIMA time series modeling in R. Developed an automated process and custom web application designed for Business Intelligence (BI) Group use to run forecasts and analyze long-term trends in activity. Analyzed the effects of explanatory factors on elevated truck rolls and presented findings to corporate leadership.
+
+{\bf Gelb Consulting Group}, Houston, Texas USA
+
+\vspace{-.3cm}
+{\em Intern Analyst} \hfill {\bf  June, 2008 - August, 2008}\\
+Internal consultant focusing on revising several standard operating procedures, including regression and factor analysis. 
+
+\section{\sc Service and Leadership}
+
+{\bf Statistics in the Community (StatCom)}
+
+\vspace{-.3cm}
+{\em Network Outreach Coordinator} \hfill {\bf 2015 - 2017}\\
+{\em Executive Committee, ISU Chapter} \hfill {\bf 2013 - 2017}
+
+{\bf Iowa State University}
+
+\vspace{-.3cm}
+{\em Student representative to departmental faculty meetings} \hfill {\bf 2015 - 2017}\\
+{\em STATers, social organization for graduate students, Vice President} \hfill {\bf 2013 - 2014}\\
+{\em Graduate and Professional Student Senate, Senator} \hfill {\bf 2012 - 2013}
+
+
+{\bf Reviewer}
+
+\vspace{-.3cm}
+{\em AIStats}, {\em American Political Science Review}, {\em Environmental and Ecological Statistics}, {\em Journal of the American Statistical Association}, {\em PLOS One}
+
+
+{\bf Conferences}
+
+\vspace{-.3cm}
+{\em Contributed Session Chair, Joint Statistical Meetings, Vancouver, BC, Canada} \hfill {\bf August 2018}
+
+\section{\sc Professional Affiliations}
+American Statistical Association (ASA), Institute of Mathematical Statistics (IMS)
+
+\section{\sc Computing}
+\begin{list2}
+\item Mathematical and Statistical Computing:  R, Rcpp, Shiny, Julia, JAGS, BUGS, SAS, Matlab; some experience  with Python and SPSS.
+\item Other Languages: C++, JavaScript (and D3), Java, SQL, C\#, .NET, HTML5, CSS3, Markdown.
+\item Content Management: Git
+\end{list2}
+
+%\clearpage
+
+
+
+
+
+%\begin{list2}
+%\item StatCom, community service organization
+%\begin{itemize}
+%\item[--] Executive Committee, 2013 - 2017
+%\item[--] Network Outreach Coordinator, 2015 - 2017
+%\end{itemize}
+%\item ISU Department of Statistics, Student Representative to Faculty Meetings, 2015 - 2017
+%\item STATers, social organization for graduate students, Vice President, 2013 - 2014
+%\item Graduate and Professional Student Senate, Senator, 2012 - 2013
+%\end{list2}
+
+
+
+
+\clearpage
+%\section{\sc Relevant Coursework}
+%\begin{multicols}{2}
+%\begin{list2}
+%\item Bayesian Statistics*
+%\item Theory of Probability and Statistics I \& II*
+%\item Statistical Methods I \& II*
+%\item Introduction to Statistical Computing*
+%\item Mathematical Statistics I \& II*
+%\item Theory of Probability*
+%\item Applied Bayesian Analysis*
+%\item Methods of Correlation and Regression*
+%\item Integral Transforms*
+%\item Methods of Real Analysis*
+%\item Probability I
+%\item Real Analysis I
+%\item Linear Algebra and Matrix Theory
+%\item Introduction to Mathematical Modeling
+%\item Scientific Computation in Numerical Analysis
+%\item Methods of Applied Mathematics
+%\item Algebraic Structures I \& II
+%\item Theory of Functions of Complex Variables
+%\item Introduction to Number Theory
+%\item Partial Differential Equations and Applications
+%\item Differential Equations
+%\item Vector Calculus
+%\item Error-Correcting Codes
+%\item Logic, Sets, and Functions
+%\item Elements of Computers \& Programming
+%\item Elements of Software Design
+%\end{list2}
+%\end{multicols}
+%
+%\vspace{-.5cm}
+%* Denotes graduate level coursework.
+
+
+
+\end{resume}
+\end{document}

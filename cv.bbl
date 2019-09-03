@@ -1,0 +1,2444 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{kaplan2019properties}{article}{}
+      \name{author}{3}{}{%
+        {{hash=43f16082ea28968620f23762e32b5173}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={Andee},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cd5e8659b35c629f9667c06858878d58}{%
+           family={Vardeman},
+           familyi={V\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{5bcc1e27e84ce5743f347552283b2452}
+      \strng{fullhash}{5bcc1e27e84ce5743f347552283b2452}
+      \strng{bibnamehash}{5bcc1e27e84ce5743f347552283b2452}
+      \strng{authorbibnamehash}{5bcc1e27e84ce5743f347552283b2452}
+      \strng{authornamehash}{5bcc1e27e84ce5743f347552283b2452}
+      \strng{authorfullhash}{5bcc1e27e84ce5743f347552283b2452}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Statistical Analysis and Data Mining: The ASA Data Science Journal}
+      \field{number}{1}
+      \field{title}{Properties and Bayesian fitting of restricted Boltzmann machines}
+      \field{volume}{12}
+      \field{year}{2019}
+      \field{pages}{23\bibrangedash 38}
+      \range{pages}{16}
+      \keyw{refereed}
+    \endentry
+    \entry{kaplan2016putting}{article}{}
+      \name{author}{2}{}{%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=20bc608eb3d6a563c382856efb078458}{%
+           family={Hare},
+           familyi={H\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{7ec13f224a383c0b4c5bdad6e7a7329f}
+      \strng{fullhash}{7ec13f224a383c0b4c5bdad6e7a7329f}
+      \strng{bibnamehash}{7ec13f224a383c0b4c5bdad6e7a7329f}
+      \strng{authorbibnamehash}{7ec13f224a383c0b4c5bdad6e7a7329f}
+      \strng{authornamehash}{7ec13f224a383c0b4c5bdad6e7a7329f}
+      \strng{authorfullhash}{7ec13f224a383c0b4c5bdad6e7a7329f}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computational Statistics}
+      \field{title}{Putting Down Roots: A Graphical Exploration of Community Attachment}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/s00180-018-0850-7
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/s00180-018-0850-7
+      \endverb
+      \keyw{refereed}
+    \endentry
+    \entry{hare2017introductory}{article}{}
+      \name{author}{2}{}{%
+        {{hash=20bc608eb3d6a563c382856efb078458}{%
+           family={Hare},
+           familyi={H\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{d01b3afa656ff0707837f332126752f0}
+      \strng{fullhash}{d01b3afa656ff0707837f332126752f0}
+      \strng{bibnamehash}{d01b3afa656ff0707837f332126752f0}
+      \strng{authorbibnamehash}{d01b3afa656ff0707837f332126752f0}
+      \strng{authornamehash}{d01b3afa656ff0707837f332126752f0}
+      \strng{authorfullhash}{d01b3afa656ff0707837f332126752f0}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computational and Graphical Statistics}
+      \field{number}{3}
+      \field{title}{Designing Modular Software: A Case Study in Introductory Statistics}
+      \field{volume}{26}
+      \field{year}{2017}
+      \field{pages}{493\bibrangedash 500}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1080/10618600.2016.1276839
+      \endverb
+      \keyw{refereed}
+    \endentry
+    \entry{kaplan2017interactive}{article}{}
+      \name{author}{3}{}{%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=aab385203b295bcea3e72bd9a22eebae}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Heike},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{ee710f37b53f2d850b24685cc471d3f9}
+      \strng{fullhash}{ee710f37b53f2d850b24685cc471d3f9}
+      \strng{bibnamehash}{ee710f37b53f2d850b24685cc471d3f9}
+      \strng{authorbibnamehash}{ee710f37b53f2d850b24685cc471d3f9}
+      \strng{authornamehash}{ee710f37b53f2d850b24685cc471d3f9}
+      \strng{authorfullhash}{ee710f37b53f2d850b24685cc471d3f9}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1613-9658}
+      \field{journaltitle}{Computational Statistics}
+      \field{number}{2}
+      \field{title}{An interactive graphical method for community detection in network data}
+      \field{volume}{32}
+      \field{year}{2017}
+      \field{pages}{535\bibrangedash 557}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1007/s00180-016-0663-5
+      \endverb
+      \keyw{refereed}
+    \endentry
+    \entry{kaplan2014can}{article}{}
+      \name{author}{4}{}{%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=20bc608eb3d6a563c382856efb078458}{%
+           family={Hare},
+           familyi={H\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=aab385203b295bcea3e72bd9a22eebae}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Heike},
+           giveni={H\bibinitperiod}}}%
+        {{hash=703a76ee965b0aabaf5b41a58ab3995c}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={Dianne},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{b04d4bf9820af10770948e103bb325cd}
+      \strng{fullhash}{2ca680442f4f59eebff1e2af72144539}
+      \strng{bibnamehash}{2ca680442f4f59eebff1e2af72144539}
+      \strng{authorbibnamehash}{2ca680442f4f59eebff1e2af72144539}
+      \strng{authornamehash}{b04d4bf9820af10770948e103bb325cd}
+      \strng{authorfullhash}{2ca680442f4f59eebff1e2af72144539}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chance}
+      \field{number}{1}
+      \field{title}{Can you buy a president? Politics after the Tillman Act}
+      \field{volume}{27}
+      \field{year}{2014}
+      \field{pages}{20\bibrangedash 30}
+      \range{pages}{11}
+      \keyw{refereed}
+    \endentry
+    \entry{kaplan2018posterior}{article}{}
+      \name{author}{3}{}{%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=3c1fc8c229e36181b1e72f948f2a7f46}{%
+           family={Betancourt},
+           familyi={B\bibinitperiod},
+           given={Brenda},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e0aed6d10ec575ba8318d5e716354fd2}{%
+           family={Steorts},
+           familyi={S\bibinitperiod},
+           given={Rebecca\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{10c6aa8a3e4d99da32162c855e2c33d3}
+      \strng{fullhash}{10c6aa8a3e4d99da32162c855e2c33d3}
+      \strng{bibnamehash}{10c6aa8a3e4d99da32162c855e2c33d3}
+      \strng{authorbibnamehash}{10c6aa8a3e4d99da32162c855e2c33d3}
+      \strng{authornamehash}{10c6aa8a3e4d99da32162c855e2c33d3}
+      \strng{authorfullhash}{10c6aa8a3e4d99da32162c855e2c33d3}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1810.01538}
+      \field{title}{Posterior Prototyping: Bridging the Gap between Record Linkage and Regression}
+      \field{year}{in review}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1810.01538
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1810.01538
+      \endverb
+      \keyw{submitted}
+    \endentry
+    \entry{marchant2018dblink}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d6088582910a4f095ef14e06ed77d860}{%
+           family={Marchant},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=667e5198182ae91ebb6c8f192c715b59}{%
+           family={Rubinstein},
+           familyi={R\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e0aed6d10ec575ba8318d5e716354fd2}{%
+           family={Steorts},
+           familyi={S\bibinitperiod},
+           given={Rebecca\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=dfda95a9b88c9271c514443728200b78}{%
+           family={Elazar},
+           familyi={E\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{57a63c3d0c47b4b8f003714b0cdf943a}
+      \strng{fullhash}{e5cb67fc028a894e9ee76705e6222f35}
+      \strng{bibnamehash}{e5cb67fc028a894e9ee76705e6222f35}
+      \strng{authorbibnamehash}{e5cb67fc028a894e9ee76705e6222f35}
+      \strng{authornamehash}{57a63c3d0c47b4b8f003714b0cdf943a}
+      \strng{authorfullhash}{e5cb67fc028a894e9ee76705e6222f35}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{d-blink: Distributed End-to-End Bayesian Entity Resolution}
+      \field{year}{in review}
+      \keyw{submitted}
+    \endentry
+    \entry{kaplan2016geometrically}{article}{}
+      \name{author}{4}{}{%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=c380bf1479634cfa298d97408b2ba4d2}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4e9bb0ee29de726a96aa3a1995662e74}{%
+           family={Lahiri},
+           familyi={L\bibinitperiod},
+           given={Soumendra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{b04d4bf9820af10770948e103bb325cd}
+      \strng{fullhash}{72abc37a2f29969f1bdba28036004c32}
+      \strng{bibnamehash}{72abc37a2f29969f1bdba28036004c32}
+      \strng{authorbibnamehash}{72abc37a2f29969f1bdba28036004c32}
+      \strng{authornamehash}{b04d4bf9820af10770948e103bb325cd}
+      \strng{authorfullhash}{72abc37a2f29969f1bdba28036004c32}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1808.04739}
+      \field{title}{Simulating Markov random fields with a conclique-based Gibbs sampler}
+      \field{year}{in review}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1808.04739
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1808.04739
+      \endverb
+      \keyw{submitted}
+    \endentry
+    \entry{kaplan2016note}{article}{}
+      \name{author}{3}{}{%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cd5e8659b35c629f9667c06858878d58}{%
+           family={Vardeman},
+           familyi={V\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{64700c2414b876c88885c1097d1f6340}
+      \strng{fullhash}{64700c2414b876c88885c1097d1f6340}
+      \strng{bibnamehash}{64700c2414b876c88885c1097d1f6340}
+      \strng{authorbibnamehash}{64700c2414b876c88885c1097d1f6340}
+      \strng{authornamehash}{64700c2414b876c88885c1097d1f6340}
+      \strng{authorfullhash}{64700c2414b876c88885c1097d1f6340}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{arXiv preprint arXiv:1612.01159}
+      \field{title}{On the instability and degeneracy of deep learning models}
+      \field{year}{in review}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/1612.01159
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/1612.01159
+      \endverb
+      \keyw{submitted}
+    \endentry
+    \entry{hofmann2015move}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=aab385203b295bcea3e72bd9a22eebae}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Heike},
+           giveni={H\bibinitperiod}}}%
+        {{hash=703a76ee965b0aabaf5b41a58ab3995c}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={Dianne},
+           giveni={D\bibinitperiod}}}%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=20bc608eb3d6a563c382856efb078458}{%
+           family={Hare},
+           familyi={H\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=4ee73b9518359af34c386f0d9cf3bc36}{%
+           family={Leos-Barajas},
+           familyi={L\bibinithyphendelim B\bibinitperiod},
+           given={Vianey},
+           giveni={V\bibinitperiod}}}%
+        {{hash=c63711bd8fa68302eb02c665cf15d9ef}{%
+           family={Sievert},
+           familyi={S\bibinitperiod},
+           given={Carson},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7f27afec0b2aee120d35f5febebd262a}{%
+           family={Tyner},
+           familyi={T\bibinitperiod},
+           given={Samantha},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{e4b48967d851326922068d3b3f4bb850}
+      \strng{fullhash}{96affd31b6443d241783053bfd29eb42}
+      \strng{bibnamehash}{96affd31b6443d241783053bfd29eb42}
+      \strng{authorbibnamehash}{96affd31b6443d241783053bfd29eb42}
+      \strng{authornamehash}{e4b48967d851326922068d3b3f4bb850}
+      \strng{authorfullhash}{96affd31b6443d241783053bfd29eb42}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Visual Analytics Science and Technology (VAST), 2015 IEEE Conference on}
+      \field{title}{On the move at DinoFun world}
+      \field{year}{2015}
+      \field{pages}{159\bibrangedash 160}
+      \range{pages}{2}
+      \keyw{conf-unref}
+    \endentry
+    \entry{hofmann2015visualizing}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=aab385203b295bcea3e72bd9a22eebae}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Heike},
+           giveni={H\bibinitperiod}}}%
+        {{hash=703a76ee965b0aabaf5b41a58ab3995c}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={Dianne},
+           giveni={D\bibinitperiod}}}%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=20bc608eb3d6a563c382856efb078458}{%
+           family={Hare},
+           familyi={H\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=4ee73b9518359af34c386f0d9cf3bc36}{%
+           family={Leos-Barajas},
+           familyi={L\bibinithyphendelim B\bibinitperiod},
+           given={Vianey},
+           giveni={V\bibinitperiod}}}%
+        {{hash=c63711bd8fa68302eb02c665cf15d9ef}{%
+           family={Sievert},
+           familyi={S\bibinitperiod},
+           given={Carson},
+           giveni={C\bibinitperiod}}}%
+        {{hash=7f27afec0b2aee120d35f5febebd262a}{%
+           family={Tyner},
+           familyi={T\bibinitperiod},
+           given={Samantha},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{e4b48967d851326922068d3b3f4bb850}
+      \strng{fullhash}{96affd31b6443d241783053bfd29eb42}
+      \strng{bibnamehash}{96affd31b6443d241783053bfd29eb42}
+      \strng{authorbibnamehash}{96affd31b6443d241783053bfd29eb42}
+      \strng{authornamehash}{e4b48967d851326922068d3b3f4bb850}
+      \strng{authorfullhash}{96affd31b6443d241783053bfd29eb42}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Visual Analytics Science and Technology (VAST), 2015 IEEE Conference on}
+      \field{title}{Visualizing communication patterns at DinoFun World}
+      \field{year}{2015}
+      \field{pages}{161\bibrangedash 162}
+      \range{pages}{2}
+      \keyw{conf-unref}
+    \endentry
+    \entry{genschel2014statistical}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=627009a853194290393c3b2b55e82800}{%
+           family={Genschel},
+           familyi={G\bibinitperiod},
+           given={Ulrike},
+           giveni={U\bibinitperiod}}}%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=4acd63a2db9e48e51b5ad1deae819749}{%
+           family={Carriquiry},
+           familyi={C\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1c144cbb8890c674b8815da5a3405ca1}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={Elgin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1f154bf97c99ffbab80d5b2c484b9293}{%
+           family={Kliemann},
+           familyi={K\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=5da2e3f21c389ddad7ab3e07d9708859}{%
+           family={Koehler},
+           familyi={K\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3a1848c907db2a8c8db31074a2428450}{%
+           family={Mouzon},
+           familyi={M\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=1fca003445f69ee14fb81497cdf9fa24}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Hien},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{028fd3ed42f850b82f59c14c05f12f9f}
+      \strng{fullhash}{d7514f8fb207a865c7b81163a4575536}
+      \strng{bibnamehash}{d7514f8fb207a865c7b81163a4575536}
+      \strng{authorbibnamehash}{d7514f8fb207a865c7b81163a4575536}
+      \strng{authornamehash}{028fd3ed42f850b82f59c14c05f12f9f}
+      \strng{authorfullhash}{d7514f8fb207a865c7b81163a4575536}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Sustainability in Statistics Education, Proceedings of the Ninth International Conference on Teaching Statistics (ICOTS9), Flagstaff, Arizona, USA}
+      \field{title}{Statistical and Mathematical Self-Efficacy of Incoming Students at a Large Public University}
+      \field{year}{2014}
+      \keyw{conf-unref}
+    \endentry
+    \entry{mouzon2015cluster}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{hash=3a1848c907db2a8c8db31074a2428450}{%
+           family={Mouzon},
+           familyi={M\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=627009a853194290393c3b2b55e82800}{%
+           family={Genschel},
+           familyi={G\bibinitperiod},
+           given={Ulrike},
+           giveni={U\bibinitperiod}}}%
+        {{hash=9af42aaec08872674e668c3a9833cf3b}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Xuan\bibnamedelima Hien},
+           giveni={X\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=4acd63a2db9e48e51b5ad1deae819749}{%
+           family={Carriquiry},
+           familyi={C\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=b977ddb80d13c8b94315aa201d92f933}{%
+           family={Mann},
+           familyi={M\bibinitperiod},
+           given={Charlotte},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {The SIGMAA on Research in Undergraduate Mathematics Education}%
+      }
+      \strng{namehash}{b02b517bbacc6e8a6bb0e0718de0d80e}
+      \strng{fullhash}{d37a37371679ae57347e1222e3377390}
+      \strng{bibnamehash}{d37a37371679ae57347e1222e3377390}
+      \strng{authorbibnamehash}{d37a37371679ae57347e1222e3377390}
+      \strng{authornamehash}{b02b517bbacc6e8a6bb0e0718de0d80e}
+      \strng{authorfullhash}{d37a37371679ae57347e1222e3377390}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 18th Annual Conference on Research in Undergraduate Mathematics Education}
+      \field{title}{A Cluster Analysis of STEM Gender Differences}
+      \field{year}{2015}
+      \field{pages}{793\bibrangedash 800}
+      \range{pages}{8}
+      \keyw{conf-ref}
+    \endentry
+    \entry{nrc2019}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=3c1fc8c229e36181b1e72f948f2a7f46}{%
+           family={Betancourt},
+           familyi={B\bibinitperiod},
+           given={Brenda},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e0aed6d10ec575ba8318d5e716354fd2}{%
+           family={Steorts},
+           familyi={S\bibinitperiod},
+           given={Rebecca\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Denver, CO, USA}%
+      }
+      \list{organization}{1}{%
+        {Institute of Mathematical Statistics}%
+      }
+      \strng{namehash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{fullhash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{bibnamehash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{authorbibnamehash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{authornamehash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{authorfullhash}{113755f8cba048001b935188fb3ff2e9}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{New Researchers Conference}
+      \field{month}{7}
+      \field{note}{Contributed Poster}
+      \field{title}{Life After Record Linkage: Tackling the Downstream Task with Error Propagation}
+      \field{year}{2019}
+      \keyw{poster}
+    \endentry
+    \entry{nrc2018}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=e0aed6d10ec575ba8318d5e716354fd2}{%
+           family={Steorts},
+           familyi={S\bibinitperiod},
+           given={Rebecca\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vancouver, BC, Canada}%
+      }
+      \list{organization}{1}{%
+        {Institute of Mathematical Statistics}%
+      }
+      \strng{namehash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{fullhash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{bibnamehash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{authorbibnamehash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{authornamehash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{authorfullhash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{New Researchers Conference}
+      \field{month}{7}
+      \field{note}{Contributed Poster}
+      \field{title}{Population Sized Record Linkage}
+      \field{year}{2018}
+      \keyw{poster}
+    \endentry
+    \entry{fif2018}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cd5e8659b35c629f9667c06858878d58}{%
+           family={Vardeman},
+           familyi={V\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Minneapolis, MN, USA}%
+      }
+      \list{organization}{2}{%
+        {Institute for Mathematics}%
+        {its Application, University of Minnesota}%
+      }
+      \strng{namehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{fullhash}{8e8620282251abc3b39563864f4b9310}
+      \strng{bibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorbibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authornamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorfullhash}{8e8620282251abc3b39563864f4b9310}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Frontiers in Forecasting}
+      \field{month}{2}
+      \field{note}{Contributed Poster}
+      \field{title}{Properties and Bayesian fitting of restricted Boltzmann machines}
+      \field{year}{2018}
+      \keyw{poster}
+    \endentry
+    \entry{coda2016}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cd5e8659b35c629f9667c06858878d58}{%
+           family={Vardeman},
+           familyi={V\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Santa Fe, NM, USA}%
+      }
+      \list{organization}{1}{%
+        {Los Alamos National Laboratory}%
+      }
+      \strng{namehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{fullhash}{8e8620282251abc3b39563864f4b9310}
+      \strng{bibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorbibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authornamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorfullhash}{8e8620282251abc3b39563864f4b9310}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Conference on Data Analysis}
+      \field{month}{3}
+      \field{note}{Contributed Poster}
+      \field{title}{An Exposition on the Propriety of Restricted Boltzmann Machines}
+      \field{year}{2016}
+      \keyw{poster}
+    \endentry
+    \entry{csp2016}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=8621420701237623bb1f977a2756e1a1}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Yongheng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=3f25a38cced123f55aea61304df67859}{%
+           family={{Mulrow,\bibnamedelimb E.}*},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego, CA, USA}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \strng{namehash}{18ef82624e6506054bcde7e25f46199b}
+      \strng{fullhash}{18ef82624e6506054bcde7e25f46199b}
+      \strng{bibnamehash}{18ef82624e6506054bcde7e25f46199b}
+      \strng{authorbibnamehash}{18ef82624e6506054bcde7e25f46199b}
+      \strng{authornamehash}{18ef82624e6506054bcde7e25f46199b}
+      \strng{authorfullhash}{18ef82624e6506054bcde7e25f46199b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Conference on Statistical Practice}
+      \field{month}{2}
+      \field{note}{Contributed Poster}
+      \field{title}{Visualizing Linked Data Sources for the National Children's Study}
+      \field{year}{2016}
+      \keyw{poster}
+    \endentry
+    \entry{wis2014}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=627009a853194290393c3b2b55e82800}{%
+           family={Genschel},
+           familyi={G\bibinitperiod},
+           given={Ulrike},
+           giveni={U\bibinitperiod}}}%
+        {{hash=4acd63a2db9e48e51b5ad1deae819749}{%
+           family={Carriquiry},
+           familyi={C\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1c144cbb8890c674b8815da5a3405ca1}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={Elgin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1f154bf97c99ffbab80d5b2c484b9293}{%
+           family={Kliemann},
+           familyi={K\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=5da2e3f21c389ddad7ab3e07d9708859}{%
+           family={Koehler},
+           familyi={K\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3a1848c907db2a8c8db31074a2428450}{%
+           family={Mouzon},
+           familyi={M\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+        {{hash=9af42aaec08872674e668c3a9833cf3b}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Xuan\bibnamedelima Hien},
+           giveni={X\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cary, NC, USA}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \strng{namehash}{77bf9557f1ed815b96072dc1f620d659}
+      \strng{fullhash}{fe40aab7d2abcec968261fbbfa30bb2b}
+      \strng{bibnamehash}{fe40aab7d2abcec968261fbbfa30bb2b}
+      \strng{authorbibnamehash}{fe40aab7d2abcec968261fbbfa30bb2b}
+      \strng{authornamehash}{77bf9557f1ed815b96072dc1f620d659}
+      \strng{authorfullhash}{fe40aab7d2abcec968261fbbfa30bb2b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Women in Statistics Conference}
+      \field{month}{5}
+      \field{note}{Student Poster}
+      \field{title}{Mathematical Self-Efficacy of Incoming Students at a Large Public University}
+      \field{year}{2014}
+      \keyw{poster}
+    \endentry
+    \entry{dataexpo2013}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=20bc608eb3d6a563c382856efb078458}{%
+           family={Hare},
+           familyi={H\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Montreal, QC, Canada}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \strng{namehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{fullhash}{e79fd52508d962dc25010311a37ac396}
+      \strng{bibnamehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{authorbibnamehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{authornamehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{authorfullhash}{e79fd52508d962dc25010311a37ac396}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Joint Statistical Meetings}
+      \field{month}{8}
+      \field{note}{Data Exposition Poster}
+      \field{title}{Putting Down Roots: A Graphical Exploration of Community Attachment}
+      \field{year}{2013}
+      \keyw{poster}
+    \endentry
+    \entry{jsm2013}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=10b8ae21e452b40e87f20196c29dfe37}{%
+           family={{Hare,\bibnamedelimb E.}*},
+           familyi={H\bibinitperiod}}}%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Montreal, QC, Canada}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \strng{namehash}{64f0d0f5dd4d648a2ff2229bfe026a39}
+      \strng{fullhash}{64f0d0f5dd4d648a2ff2229bfe026a39}
+      \strng{bibnamehash}{64f0d0f5dd4d648a2ff2229bfe026a39}
+      \strng{authorbibnamehash}{64f0d0f5dd4d648a2ff2229bfe026a39}
+      \strng{authornamehash}{64f0d0f5dd4d648a2ff2229bfe026a39}
+      \strng{authorfullhash}{64f0d0f5dd4d648a2ff2229bfe026a39}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Joint Statistical Meetings}
+      \field{month}{8}
+      \field{note}{Contributed Poster}
+      \field{title}{Can you buy a president? Politics after the Tillman Act}
+      \field{year}{2013}
+      \keyw{poster}
+    \endentry
+    \entry{bayescomp2020}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=3c1fc8c229e36181b1e72f948f2a7f46}{%
+           family={Betancourt},
+           familyi={B\bibinitperiod},
+           given={Brenda},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e0aed6d10ec575ba8318d5e716354fd2}{%
+           family={Steorts},
+           familyi={S\bibinitperiod},
+           given={Rebecca\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Gainesville, FL, USA}%
+      }
+      \list{organization}{1}{%
+        {ISBA}%
+      }
+      \strng{namehash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{fullhash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{bibnamehash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{authorbibnamehash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{authornamehash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{authorfullhash}{113755f8cba048001b935188fb3ff2e9}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Bayes Comp}
+      \field{month}{1}
+      \field{note}{Invited Session}
+      \field{title}{Life after record linkage: Tackling the downstream task with error propagation}
+      \field{year}{2020}
+      \keyw{talk-invited}
+    \endentry
+    \entry{cmstat2019}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=3c1fc8c229e36181b1e72f948f2a7f46}{%
+           family={Betancourt},
+           familyi={B\bibinitperiod},
+           given={Brenda},
+           giveni={B\bibinitperiod}}}%
+        {{hash=e0aed6d10ec575ba8318d5e716354fd2}{%
+           family={Steorts},
+           familyi={S\bibinitperiod},
+           given={Rebecca\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London, UK}%
+      }
+      \list{organization}{2}{%
+        {European Research Consortium for Informatics}%
+        {Mathematics}%
+      }
+      \strng{namehash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{fullhash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{bibnamehash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{authorbibnamehash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{authornamehash}{113755f8cba048001b935188fb3ff2e9}
+      \strng{authorfullhash}{113755f8cba048001b935188fb3ff2e9}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{12th International Conference of the ERCIM WG on Computational and Methodological Statistics}
+      \field{month}{12}
+      \field{note}{Organized Invited Session}
+      \field{title}{Posterior Prototyping for Bayesian Entity Resolution}
+      \field{year}{2019}
+      \keyw{talk-invited}
+    \endentry
+    \entry{jsm2019}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=20bc608eb3d6a563c382856efb078458}{%
+           family={Hare},
+           familyi={H\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Denver, CO, USA}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \strng{namehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{fullhash}{e79fd52508d962dc25010311a37ac396}
+      \strng{bibnamehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{authorbibnamehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{authornamehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{authorfullhash}{e79fd52508d962dc25010311a37ac396}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Joint Statistical Meetings}
+      \field{month}{7}
+      \field{note}{Invited Session}
+      \field{title}{Designing Modular Software: a Case Study in Introductory Statistics}
+      \field{year}{2019}
+      \keyw{talk-invited}
+    \endentry
+    \entry{vizfriday2019}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Durham, NC, USA}%
+      }
+      \list{organization}{1}{%
+        {Duke University, Department of Computer Science}%
+      }
+      \strng{namehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{fullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{bibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorbibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authornamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorfullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Visualization Friday Forum}
+      \field{month}{4}
+      \field{title}{A Cornucopia of Interactive Graphics with Shiny and D3}
+      \field{year}{2019}
+      \keyw{talk-invited}
+    \endentry
+    \entry{uci2019}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Irvine, CA, USA}%
+      }
+      \list{organization}{1}{%
+        {The University of California Irvine, Department of Statistics}%
+      }
+      \strng{namehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{fullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{bibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorbibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authornamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorfullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Invited Seminar}
+      \field{month}{2}
+      \field{title}{Life After Record Linkage: Tackling the Downstream Task with Error Propagation}
+      \field{year}{2019}
+      \keyw{talk-invited}
+    \endentry
+    \entry{uk2019}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lexington, KY, USA}%
+      }
+      \list{organization}{1}{%
+        {The University of Kentucky, Department of Statistics}%
+      }
+      \strng{namehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{fullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{bibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorbibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authornamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorfullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Invited Seminar}
+      \field{month}{2}
+      \field{title}{Life After Record Linkage: Tackling the Downstream Task with Error Propagation}
+      \field{year}{2019}
+      \keyw{talk-invited}
+    \endentry
+    \entry{psu2019}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {State College, PA, USA}%
+      }
+      \list{organization}{1}{%
+        {The Pennsylvania State University, Department of Statistics}%
+      }
+      \strng{namehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{fullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{bibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorbibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authornamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorfullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Invited Seminar}
+      \field{month}{2}
+      \field{title}{Life After Record Linkage: Tackling the Downstream Task with Error Propagation}
+      \field{year}{2019}
+      \keyw{talk-invited}
+    \endentry
+    \entry{vtech2019}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Blacksburg, VA, USA}%
+      }
+      \list{organization}{1}{%
+        {Virginia Tech University, Department of Statistics}%
+      }
+      \strng{namehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{fullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{bibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorbibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authornamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorfullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Invited Seminar}
+      \field{month}{2}
+      \field{title}{Life After Record Linkage: Tackling the Downstream Task with Error Propagation}
+      \field{year}{2019}
+      \keyw{talk-invited}
+    \endentry
+    \entry{uw2019}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Madison, WI, USA}%
+      }
+      \list{organization}{1}{%
+        {The University of Wisconsin, Department of Statistics}%
+      }
+      \strng{namehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{fullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{bibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorbibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authornamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorfullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Invited Seminar}
+      \field{month}{2}
+      \field{title}{Life After Record Linkage: Tackling the Downstream Task with Error Propagation}
+      \field{year}{2019}
+      \keyw{talk-invited}
+    \endentry
+    \entry{csu2019}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Fort Collins, CO, USA}%
+      }
+      \list{organization}{1}{%
+        {Colorado State University, Department of Statistics}%
+      }
+      \strng{namehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{fullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{bibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorbibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authornamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorfullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Invited Seminar}
+      \field{month}{1}
+      \field{title}{Life After Record Linkage: Tackling the Downstream Task with Error Propagation}
+      \field{year}{2019}
+      \keyw{talk-invited}
+    \endentry
+    \entry{ut2019}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Austin, TX, USA}%
+      }
+      \list{organization}{2}{%
+        {The University of Texas at Austin, Department of Statistics}%
+        {Data Science}%
+      }
+      \strng{namehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{fullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{bibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorbibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authornamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorfullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Invited Seminar}
+      \field{month}{1}
+      \field{title}{Life After Record Linkage: Tackling the Downstream Task with Error Propagation}
+      \field{year}{2019}
+      \keyw{talk-invited}
+    \endentry
+    \entry{stanford2019}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stanford, CA, USA}%
+      }
+      \list{organization}{1}{%
+        {Stanford University, Department of Statistics}%
+      }
+      \strng{namehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{fullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{bibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorbibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authornamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorfullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Invited Seminar}
+      \field{month}{1}
+      \field{title}{Life After Record Linkage: Tackling the Downstream Task with Error Propagation}
+      \field{year}{2019}
+      \keyw{talk-invited}
+    \endentry
+    \entry{monash2019}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Melbourne, VIC, Australia}%
+      }
+      \list{organization}{2}{%
+        {Monash University, Department of Econometrics}%
+        {Business Statistics}%
+      }
+      \strng{namehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{fullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{bibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorbibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authornamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorfullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Invited Seminar}
+      \field{month}{1}
+      \field{title}{Life After Record Linkage: Tackling the Downstream Task with Error Propagation}
+      \field{year}{2019}
+      \keyw{talk-invited}
+    \endentry
+    \entry{tamu2018}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {College Station, TX, USA}%
+      }
+      \list{organization}{1}{%
+        {Texas A\&M University, Department of Statistics}%
+      }
+      \strng{namehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{fullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{bibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorbibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authornamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorfullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Invited Seminar}
+      \field{month}{11}
+      \field{title}{Life After Record Linkage: Tackling the Downstream Task with Error Propagation}
+      \field{year}{2018}
+      \keyw{talk-invited}
+    \endentry
+    \entry{ncsu2018}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Raleigh, NC, USA}%
+      }
+      \list{organization}{1}{%
+        {North Carolina State University, Department of Statistics}%
+      }
+      \strng{namehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{fullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{bibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorbibnamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authornamehash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \strng{authorfullhash}{be02c361c4cb7f4b38dfc0c42a5072b5}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Invited Seminar}
+      \field{month}{10}
+      \field{title}{Life After Record Linkage: Tackling the Downstream Task with Error Propagation}
+      \field{year}{2018}
+      \keyw{talk-invited}
+    \endentry
+    \entry{ties2018}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=c380bf1479634cfa298d97408b2ba4d2}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4e9bb0ee29de726a96aa3a1995662e74}{%
+           family={Lahiri},
+           familyi={L\bibinitperiod},
+           given={Soumendra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Guanajuato, Gto., Mexico}%
+      }
+      \list{organization}{1}{%
+        {The 28th Annual Conference of the International Envirometrics Society}%
+      }
+      \strng{namehash}{77bf9557f1ed815b96072dc1f620d659}
+      \strng{fullhash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{bibnamehash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{authorbibnamehash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{authornamehash}{77bf9557f1ed815b96072dc1f620d659}
+      \strng{authorfullhash}{d056153d35ec95d90a9c82b800ac9297}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Invited Session}
+      \field{month}{7}
+      \field{title}{A Fast Sampler for Data Simulation from Markov Random Fields}
+      \field{year}{2018}
+      \keyw{talk-invited}
+    \endentry
+    \entry{msmlc2018}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cd5e8659b35c629f9667c06858878d58}{%
+           family={Vardeman},
+           familyi={V\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ames, IA, USA}%
+      }
+      \list{organization}{1}{%
+        {The 1st Midwest Statistical Machine Learning Colloquium}%
+      }
+      \strng{namehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{fullhash}{8e8620282251abc3b39563864f4b9310}
+      \strng{bibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorbibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authornamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorfullhash}{8e8620282251abc3b39563864f4b9310}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Keynote}
+      \field{month}{5}
+      \field{title}{Model matters with restricted Boltzmann Machines}
+      \field{year}{2018}
+      \keyw{talk-invited}
+    \endentry
+    \entry{isu2018}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=c380bf1479634cfa298d97408b2ba4d2}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4e9bb0ee29de726a96aa3a1995662e74}{%
+           family={Lahiri},
+           familyi={L\bibinitperiod},
+           given={Soumendra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ames, IA, USA}%
+      }
+      \list{organization}{1}{%
+        {Iowa State University, Department of Statistics}%
+      }
+      \strng{namehash}{77bf9557f1ed815b96072dc1f620d659}
+      \strng{fullhash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{bibnamehash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{authorbibnamehash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{authornamehash}{77bf9557f1ed815b96072dc1f620d659}
+      \strng{authorfullhash}{d056153d35ec95d90a9c82b800ac9297}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Statistics Seminar}
+      \field{month}{1}
+      \field{title}{A simple, fast sampler for simulating spatial data and other Markovian data structures}
+      \field{year}{2018}
+      \keyw{talk-invited}
+    \endentry
+    \entry{ncsu2017}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=c380bf1479634cfa298d97408b2ba4d2}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4e9bb0ee29de726a96aa3a1995662e74}{%
+           family={Lahiri},
+           familyi={L\bibinitperiod},
+           given={Soumendra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Raleigh, NC, USA}%
+      }
+      \list{organization}{1}{%
+        {North Carolina State University, Department of Statistics}%
+      }
+      \strng{namehash}{77bf9557f1ed815b96072dc1f620d659}
+      \strng{fullhash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{bibnamehash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{authorbibnamehash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{authornamehash}{77bf9557f1ed815b96072dc1f620d659}
+      \strng{authorfullhash}{d056153d35ec95d90a9c82b800ac9297}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Statistics Seminar}
+      \field{month}{11}
+      \field{title}{A simple, fast sampler for simulating spatial data and other Markovian data structures}
+      \field{year}{2017}
+      \keyw{talk-invited}
+    \endentry
+    \entry{cimat2017}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=c380bf1479634cfa298d97408b2ba4d2}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4e9bb0ee29de726a96aa3a1995662e74}{%
+           family={Lahiri},
+           familyi={L\bibinitperiod},
+           given={Soumendra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Guanajuato, Gto., Mexico}%
+      }
+      \list{organization}{1}{%
+        {Centro de Investigación en Matemáticas}%
+      }
+      \strng{namehash}{77bf9557f1ed815b96072dc1f620d659}
+      \strng{fullhash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{bibnamehash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{authorbibnamehash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{authornamehash}{77bf9557f1ed815b96072dc1f620d659}
+      \strng{authorfullhash}{d056153d35ec95d90a9c82b800ac9297}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Computer Science Seminar}
+      \field{month}{10}
+      \field{title}{A simple, fast sampler for simulating spatial data and other Markovian data structures}
+      \field{year}{2017}
+      \keyw{talk-invited}
+    \endentry
+    \entry{duke2017}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=c380bf1479634cfa298d97408b2ba4d2}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4e9bb0ee29de726a96aa3a1995662e74}{%
+           family={Lahiri},
+           familyi={L\bibinitperiod},
+           given={Soumendra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Durham, NC, USA}%
+      }
+      \list{organization}{1}{%
+        {Duke University, Department of Statistical Science}%
+      }
+      \strng{namehash}{77bf9557f1ed815b96072dc1f620d659}
+      \strng{fullhash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{bibnamehash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{authorbibnamehash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{authornamehash}{77bf9557f1ed815b96072dc1f620d659}
+      \strng{authorfullhash}{d056153d35ec95d90a9c82b800ac9297}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Colloquium}
+      \field{month}{4}
+      \field{title}{A simple, fast sampler for simulating spatial data and other Markovian data structures}
+      \field{year}{2017}
+      \keyw{talk-invited}
+    \endentry
+    \entry{msu2017}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cd5e8659b35c629f9667c06858878d58}{%
+           family={Vardeman},
+           familyi={V\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {East Lansing, MI, USA}%
+      }
+      \list{organization}{2}{%
+        {Michigan State University, Department of Statistics}%
+        {Probability}%
+      }
+      \strng{namehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{fullhash}{8e8620282251abc3b39563864f4b9310}
+      \strng{bibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorbibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authornamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorfullhash}{8e8620282251abc3b39563864f4b9310}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Colloquium}
+      \field{month}{2}
+      \field{title}{Model matters with restricted Boltzmann Machines}
+      \field{year}{2017}
+      \keyw{talk-invited}
+    \endentry
+    \entry{uiuc2017}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cd5e8659b35c629f9667c06858878d58}{%
+           family={Vardeman},
+           familyi={V\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chapaign, IL, USA}%
+      }
+      \list{organization}{1}{%
+        {University of Illinois, Urbana-Champaign, Department of Statistics}%
+      }
+      \strng{namehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{fullhash}{8e8620282251abc3b39563864f4b9310}
+      \strng{bibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorbibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authornamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorfullhash}{8e8620282251abc3b39563864f4b9310}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Colloquium}
+      \field{month}{2}
+      \field{title}{Model matters with restricted Boltzmann Machines}
+      \field{year}{2017}
+      \keyw{talk-invited}
+    \endentry
+    \entry{ufl2017}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cd5e8659b35c629f9667c06858878d58}{%
+           family={Vardeman},
+           familyi={V\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Gainesville, FL, USA}%
+      }
+      \list{organization}{1}{%
+        {University of Florida, Department of Statistics}%
+      }
+      \strng{namehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{fullhash}{8e8620282251abc3b39563864f4b9310}
+      \strng{bibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorbibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authornamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorfullhash}{8e8620282251abc3b39563864f4b9310}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Colloquium}
+      \field{month}{2}
+      \field{title}{Model matters with restricted Boltzmann Machines}
+      \field{year}{2017}
+      \keyw{talk-invited}
+    \endentry
+    \entry{rice2017}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cd5e8659b35c629f9667c06858878d58}{%
+           family={Vardeman},
+           familyi={V\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Houston, TX, USA}%
+      }
+      \list{organization}{1}{%
+        {Rice University, Department of Statistics}%
+      }
+      \strng{namehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{fullhash}{8e8620282251abc3b39563864f4b9310}
+      \strng{bibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorbibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authornamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorfullhash}{8e8620282251abc3b39563864f4b9310}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Colloquium}
+      \field{month}{1}
+      \field{title}{Model matters with restricted Boltzmann Machines}
+      \field{year}{2017}
+      \keyw{talk-invited}
+    \endentry
+    \entry{uva2017}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cd5e8659b35c629f9667c06858878d58}{%
+           family={Vardeman},
+           familyi={V\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Charlottesville, VA, USA}%
+      }
+      \list{organization}{1}{%
+        {University of Virginia, Department of Statistics}%
+      }
+      \strng{namehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{fullhash}{8e8620282251abc3b39563864f4b9310}
+      \strng{bibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorbibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authornamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorfullhash}{8e8620282251abc3b39563864f4b9310}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Colloquium}
+      \field{month}{1}
+      \field{title}{Model matters with restricted Boltzmann Machines}
+      \field{year}{2017}
+      \keyw{talk-invited}
+    \endentry
+    \entry{asu2017}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cd5e8659b35c629f9667c06858878d58}{%
+           family={Vardeman},
+           familyi={V\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Tempe, AZ, USA}%
+      }
+      \list{organization}{2}{%
+        {Arizona State University, School of Mathematical}%
+        {Statistical Sciences}%
+      }
+      \strng{namehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{fullhash}{8e8620282251abc3b39563864f4b9310}
+      \strng{bibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorbibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authornamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorfullhash}{8e8620282251abc3b39563864f4b9310}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Colloquium}
+      \field{month}{1}
+      \field{title}{Model matters with restricted Boltzmann Machines}
+      \field{year}{2017}
+      \keyw{talk-invited}
+    \endentry
+    \entry{umass2016}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cd5e8659b35c629f9667c06858878d58}{%
+           family={Vardeman},
+           familyi={V\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amherst, MA, USA}%
+      }
+      \list{organization}{1}{%
+        {University of Massachussetts, Amherst, Department of Mathematics \& Statistics}%
+      }
+      \strng{namehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{fullhash}{8e8620282251abc3b39563864f4b9310}
+      \strng{bibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorbibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authornamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorfullhash}{8e8620282251abc3b39563864f4b9310}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Colloquium}
+      \field{month}{12}
+      \field{title}{Model matters with restricted Boltzmann Machines}
+      \field{year}{2016}
+      \keyw{talk-invited}
+    \endentry
+    \entry{cmstat2015}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London, UK}%
+      }
+      \list{organization}{2}{%
+        {European Research Consortium for Informatics}%
+        {Mathematics}%
+      }
+      \strng{namehash}{c8b3046dc525b955fc253e0edc9216e5}
+      \strng{fullhash}{c8b3046dc525b955fc253e0edc9216e5}
+      \strng{bibnamehash}{c8b3046dc525b955fc253e0edc9216e5}
+      \strng{authorbibnamehash}{c8b3046dc525b955fc253e0edc9216e5}
+      \strng{authornamehash}{c8b3046dc525b955fc253e0edc9216e5}
+      \strng{authorfullhash}{c8b3046dc525b955fc253e0edc9216e5}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{8th International Conference of the ERCIM WG on Computational and Methodological Statistics}
+      \field{month}{12}
+      \field{note}{Organized Invited Session}
+      \field{title}{Goodness-of-Fit Tests for Spatial Markov Random Fields}
+      \field{year}{2015}
+      \keyw{talk-invited}
+    \endentry
+    \entry{seminar2015}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=10b8ae21e452b40e87f20196c29dfe37}{%
+           family={{Hare,\bibnamedelimb E.}*},
+           familyi={H\bibinitperiod}}}%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Ames, IA, USA}%
+      }
+      \list{organization}{1}{%
+        {Iowa State University, Department of Statistics}%
+      }
+      \strng{namehash}{872da2ed9b9f6561d179f5588d1088e0}
+      \strng{fullhash}{872da2ed9b9f6561d179f5588d1088e0}
+      \strng{bibnamehash}{872da2ed9b9f6561d179f5588d1088e0}
+      \strng{authorbibnamehash}{872da2ed9b9f6561d179f5588d1088e0}
+      \strng{authornamehash}{872da2ed9b9f6561d179f5588d1088e0}
+      \strng{authorfullhash}{872da2ed9b9f6561d179f5588d1088e0}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Departmental Seminar}
+      \field{month}{1}
+      \field{title}{intRo: Statistical Analysis Software for Teaching}
+      \field{year}{2015}
+      \keyw{talk-invited}
+    \endentry
+    \entry{census2013}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=10b8ae21e452b40e87f20196c29dfe37}{%
+           family={{Hare,\bibnamedelimb E.}*},
+           familyi={H\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington, D.C., USA}%
+      }
+      \list{organization}{1}{%
+        {U.S. Census Bureau}%
+      }
+      \strng{namehash}{e75fb7faaa74ccb1a967e99a65173f29}
+      \strng{fullhash}{e75fb7faaa74ccb1a967e99a65173f29}
+      \strng{bibnamehash}{e75fb7faaa74ccb1a967e99a65173f29}
+      \strng{authorbibnamehash}{e75fb7faaa74ccb1a967e99a65173f29}
+      \strng{authornamehash}{e75fb7faaa74ccb1a967e99a65173f29}
+      \strng{authorfullhash}{e75fb7faaa74ccb1a967e99a65173f29}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Census Data Visualization Seminar}
+      \field{month}{9}
+      \field{title}{Putting Down Roots: A Graphical Exploration of Community Attachment}
+      \field{year}{2013}
+      \keyw{talk-invited}
+    \endentry
+    \entry{jsm2018}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=e0aed6d10ec575ba8318d5e716354fd2}{%
+           family={Steorts},
+           familyi={S\bibinitperiod},
+           given={Rebecca\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vancouver, BC, Canada}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \strng{namehash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{fullhash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{bibnamehash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{authorbibnamehash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{authornamehash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{authorfullhash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Joint Statistical Meetings}
+      \field{month}{7}
+      \field{note}{Topic Contributed Paper}
+      \field{title}{Counting Casualties in the Syrian Civil War with Bayesian Record Linkage}
+      \field{year}{2018}
+      \keyw{talk-contributed}
+    \endentry
+    \entry{isba2018}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=e0aed6d10ec575ba8318d5e716354fd2}{%
+           family={Steorts},
+           familyi={S\bibinitperiod},
+           given={Rebecca\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh, UK}%
+      }
+      \list{organization}{1}{%
+        {ISBA}%
+      }
+      \strng{namehash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{fullhash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{bibnamehash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{authorbibnamehash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{authornamehash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \strng{authorfullhash}{1ac45b1d5e6ad9174fd84926a6a40083}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ISBA World Meeting}
+      \field{month}{6}
+      \field{note}{Contributed Member Paper}
+      \field{title}{Population Sized Graphical Record Linkage}
+      \field{year}{2018}
+      \keyw{talk-contributed}
+    \endentry
+    \entry{jsm2017}{inproceedings}{}
+      \name{author}{4}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=c380bf1479634cfa298d97408b2ba4d2}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4e9bb0ee29de726a96aa3a1995662e74}{%
+           family={Lahiri},
+           familyi={L\bibinitperiod},
+           given={Soumendra},
+           giveni={S\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Baltimore, MD, USA}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \strng{namehash}{77bf9557f1ed815b96072dc1f620d659}
+      \strng{fullhash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{bibnamehash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{authorbibnamehash}{d056153d35ec95d90a9c82b800ac9297}
+      \strng{authornamehash}{77bf9557f1ed815b96072dc1f620d659}
+      \strng{authorfullhash}{d056153d35ec95d90a9c82b800ac9297}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Joint Statistical Meetings}
+      \field{month}{8}
+      \field{note}{Contributed Paper}
+      \field{title}{A Simple, Fast Sampler for Simulating Spatial Data and Other Markovian Data Structures}
+      \field{year}{2017}
+      \keyw{talk-contributed}
+    \endentry
+    \entry{jsm2016}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=cd5e8659b35c629f9667c06858878d58}{%
+           family={Vardeman},
+           familyi={V\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Chicago, IL, USA}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \strng{namehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{fullhash}{8e8620282251abc3b39563864f4b9310}
+      \strng{bibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorbibnamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authornamehash}{8e8620282251abc3b39563864f4b9310}
+      \strng{authorfullhash}{8e8620282251abc3b39563864f4b9310}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Joint Statistical Meetings}
+      \field{month}{7}
+      \field{note}{Contributed Paper}
+      \field{title}{An exposition on the propriety of restricted Boltzmann machines}
+      \field{year}{2016}
+      \keyw{talk-contributed}
+    \endentry
+    \entry{user2016}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=20bc608eb3d6a563c382856efb078458}{%
+           family={Hare},
+           familyi={H\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stanford, CA, USA}%
+      }
+      \strng{namehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{fullhash}{e79fd52508d962dc25010311a37ac396}
+      \strng{bibnamehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{authorbibnamehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{authornamehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{authorfullhash}{e79fd52508d962dc25010311a37ac396}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The R User Conference}
+      \field{month}{6}
+      \field{note}{Contributed Paper}
+      \field{title}{Introducing Statistics with intRo}
+      \field{year}{2016}
+      \keyw{talk-contributed}
+    \endentry
+    \entry{jsm2015}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=20bc608eb3d6a563c382856efb078458}{%
+           family={Hare},
+           familyi={H\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Seattle, WA, USA}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \strng{namehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{fullhash}{e79fd52508d962dc25010311a37ac396}
+      \strng{bibnamehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{authorbibnamehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{authornamehash}{e79fd52508d962dc25010311a37ac396}
+      \strng{authorfullhash}{e79fd52508d962dc25010311a37ac396}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Joint Statistical Meetings}
+      \field{month}{8}
+      \field{note}{Topic Contributed Paper}
+      \field{title}{Introducing Statistics with intRo}
+      \field{year}{2015}
+      \keyw{talk-contributed}
+    \endentry
+    \entry{jsm2015-2}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=10b8ae21e452b40e87f20196c29dfe37}{%
+           family={{Hare,\bibnamedelimb E.}*},
+           familyi={H\bibinitperiod}}}%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Seattle, WA, USA}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \strng{namehash}{64f0d0f5dd4d648a2ff2229bfe026a39}
+      \strng{fullhash}{64f0d0f5dd4d648a2ff2229bfe026a39}
+      \strng{bibnamehash}{64f0d0f5dd4d648a2ff2229bfe026a39}
+      \strng{authorbibnamehash}{64f0d0f5dd4d648a2ff2229bfe026a39}
+      \strng{authornamehash}{64f0d0f5dd4d648a2ff2229bfe026a39}
+      \strng{authorfullhash}{64f0d0f5dd4d648a2ff2229bfe026a39}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Joint Statistical Meetings}
+      \field{month}{8}
+      \field{note}{Contributed Paper}
+      \field{title}{IntRo: Software for Introductory Statistics}
+      \field{year}{2015}
+      \keyw{talk-contributed}
+    \endentry
+    \entry{jsm2014}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=be02c361c4cb7f4b38dfc0c42a5072b5}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={\\bibinitperiod}}}%
+        {{hash=aab385203b295bcea3e72bd9a22eebae}{%
+           family={Hofmann},
+           familyi={H\bibinitperiod},
+           given={Heike},
+           giveni={H\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA, USA}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \strng{namehash}{291ff3ffb45c93f8b945715076d23a18}
+      \strng{fullhash}{291ff3ffb45c93f8b945715076d23a18}
+      \strng{bibnamehash}{291ff3ffb45c93f8b945715076d23a18}
+      \strng{authorbibnamehash}{291ff3ffb45c93f8b945715076d23a18}
+      \strng{authornamehash}{291ff3ffb45c93f8b945715076d23a18}
+      \strng{authorfullhash}{291ff3ffb45c93f8b945715076d23a18}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Joint Statistical Meetings}
+      \field{month}{8}
+      \field{note}{Contributed Paper}
+      \field{title}{gravicom - A web-based tool for community detection in networks}
+      \field{year}{2014}
+      \keyw{talk-contributed}
+    \endentry
+    \entry{jsm2014-2}{inproceedings}{}
+      \name{author}{8}{}{%
+        {{hash=9602bdee813823ee48e0891bce655cfa}{%
+           family={{Mouzon,\bibnamedelimb I.}*},
+           familyi={M\bibinitperiod}}}%
+        {{hash=627009a853194290393c3b2b55e82800}{%
+           family={Genschel},
+           familyi={G\bibinitperiod},
+           given={Ulrike},
+           giveni={U\bibinitperiod}}}%
+        {{hash=4acd63a2db9e48e51b5ad1deae819749}{%
+           family={Carriquiry},
+           familyi={C\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9af42aaec08872674e668c3a9833cf3b}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Xuan\bibnamedelima Hien},
+           giveni={X\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=1c144cbb8890c674b8815da5a3405ca1}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={Elgin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1f154bf97c99ffbab80d5b2c484b9293}{%
+           family={Kliemann},
+           familyi={K\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=5da2e3f21c389ddad7ab3e07d9708859}{%
+           family={Koehler},
+           familyi={K\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA, USA}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \strng{namehash}{161015821d653bb1db36bdf64879e54c}
+      \strng{fullhash}{df39e7561c27bdf5a30c0dd6785d4145}
+      \strng{bibnamehash}{df39e7561c27bdf5a30c0dd6785d4145}
+      \strng{authorbibnamehash}{df39e7561c27bdf5a30c0dd6785d4145}
+      \strng{authornamehash}{161015821d653bb1db36bdf64879e54c}
+      \strng{authorfullhash}{df39e7561c27bdf5a30c0dd6785d4145}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Joint Statistical Meetings}
+      \field{month}{8}
+      \field{note}{Contributed Paper}
+      \field{title}{Early College Performance, Gender, and Other Factors Influencing Continuation in STEM Fields}
+      \field{year}{2014}
+      \keyw{talk-contributed}
+    \endentry
+    \entry{jsm2014-3}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=11ef145aa7446a4bc8a752d854a065ea}{%
+           family={{Genschel,\bibnamedelimb U.}*},
+           familyi={G\bibinitperiod}}}%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=4acd63a2db9e48e51b5ad1deae819749}{%
+           family={Carriquiry},
+           familyi={C\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1c144cbb8890c674b8815da5a3405ca1}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={Elgin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1f154bf97c99ffbab80d5b2c484b9293}{%
+           family={Kliemann},
+           familyi={K\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=5da2e3f21c389ddad7ab3e07d9708859}{%
+           family={Koehler},
+           familyi={K\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3a1848c907db2a8c8db31074a2428450}{%
+           family={Mouzon},
+           familyi={M\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, MA, USA}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \strng{namehash}{af3e00b1c89ad695329280f59baea9c1}
+      \strng{fullhash}{847f33e13e0c925a95caacb969aa5c38}
+      \strng{bibnamehash}{847f33e13e0c925a95caacb969aa5c38}
+      \strng{authorbibnamehash}{847f33e13e0c925a95caacb969aa5c38}
+      \strng{authornamehash}{af3e00b1c89ad695329280f59baea9c1}
+      \strng{authorfullhash}{847f33e13e0c925a95caacb969aa5c38}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Joint Statistical Meetings}
+      \field{month}{8}
+      \field{note}{Contributed Paper}
+      \field{title}{Statistical and Mathematical Self-Efficacy of Incoming Students at a Large Public University}
+      \field{year}{2014}
+      \keyw{talk-contributed}
+    \endentry
+    \entry{icots9}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=11ef145aa7446a4bc8a752d854a065ea}{%
+           family={{Genschel,\bibnamedelimb U.}*},
+           familyi={G\bibinitperiod}}}%
+        {{hash=82b8869c8fab6ed379da5c94e1ce0875}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={\\bibinitperiod}}}%
+        {{hash=4acd63a2db9e48e51b5ad1deae819749}{%
+           family={Carriquiry},
+           familyi={C\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1c144cbb8890c674b8815da5a3405ca1}{%
+           family={Johnston},
+           familyi={J\bibinitperiod},
+           given={Elgin},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1f154bf97c99ffbab80d5b2c484b9293}{%
+           family={Kliemann},
+           familyi={K\bibinitperiod},
+           given={Wolfgang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=5da2e3f21c389ddad7ab3e07d9708859}{%
+           family={Koehler},
+           familyi={K\bibinitperiod},
+           given={Kenneth},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3a1848c907db2a8c8db31074a2428450}{%
+           family={Mouzon},
+           familyi={M\bibinitperiod},
+           given={Ian},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Flagstaff, AZ, USA}%
+      }
+      \strng{namehash}{af3e00b1c89ad695329280f59baea9c1}
+      \strng{fullhash}{847f33e13e0c925a95caacb969aa5c38}
+      \strng{bibnamehash}{847f33e13e0c925a95caacb969aa5c38}
+      \strng{authorbibnamehash}{847f33e13e0c925a95caacb969aa5c38}
+      \strng{authornamehash}{af3e00b1c89ad695329280f59baea9c1}
+      \strng{authorfullhash}{847f33e13e0c925a95caacb969aa5c38}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Ninth International Conference on Teaching Statistics}
+      \field{month}{7}
+      \field{note}{Contributed Paper}
+      \field{title}{Statistical and Mathematical Self-Efficacy of Incoming Students at a Large Public University}
+      \field{year}{2014}
+      \keyw{talk-contributed}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
