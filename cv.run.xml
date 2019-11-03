@@ -79,9 +79,9 @@
       <file>cv.bcf</file>
     </requires>
     <requires type="editable">
-      <file>../bib/papers.bib</file>
-      <file>../bib/posters.bib</file>
-      <file>../bib/talks.bib</file>
+      <file>bib/papers.bib</file>
+      <file>bib/posters.bib</file>
+      <file>bib/talks.bib</file>
     </requires>
   </external>
 </requests>
