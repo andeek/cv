@@ -1,75 +1,76 @@
 [0] Config.pm:304> INFO - This is Biber 2.12
 [0] Config.pm:307> INFO - Logfile is 'cv.blg'
-[34] biber-darwin:315> INFO - === Sun Nov  3, 2019, 11:19:12
-[51] Biber.pm:371> INFO - Reading 'cv.bcf'
-[134] Biber.pm:886> INFO - Using all citekeys in bib section 0
-[145] Biber.pm:4093> INFO - Processing section 0
-[156] Biber.pm:4254> INFO - Looking for bibtex format file 'bib/papers.bib' for section 0
-[158] bibtex.pm:1523> INFO - LaTeX decoding ...
-[178] bibtex.pm:1340> INFO - Found BibTeX data source 'bib/papers.bib'
-[235] Utils.pm:193> WARN - year field 'in prep' in entry 'kaplan2018posterior' is not an integer - this will probably not sort properly.
-[248] Utils.pm:193> WARN - year field 'in review' in entry 'kaplan2016note' is not an integer - this will probably not sort properly.
-[267] Biber.pm:4254> INFO - Looking for bibtex format file 'bib/posters.bib' for section 0
-[268] bibtex.pm:1523> INFO - LaTeX decoding ...
-[282] bibtex.pm:1340> INFO - Found BibTeX data source 'bib/posters.bib'
-[290] Utils.pm:193> WARN - month field 'July 23--26' in entry 'nrc2019' is not an integer - this will probably not sort properly.
-[300] Utils.pm:193> WARN - month field 'May 15--17' in entry 'wis2014' is not an integer - this will probably not sort properly.
+[31] biber-darwin:315> INFO - === Tue Jan 28, 2020, 11:30:12
+[52] Biber.pm:371> INFO - Reading 'cv.bcf'
+[123] Biber.pm:886> INFO - Using all citekeys in bib section 0
+[135] Biber.pm:4093> INFO - Processing section 0
+[145] Biber.pm:4254> INFO - Looking for bibtex format file 'bib/papers.bib' for section 0
+[146] bibtex.pm:1523> INFO - LaTeX decoding ...
+[166] bibtex.pm:1340> INFO - Found BibTeX data source 'bib/papers.bib'
+[202] Utils.pm:193> WARN - year field '2020+' in entry 'kaplan2018posterior' is not an integer - this will probably not sort properly.
+[219] Utils.pm:193> WARN - year field '2020+' in entry 'marchant2019d' is not an integer - this will probably not sort properly.
+[244] Biber.pm:4254> INFO - Looking for bibtex format file 'bib/posters.bib' for section 0
+[245] bibtex.pm:1523> INFO - LaTeX decoding ...
+[260] bibtex.pm:1340> INFO - Found BibTeX data source 'bib/posters.bib'
+[264] Utils.pm:193> WARN - month field 'July 26--28' in entry 'nrc2018' is not an integer - this will probably not sort properly.
+[271] Utils.pm:193> WARN - month field 'February 18--20' in entry 'csp2016' is not an integer - this will probably not sort properly.
+[275] Utils.pm:193> WARN - month field 'August 3--8' in entry 'dataexpo2013' is not an integer - this will probably not sort properly.
+[286] Utils.pm:193> WARN - month field 'May 15--17' in entry 'wis2014' is not an integer - this will probably not sort properly.
+[294] Utils.pm:193> WARN - month field 'February 21--23' in entry 'fif2018' is not an integer - this will probably not sort properly.
+[299] Utils.pm:193> WARN - month field 'July 23--26' in entry 'nrc2019' is not an integer - this will probably not sort properly.
 [305] Utils.pm:193> WARN - month field 'March 2--4' in entry 'coda2016' is not an integer - this will probably not sort properly.
-[309] Utils.pm:193> WARN - month field 'July 26--28' in entry 'nrc2018' is not an integer - this will probably not sort properly.
-[315] Utils.pm:193> WARN - month field 'February 18--20' in entry 'csp2016' is not an integer - this will probably not sort properly.
-[319] Utils.pm:193> WARN - month field 'August 3--8' in entry 'jsm2013' is not an integer - this will probably not sort properly.
-[325] Utils.pm:193> WARN - month field 'February 21--23' in entry 'fif2018' is not an integer - this will probably not sort properly.
-[328] Utils.pm:193> WARN - month field 'August 3--8' in entry 'dataexpo2013' is not an integer - this will probably not sort properly.
-[329] Biber.pm:4254> INFO - Looking for bibtex format file 'bib/talks.bib' for section 0
-[331] bibtex.pm:1523> INFO - LaTeX decoding ...
-[392] bibtex.pm:1340> INFO - Found BibTeX data source 'bib/talks.bib'
-[400] Utils.pm:193> WARN - month field 'August 8--13' in entry 'jsm2015' is not an integer - this will probably not sort properly.
-[411] Utils.pm:193> WARN - month field 'August 2--7' in entry 'jsm2014-3' is not an integer - this will probably not sort properly.
-[415] Utils.pm:193> WARN - month field 'January 19' in entry 'uva2017' is not an integer - this will probably not sort properly.
-[422] Utils.pm:193> WARN - month field 'January 10' in entry 'isu2018' is not an integer - this will probably not sort properly.
-[426] Utils.pm:193> WARN - month field 'December 12--14' in entry 'cmstat2015' is not an integer - this will probably not sort properly.
-[431] Utils.pm:193> WARN - month field 'December 20' in entry 'umass2016' is not an integer - this will probably not sort properly.
-[437] Utils.pm:193> WARN - month field 'January (Upcoming)' in entry 'bayescomp2020' is not an integer - this will probably not sort properly.
-[444] Utils.pm:193> WARN - month field 'February 2' in entry 'ufl2017' is not an integer - this will probably not sort properly.
-[448] Utils.pm:193> WARN - month field 'January 15' in entry 'seminar2015' is not an integer - this will probably not sort properly.
-[450] Utils.pm:193> WARN - month field 'February' in entry 'vtech2019' is not an integer - this will probably not sort properly.
-[453] Utils.pm:193> WARN - month field 'February' in entry 'psu2019' is not an integer - this will probably not sort properly.
-[458] Utils.pm:193> WARN - month field 'February 7' in entry 'uiuc2017' is not an integer - this will probably not sort properly.
-[462] Utils.pm:193> WARN - month field 'January 23' in entry 'rice2017' is not an integer - this will probably not sort properly.
-[469] Utils.pm:193> WARN - month field 'April 5' in entry 'duke2017' is not an integer - this will probably not sort properly.
-[473] Utils.pm:193> WARN - month field 'September 19' in entry 'census2013' is not an integer - this will probably not sort properly.
-[478] Utils.pm:193> WARN - month field 'February 14' in entry 'msu2017' is not an integer - this will probably not sort properly.
-[484] Utils.pm:193> WARN - month field 'October 25' in entry 'cimat2017' is not an integer - this will probably not sort properly.
-[487] Utils.pm:193> WARN - month field 'June 27--30' in entry 'user2016' is not an integer - this will probably not sort properly.
-[490] Utils.pm:193> WARN - month field 'February' in entry 'uci2019' is not an integer - this will probably not sort properly.
-[496] Utils.pm:193> WARN - month field 'November 10' in entry 'ncsu2017' is not an integer - this will probably not sort properly.
-[499] Utils.pm:193> WARN - month field 'October' in entry 'ncsu2018' is not an integer - this will probably not sort properly.
-[501] Utils.pm:193> WARN - month field 'January' in entry 'stanford2019' is not an integer - this will probably not sort properly.
-[510] Utils.pm:193> WARN - month field 'July 13--18' in entry 'icots9' is not an integer - this will probably not sort properly.
-[513] Utils.pm:193> WARN - month field 'April' in entry 'vizfriday2019' is not an integer - this will probably not sort properly.
-[517] Utils.pm:193> WARN - month field 'August 2--7' in entry 'jsm2014' is not an integer - this will probably not sort properly.
-[524] Utils.pm:193> WARN - month field 'August 1' in entry 'jsm2017' is not an integer - this will probably not sort properly.
-[529] Utils.pm:193> WARN - month field 'May 9' in entry 'msmlc2018' is not an integer - this will probably not sort properly.
-[535] Utils.pm:193> WARN - month field 'July' in entry 'ties2018' is not an integer - this will probably not sort properly.
-[545] Utils.pm:193> WARN - month field 'August 2--7' in entry 'jsm2014-2' is not an integer - this will probably not sort properly.
-[550] Utils.pm:193> WARN - month field 'December (Upcoming)' in entry 'cmstat2019' is not an integer - this will probably not sort properly.
-[554] Utils.pm:193> WARN - month field 'November' in entry 'tamu2018' is not an integer - this will probably not sort properly.
-[557] Utils.pm:193> WARN - month field 'July' in entry 'jsm2018' is not an integer - this will probably not sort properly.
-[561] Utils.pm:193> WARN - month field 'July' in entry 'jsm2019' is not an integer - this will probably not sort properly.
-[564] Utils.pm:193> WARN - month field 'January' in entry 'monash2019' is not an integer - this will probably not sort properly.
-[569] Utils.pm:193> WARN - month field 'July 31' in entry 'jsm2016' is not an integer - this will probably not sort properly.
-[571] Utils.pm:193> WARN - month field 'January' in entry 'ut2019' is not an integer - this will probably not sort properly.
-[576] Utils.pm:193> WARN - month field 'June 27' in entry 'isba2018' is not an integer - this will probably not sort properly.
-[579] Utils.pm:193> WARN - month field 'January' in entry 'csu2019' is not an integer - this will probably not sort properly.
-[583] Utils.pm:193> WARN - month field 'August 8--13' in entry 'jsm2015-2' is not an integer - this will probably not sort properly.
-[587] Utils.pm:193> WARN - month field 'February' in entry 'uw2019' is not an integer - this will probably not sort properly.
-[592] Utils.pm:193> WARN - month field 'November (Upcoming)' in entry 'silo2019' is not an integer - this will probably not sort properly.
-[595] Utils.pm:193> WARN - month field 'February' in entry 'uk2019' is not an integer - this will probably not sort properly.
-[599] Utils.pm:193> WARN - month field 'January 11' in entry 'asu2017' is not an integer - this will probably not sort properly.
-[644] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[644] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[644] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[644] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
-[684] bbl.pm:636> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
-[704] bbl.pm:739> INFO - Output to cv.bbl
-[704] Biber.pm:110> INFO - WARNINGS: 53
+[309] Utils.pm:193> WARN - month field 'August 3--8' in entry 'jsm2013' is not an integer - this will probably not sort properly.
+[310] Biber.pm:4254> INFO - Looking for bibtex format file 'bib/talks.bib' for section 0
+[312] bibtex.pm:1523> INFO - LaTeX decoding ...
+[375] bibtex.pm:1340> INFO - Found BibTeX data source 'bib/talks.bib'
+[382] Utils.pm:193> WARN - month field 'November' in entry 'silo2019' is not an integer - this will probably not sort properly.
+[388] Utils.pm:193> WARN - month field 'November 10' in entry 'ncsu2017' is not an integer - this will probably not sort properly.
+[393] Utils.pm:193> WARN - month field 'January' in entry 'bayescomp2020' is not an integer - this will probably not sort properly.
+[398] Utils.pm:193> WARN - month field 'January 10' in entry 'isu2018' is not an integer - this will probably not sort properly.
+[400] Utils.pm:193> WARN - month field 'October' in entry 'ncsu2018' is not an integer - this will probably not sort properly.
+[405] Utils.pm:193> WARN - month field 'July 31' in entry 'jsm2016' is not an integer - this will probably not sort properly.
+[408] Utils.pm:193> WARN - month field 'February' in entry 'vtech2019' is not an integer - this will probably not sort properly.
+[410] Utils.pm:193> WARN - month field 'February' in entry 'uci2019' is not an integer - this will probably not sort properly.
+[419] Utils.pm:193> WARN - month field 'July 13--18' in entry 'icots9' is not an integer - this will probably not sort properly.
+[421] Utils.pm:193> WARN - month field 'January' in entry 'monash2019' is not an integer - this will probably not sort properly.
+[425] Utils.pm:193> WARN - month field 'June (Upcoming)' in entry 'sdss2020' is not an integer - this will probably not sort properly.
+[430] Utils.pm:193> WARN - month field 'February 14' in entry 'msu2017' is not an integer - this will probably not sort properly.
+[435] Utils.pm:193> WARN - month field 'January 23' in entry 'rice2017' is not an integer - this will probably not sort properly.
+[441] Utils.pm:193> WARN - month field 'October 25' in entry 'cimat2017' is not an integer - this will probably not sort properly.
+[446] Utils.pm:193> WARN - month field 'February 2' in entry 'ufl2017' is not an integer - this will probably not sort properly.
+[452] Utils.pm:193> WARN - month field 'August 1' in entry 'jsm2017' is not an integer - this will probably not sort properly.
+[456] Utils.pm:193> WARN - month field 'May 9' in entry 'msmlc2018' is not an integer - this will probably not sort properly.
+[460] Utils.pm:193> WARN - month field 'June 27--30' in entry 'user2016' is not an integer - this will probably not sort properly.
+[462] Utils.pm:193> WARN - month field 'November' in entry 'tamu2018' is not an integer - this will probably not sort properly.
+[469] Utils.pm:193> WARN - month field 'July' in entry 'ties2018' is not an integer - this will probably not sort properly.
+[474] Utils.pm:193> WARN - month field 'December' in entry 'cmstat2019' is not an integer - this will probably not sort properly.
+[477] Utils.pm:193> WARN - month field 'July' in entry 'jsm2018' is not an integer - this will probably not sort properly.
+[481] Utils.pm:193> WARN - month field 'February 7' in entry 'uiuc2017' is not an integer - this will probably not sort properly.
+[485] Utils.pm:193> WARN - month field 'August 2--7' in entry 'jsm2014' is not an integer - this will probably not sort properly.
+[489] Utils.pm:193> WARN - month field 'July' in entry 'jsm2019' is not an integer - this will probably not sort properly.
+[494] Utils.pm:193> WARN - month field 'December 20' in entry 'umass2016' is not an integer - this will probably not sort properly.
+[497] Utils.pm:193> WARN - month field 'September 19' in entry 'census2013' is not an integer - this will probably not sort properly.
+[500] Utils.pm:193> WARN - month field 'February' in entry 'uk2019' is not an integer - this will probably not sort properly.
+[503] Utils.pm:193> WARN - month field 'January' in entry 'stanford2019' is not an integer - this will probably not sort properly.
+[508] Utils.pm:193> WARN - month field 'January 19' in entry 'uva2017' is not an integer - this will probably not sort properly.
+[510] Utils.pm:193> WARN - month field 'February' in entry 'psu2019' is not an integer - this will probably not sort properly.
+[513] Utils.pm:193> WARN - month field 'August 8--13' in entry 'jsm2015' is not an integer - this will probably not sort properly.
+[518] Utils.pm:193> WARN - month field 'January 11' in entry 'asu2017' is not an integer - this will probably not sort properly.
+[521] Utils.pm:193> WARN - month field 'January 15' in entry 'seminar2015' is not an integer - this will probably not sort properly.
+[525] Utils.pm:193> WARN - month field 'August 8--13' in entry 'jsm2015-2' is not an integer - this will probably not sort properly.
+[527] Utils.pm:193> WARN - month field 'February' in entry 'uw2019' is not an integer - this will probably not sort properly.
+[537] Utils.pm:193> WARN - month field 'August 2--7' in entry 'jsm2014-2' is not an integer - this will probably not sort properly.
+[540] Utils.pm:193> WARN - month field 'June 27' in entry 'isba2018' is not an integer - this will probably not sort properly.
+[545] Utils.pm:193> WARN - month field 'April 5' in entry 'duke2017' is not an integer - this will probably not sort properly.
+[549] Utils.pm:193> WARN - month field 'December 12--14' in entry 'cmstat2015' is not an integer - this will probably not sort properly.
+[551] Utils.pm:193> WARN - month field 'April' in entry 'vizfriday2019' is not an integer - this will probably not sort properly.
+[554] Utils.pm:193> WARN - month field 'January' in entry 'csu2019' is not an integer - this will probably not sort properly.
+[556] Utils.pm:193> WARN - month field 'January' in entry 'ut2019' is not an integer - this will probably not sort properly.
+[565] Utils.pm:193> WARN - month field 'August 2--7' in entry 'jsm2014-3' is not an integer - this will probably not sort properly.
+[609] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[609] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[609] Biber.pm:3921> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[609] Biber.pm:3927> INFO - No sort tailoring available for locale 'en-US'
+[647] bbl.pm:636> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[669] bbl.pm:739> INFO - Output to cv.bbl
+[669] Biber.pm:110> INFO - WARNINGS: 54

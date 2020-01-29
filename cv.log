@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  3 NOV 2019 11:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  28 JAN 2020 11:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**cv.tex
+**cv
 (./cv.tex
 LaTeX2e <2018-12-01>
 (./res.cls
@@ -410,31 +410,31 @@ Package biblatex Warning: Name format 'last-first' deprecated.
 
 [2]
 
-Package biblatex Warning: Keyword 'inprep' not found on input line 157.
+Package biblatex Warning: Keyword 'inprep' not found on input line 158.
 
 
-LaTeX Warning: Empty bibliography on input line 157.
+LaTeX Warning: Empty bibliography on input line 158.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
  []
 
 [3] [4] [5] [6]
-Overfull \hbox (12.64706pt too wide) in paragraph at lines 230--232
+Overfull \hbox (12.64706pt too wide) in paragraph at lines 234--236
 \OT1/cmr/m/n/10 Course in-struc-tor for En-gi-neer-ing Statis-tics ($\OT1/cmtt/
 m/n/10 http : / / andeekaplan . com / stat305 / spring2017$\OT1/cmr/m/n/10 ). S
 tatis-
  []
 
 
-Overfull \hbox (5.60149pt too wide) in paragraph at lines 233--237
+Overfull \hbox (5.60149pt too wide) in paragraph at lines 237--241
 \OT1/cmr/m/n/10 Course in-struc-tor for Data Stew-ard-ship for Earth Sys-tems S
 ci-en-tists ($\OT1/cmtt/m/n/10 http : / / agron590-[]ISU . github .
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 252--254
+Underfull \hbox (badness 10000) in paragraph at lines 256--259
 
  []
 
@@ -444,13 +444,13 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8010 strings out of 492616
- 151410 string characters out of 6129482
- 573397 words of memory out of 5000000
- 11913 multiletter control sequences out of 15000+600000
+ 8013 strings out of 492616
+ 151539 string characters out of 6129482
+ 573439 words of memory out of 5000000
+ 11916 multiletter control sequences out of 15000+600000
  5368 words of font info for 20 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,9n,45p,828b,1266s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,9n,45p,824b,1266s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -459,7 +459,7 @@ usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
 local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv.pdf (10 pages, 149574 bytes).
+Output written on cv.pdf (10 pages, 150218 bytes).
 PDF statistics:
  69 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
