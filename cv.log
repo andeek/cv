@@ -1,345 +1,365 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  31 JAN 2020 13:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  6 OCT 2020 17:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cv
 (./cv.tex
-LaTeX2e <2018-12-01>
-(./res.cls
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
 )
-\tabular@text=\toks14
-\tabular@head=\toks15
-\tabular@tail=\toks16
-\@ta=\toks17
-\undefined@token=\toks18
-\sectionwidth=\dimen103
-\sectionskip=\skip43
-\resumewidth=\dimen104
-\@columnwidth=\dimen105
-\c@numberofcolumns=\count88
+\tabular@text=\toks15
+\tabular@head=\toks16
+\tabular@tail=\toks17
+\@ta=\toks18
+\undefined@token=\toks19
+\sectionwidth=\dimen135
+\sectionskip=\skip49
+\resumewidth=\dimen136
+\@columnwidth=\dimen137
+\c@numberofcolumns=\count175
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
-\c@tracingmulticols=\count89
-\mult@box=\box27
-\multicol@leftmargin=\dimen106
-\c@unbalance=\count90
-\c@collectmore=\count91
-\doublecol@number=\count92
-\multicoltolerance=\count93
-\multicolpretolerance=\count94
-\full@width=\dimen107
-\page@free=\dimen108
-\premulticols=\dimen109
-\postmulticols=\dimen110
-\multicolsep=\skip44
-\multicolbaselineskip=\skip45
-\partial@page=\box28
-\last@line=\box29
-\maxbalancingoverflow=\dimen111
-\mult@rightbox=\box30
-\mult@grightbox=\box31
-\mult@gfirstbox=\box32
-\mult@firstbox=\box33
-\@tempa=\box34
-\@tempa=\box35
-\@tempa=\box36
-\@tempa=\box37
-\@tempa=\box38
-\@tempa=\box39
-\@tempa=\box40
-\@tempa=\box41
-\@tempa=\box42
-\@tempa=\box43
-\@tempa=\box44
-\@tempa=\box45
-\@tempa=\box46
-\@tempa=\box47
-\@tempa=\box48
-\@tempa=\box49
-\@tempa=\box50
-\c@columnbadness=\count95
-\c@finalcolumnbadness=\count96
-\last@try=\dimen112
-\multicolovershoot=\dimen113
-\multicolundershoot=\dimen114
-\mult@nat@firstbox=\box51
-\colbreak@box=\box52
-\mc@col@check@num=\count97
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count176
+\mult@box=\box45
+\multicol@leftmargin=\dimen138
+\c@unbalance=\count177
+\c@collectmore=\count178
+\doublecol@number=\count179
+\multicoltolerance=\count180
+\multicolpretolerance=\count181
+\full@width=\dimen139
+\page@free=\dimen140
+\premulticols=\dimen141
+\postmulticols=\dimen142
+\multicolsep=\skip50
+\multicolbaselineskip=\skip51
+\partial@page=\box46
+\last@line=\box47
+\maxbalancingoverflow=\dimen143
+\mult@rightbox=\box48
+\mult@grightbox=\box49
+\mult@gfirstbox=\box50
+\mult@firstbox=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\c@minrows=\count182
+\c@columnbadness=\count183
+\c@finalcolumnbadness=\count184
+\last@try=\dimen144
+\multicolovershoot=\dimen145
+\multicolundershoot=\dimen146
+\mult@nat@firstbox=\box89
+\colbreak@box=\box90
+\mc@col@check@num=\count185
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2019/02/04 v3.8 Customized lists
-\enitkv@toks@=\toks19
-\labelindent=\skip46
-\enit@outerparindent=\dimen115
-\enit@toks=\toks20
-\enit@inbox=\box53
-\enit@count@id=\count98
-\enitdp@description=\count99
+(/usr/local/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks20
+\labelindent=\skip52
+\enit@outerparindent=\dimen147
+\enit@toks=\toks21
+\enit@inbox=\box91
+\enit@count@id=\count186
+\enitdp@description=\count187
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip10
+(/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count100
-\float@exts=\toks21
-\float@box=\box54
-\@float@everytoks=\toks22
-\@floatcapt=\box55
+\c@float@type=\count188
+\float@exts=\toks22
+\float@box=\box92
+\@float@everytoks=\toks23
+\@floatcapt=\box93
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2018/11/02 v3.12 programmable bibliographies (PK/MW)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
 
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-)
-Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count101
+(/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count189
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks23
+\KV@toks@=\toks24
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-)))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.sty
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count102
+\lrq@indent=\count190
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/logreq/logreq.def
+(/usr/local/texlive/2020/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count103
-\c@listtotal=\count104
-\c@listcount=\count105
-\c@liststart=\count106
-\c@liststop=\count107
-\c@citecount=\count108
-\c@citetotal=\count109
-\c@multicitecount=\count110
-\c@multicitetotal=\count111
-\c@instcount=\count112
-\c@maxnames=\count113
-\c@minnames=\count114
-\c@maxitems=\count115
-\c@minitems=\count116
-\c@citecounter=\count117
-\c@maxcitecounter=\count118
-\c@savedcitecounter=\count119
-\c@uniquelist=\count120
-\c@uniquename=\count121
-\c@refsection=\count122
-\c@refsegment=\count123
-\c@maxextratitle=\count124
-\c@maxextratitleyear=\count125
-\c@maxextraname=\count126
-\c@maxextradate=\count127
-\c@maxextraalpha=\count128
-\c@abbrvpenalty=\count129
-\c@highnamepenalty=\count130
-\c@lownamepenalty=\count131
-\c@maxparens=\count132
-\c@parenlevel=\count133
-\blx@tempcnta=\count134
-\blx@tempcntb=\count135
-\blx@tempcntc=\count136
-\blx@maxsection=\count137
-\blx@maxsegment@0=\count138
-\blx@notetype=\count139
-\blx@parenlevel@text=\count140
-\blx@parenlevel@foot=\count141
-\blx@sectionciteorder@0=\count142
-\blx@entrysetcounter=\count143
-\labelnumberwidth=\skip47
-\labelalphawidth=\skip48
-\biblabelsep=\skip49
-\bibitemsep=\skip50
-\bibnamesep=\skip51
-\bibinitsep=\skip52
-\bibparsep=\skip53
-\bibhang=\skip54
-\blx@bcfin=\read1
+\c@tabx@nest=\count191
+\c@listtotal=\count192
+\c@listcount=\count193
+\c@liststart=\count194
+\c@liststop=\count195
+\c@citecount=\count196
+\c@citetotal=\count197
+\c@multicitecount=\count198
+\c@multicitetotal=\count199
+\c@instcount=\count266
+\c@maxnames=\count267
+\c@minnames=\count268
+\c@maxitems=\count269
+\c@minitems=\count270
+\c@citecounter=\count271
+\c@maxcitecounter=\count272
+\c@savedcitecounter=\count273
+\c@uniquelist=\count274
+\c@uniquename=\count275
+\c@refsection=\count276
+\c@refsegment=\count277
+\c@maxextratitle=\count278
+\c@maxextratitleyear=\count279
+\c@maxextraname=\count280
+\c@maxextradate=\count281
+\c@maxextraalpha=\count282
+\c@abbrvpenalty=\count283
+\c@highnamepenalty=\count284
+\c@lownamepenalty=\count285
+\c@maxparens=\count286
+\c@parenlevel=\count287
+\blx@tempcnta=\count288
+\blx@tempcntb=\count289
+\blx@tempcntc=\count290
+\blx@maxsection=\count291
+\blx@maxsegment@0=\count292
+\blx@notetype=\count293
+\blx@parenlevel@text=\count294
+\blx@parenlevel@foot=\count295
+\blx@sectionciteorder@0=\count296
+\blx@entrysetcounter=\count297
+\labelnumberwidth=\skip53
+\labelalphawidth=\skip54
+\biblabelsep=\skip55
+\bibitemsep=\skip56
+\bibnamesep=\skip57
+\bibinitsep=\skip58
+\bibparsep=\skip59
+\bibhang=\skip60
+\blx@bcfin=\read2
 \blx@bcfout=\write3
-\c@mincomprange=\count144
-\c@maxcomprange=\count145
-\c@mincompwidth=\count146
+\blx@langwohyphens=\language86
+\c@mincomprange=\count298
+\c@maxcomprange=\count299
+\c@mincompwidth=\count300
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-dm.def
-File: blx-dm.def 2018/11/02 v3.12 biblatex localization (PK/MW)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count147
-\c@savedafterword=\count148
-\c@annotator=\count149
-\c@savedannotator=\count150
-\c@author=\count151
-\c@savedauthor=\count152
-\c@bookauthor=\count153
-\c@savedbookauthor=\count154
-\c@commentator=\count155
-\c@savedcommentator=\count156
-\c@editor=\count157
-\c@savededitor=\count158
-\c@editora=\count159
-\c@savededitora=\count160
-\c@editorb=\count161
-\c@savededitorb=\count162
-\c@editorc=\count163
-\c@savededitorc=\count164
-\c@foreword=\count165
-\c@savedforeword=\count166
-\c@holder=\count167
-\c@savedholder=\count168
-\c@introduction=\count169
-\c@savedintroduction=\count170
-\c@namea=\count171
-\c@savednamea=\count172
-\c@nameb=\count173
-\c@savednameb=\count174
-\c@namec=\count175
-\c@savednamec=\count176
-\c@translator=\count177
-\c@savedtranslator=\count178
-\c@shortauthor=\count179
-\c@savedshortauthor=\count180
-\c@shorteditor=\count181
-\c@savedshorteditor=\count182
-\c@labelname=\count183
-\c@savedlabelname=\count184
-\c@institution=\count185
-\c@savedinstitution=\count186
-\c@lista=\count187
-\c@savedlista=\count188
-\c@listb=\count189
-\c@savedlistb=\count190
-\c@listc=\count191
-\c@savedlistc=\count192
-\c@listd=\count193
-\c@savedlistd=\count194
-\c@liste=\count195
-\c@savedliste=\count196
-\c@listf=\count197
-\c@savedlistf=\count198
-\c@location=\count199
-\c@savedlocation=\count266
-\c@organization=\count267
-\c@savedorganization=\count268
-\c@origlocation=\count269
-\c@savedoriglocation=\count270
-\c@origpublisher=\count271
-\c@savedorigpublisher=\count272
-\c@publisher=\count273
-\c@savedpublisher=\count274
-\c@language=\count275
-\c@savedlanguage=\count276
-\c@origlanguage=\count277
-\c@savedoriglanguage=\count278
-\c@pageref=\count279
-\c@savedpageref=\count280
-\shorthandwidth=\skip55
-\shortjournalwidth=\skip56
-\shortserieswidth=\skip57
-\shorttitlewidth=\skip58
-\shortauthorwidth=\skip59
-\shorteditorwidth=\skip60
-\locallabelnumberwidth=\skip61
-\locallabelalphawidth=\skip62
-\localshorthandwidth=\skip63
-\localshortjournalwidth=\skip64
-\localshortserieswidth=\skip65
-\localshorttitlewidth=\skip66
-\localshortauthorwidth=\skip67
-\localshorteditorwidth=\skip68
+\c@afterword=\count301
+\c@savedafterword=\count302
+\c@annotator=\count303
+\c@savedannotator=\count304
+\c@author=\count305
+\c@savedauthor=\count306
+\c@bookauthor=\count307
+\c@savedbookauthor=\count308
+\c@commentator=\count309
+\c@savedcommentator=\count310
+\c@editor=\count311
+\c@savededitor=\count312
+\c@editora=\count313
+\c@savededitora=\count314
+\c@editorb=\count315
+\c@savededitorb=\count316
+\c@editorc=\count317
+\c@savededitorc=\count318
+\c@foreword=\count319
+\c@savedforeword=\count320
+\c@holder=\count321
+\c@savedholder=\count322
+\c@introduction=\count323
+\c@savedintroduction=\count324
+\c@namea=\count325
+\c@savednamea=\count326
+\c@nameb=\count327
+\c@savednameb=\count328
+\c@namec=\count329
+\c@savednamec=\count330
+\c@translator=\count331
+\c@savedtranslator=\count332
+\c@shortauthor=\count333
+\c@savedshortauthor=\count334
+\c@shorteditor=\count335
+\c@savedshorteditor=\count336
+\c@labelname=\count337
+\c@savedlabelname=\count338
+\c@institution=\count339
+\c@savedinstitution=\count340
+\c@lista=\count341
+\c@savedlista=\count342
+\c@listb=\count343
+\c@savedlistb=\count344
+\c@listc=\count345
+\c@savedlistc=\count346
+\c@listd=\count347
+\c@savedlistd=\count348
+\c@liste=\count349
+\c@savedliste=\count350
+\c@listf=\count351
+\c@savedlistf=\count352
+\c@location=\count353
+\c@savedlocation=\count354
+\c@organization=\count355
+\c@savedorganization=\count356
+\c@origlocation=\count357
+\c@savedoriglocation=\count358
+\c@origpublisher=\count359
+\c@savedorigpublisher=\count360
+\c@publisher=\count361
+\c@savedpublisher=\count362
+\c@language=\count363
+\c@savedlanguage=\count364
+\c@origlanguage=\count365
+\c@savedoriglanguage=\count366
+\c@pageref=\count367
+\c@savedpageref=\count368
+\shorthandwidth=\skip61
+\shortjournalwidth=\skip62
+\shortserieswidth=\skip63
+\shorttitlewidth=\skip64
+\shortauthorwidth=\skip65
+\shorteditorwidth=\skip66
+\locallabelnumberwidth=\skip67
+\locallabelalphawidth=\skip68
+\localshorthandwidth=\skip69
+\localshortjournalwidth=\skip70
+\localshortserieswidth=\skip71
+\localshorttitlewidth=\skip72
+\localshortauthorwidth=\skip73
+\localshorteditorwidth=\skip74
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2018/11/02 v3.12 biblatex compatibility (PK/MW)
-\c@textcitecount=\count281
-\c@textcitetotal=\count282
-\c@textcitemaxnames=\count283
-\c@biburlnumpenalty=\count284
-\c@biburlucpenalty=\count285
-\c@biburllcpenalty=\count286
-\c@smartand=\count287
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count369
+\c@textcitetotal=\count370
+\c@textcitemaxnames=\count371
+\c@biburlbigbreakpenalty=\count372
+\c@biburlbreakpenalty=\count373
+\c@biburlnumpenalty=\count374
+\c@biburlucpenalty=\count375
+\c@biburllcpenalty=\count376
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count377
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2018/11/02 v3.12 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count288
-\c@bbx:relatedtotal=\count289
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count378
+\c@bbx:relatedtotal=\count379
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
-File: numeric.cbx 2018/11/02 v3.12 biblatex citation style (PK/MW)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -355,7 +375,7 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/biblatex.cfg
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 
@@ -363,32 +383,40 @@ Package biblatex Warning: 'firstinits' option is deprecated.
 (biblatex)                Please use 'giveninits' instead.
 
 )
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2018/11/02 v3.12 biblatex localization (PK/MW)
-)
 
 Package biblatex Warning: Missing 'hyperref' package.
 (biblatex)                Setting 'hyperref=false'.
 
-\@quotelevel=\count290
-\@quotereset=\count291
+\@quotelevel=\count380
+\@quotereset=\count381
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count382
+\l__pdf_internal_box=\box94
+)
 (./cv.aux)
 \openout1 = `cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
 LaTeX Font Info:    ... okay on input line 39.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
@@ -396,7 +424,8 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv.bbl' found.
- (./cv.bbl)
+
+(./cv.bbl)
 Package biblatex Info: Reference section=0 on input line 39.
 Package biblatex Info: Reference segment=0 on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -410,7 +439,7 @@ Overfull \hbox (17.99998pt too wide) in paragraph at lines 47--52
 
 [1
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
 Package biblatex Warning: Name format 'last-first' deprecated.
 (biblatex)                Please use 'family-given' instead.
@@ -418,46 +447,58 @@ Package biblatex Warning: Name format 'last-first' deprecated.
 
 [2]
 
-Package biblatex Warning: Keyword 'inprep' not found on input line 159.
+Package biblatex Warning: Keyword 'inprep' not found on input line 161.
 
 
-LaTeX Warning: Empty bibliography on input line 159.
+LaTeX Warning: Empty bibliography on input line 161.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--179
-
- []
-
-[3] [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 270--273
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
 
  []
 
-[6] [7] [8] (./cv.aux)
+[3] [4] [5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 273--275
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--280
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
+
+ []
+
+[8] (./cv.aux)
 Package logreq Info: Writing requests to 'cv.run.xml'.
 \openout1 = `cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 8072 strings out of 492616
- 152325 string characters out of 6129482
- 575790 words of memory out of 5000000
- 11971 multiletter control sequences out of 15000+600000
- 5368 words of font info for 20 fonts, out of 8000000 for 9000
+ 8614 strings out of 480608
+ 166854 string characters out of 5903631
+ 794464 words of memory out of 5000000
+ 24483 multiletter control sequences out of 15000+600000
+ 534401 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,9n,45p,824b,1266s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
-></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></
-usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
-r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/
-local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv.pdf (8 pages, 141924 bytes).
+ 39i,9n,45p,824b,1271s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><
+/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></u
+sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
+local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
+ocal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/lo
+cal/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on cv.pdf (8 pages, 144267 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+ 68 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
