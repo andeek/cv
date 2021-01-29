@@ -389,7 +389,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Improving wildlife population inference using aerial imagery and entity resolution}
-      \field{year}{2020+}
+      \field{year}{2021+}
       \true{nocite}
       \keyw{submitted}
     \endentry
@@ -419,16 +419,9 @@
       \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{arXiv preprint arXiv:1810.01538}
-      \field{title}{Entity Resolution and the Downstream Task: A Case Study of North Carolina Voter Registration Records}
-      \field{year}{2020+}
+      \field{title}{Error Propagation from Entity Resolution through the Downstream Task via a Bayesian Record Canonicalization Approach}
+      \field{year}{2021+}
       \true{nocite}
-      \verb{urlraw}
-      \verb https://arxiv.org/abs/1810.01538
-      \endverb
-      \verb{url}
-      \verb https://arxiv.org/abs/1810.01538
-      \endverb
       \keyw{submitted}
     \endentry
     \entry{hofmann2015move}{inproceedings}{}
