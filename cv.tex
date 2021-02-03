@@ -1,5 +1,5 @@
 \documentclass[margin,line]{res}
-\usepackage{multicol, enumitem, url, float}
+\usepackage{multicol, enumitem, url, float, hyperref}
 
 \usepackage[backend=biber,
             sorting=none,
@@ -11,6 +11,7 @@
 \renewbibmacro{in:}{} % get rid of "In:"
 \addbibresource{bib/papers.bib}
 \addbibresource{bib/posters.bib}
+\addbibresource{bib/packages.bib}
 \addbibresource{bib/talks.bib} % add a bib-reference file
 
 
@@ -46,7 +47,7 @@
 \vspace{.05in}
 \begin{tabular}{@{}p{2in}p{4in}}
 Department of Statistics  & {\it E-mail:} andee.kaplan@colostate.edu\\
-Colorado State University &  {\it WWW:} \url{andeekaplan.com} \\
+Colorado State University &  {\it WWW:} \url{https://andeekaplan.com} \\
 Fort Collins, CO 80523-1877 & ORCID: 0000-0002-2940-889X\\
 \end{tabular}
 
@@ -143,17 +144,6 @@ Participant in Extensible Undergraduate Research in Communications Applications,
 {\em Women in Statistics Conference Travel Award } \hfill 2014\\
 {\em ASA Joint Statistical Meetings Special Student Funding Travel Award } \hfill 2014
 
-\section{\sc Grants \& Contracts}
-As Co-PI: {\em HDR Institute: Geometric Understanding of Data and Machine Learning Models to Unravel Connections Between Health, Aging and Environment} (NSF) PI: Michael J. Kirby (\$17,041,305.00). September 2021 - August 2026. (Pending)
-
-As PI: {\em Streaming Record Linkage for Online Data Deduplication} (North Carolina State University Laboratory for Analytic Sciences). PI: Kaplan and Brenda Betancourt (\$130,351.57; CSU: \$90,623.57). January 2021 - December 2021.
-
-As PI: {\em Streaming Record Linkage for Online Data Deduplication} (North Carolina State University Laboratory for Analytic Sciences). PI: Kaplan and Brenda Betancourt (\$132,397.90; CSU: \$92,032.90). January 2020 - December 2020.
-
-As PI: {\em An Extensible Model for Deduplication of the GDELT Events Database} (North Carolina State University Laboratory for Analytic Sciences). PI: Kaplan (\$23,995.51). August 2019 - December 2019.
-
-As Co-PI: {\em Posterior Prototyping: Bridging the Gap between Record Linkage and Regression} (North Carolina State University Laboratory for Analytic Sciences). PI: Brenda Betancourt and Rebecca C. Steorts (\$96,897). January 2019 - December 2019.
-
 \section{\sc Refereed \\ Journal Publications}
 \printbibliography[keyword=refereed, heading=none, resetnumbers=true]
 
@@ -168,19 +158,21 @@ As Co-PI: {\em Posterior Prototyping: Bridging the Gap between Record Linkage an
 \section{\sc Unrefereed Conference Preceedings}
 \printbibliography[keyword=conf-unref, heading=none, resetnumbers=false]
 
-\section{\sc Software}
+\section{\sc Grants \& Contracts}
+As Co-PI: {\em HDR Institute: Geometric Understanding of Data and Machine Learning Models to Unravel Connections Between Health, Aging and Environment} (NSF) PI: Michael J. Kirby (\$17,041,305.00). September 2021 - August 2026. (Submitted)
 
-\begin{enumerate}[label={[\arabic*]}, labelsep=.35cm]
-\item \texttt{protoshiny}, Interactive dendrograms for Visualizing Hierarchical Clusters with Prototypes, with Jacob Bien. (\url{https://github.com/andeek/protoshiny})
-\item \texttt{representr}, Create Representative Records Post-Record Linkage, with Brenda Betancourt and Rebecca C. Steorts \cite{kaplan2018posterior}. (\url{https://cran.r-project.org/web/packages/representr/index.html})
-\item \texttt{dblink}, Scalable Empirical Bayes Entity Resolution, with Neil Marchant, Ben Rubenstein, and Rebecca C. Steorts \cite{marchant2020dblink}. (\url{https://github.com/cleanzr/dblink})
-\item \texttt{conclique}, Gibbs Sampling for Spatial Data and Concliques, with Daniel Nordman, Mark Kaiser, and Soumendra Lahiri \cite{kaplan2016geometrically}. (\url{https://github.com/andeek/conclique})
-\item \texttt{intro}, Download and Run the intRo Statistical Software, with Eric Hare \cite{hare2017introductory}. (\url{https://github.com/gammarama/intro})
-\item \texttt{forestr}, Random Forests with a User Created Splitting Criterion. (\url{https://github.com/andeek/forestr})
-\end{enumerate}
+As PI: {\em Streaming Record Linkage for Online Data Deduplication} (DoD via North Carolina State University Laboratory for Analytic Sciences). PI: Kaplan and Brenda Betancourt (\$130,351.57; CSU: \$90,623.57). January 2021 - December 2021.
+
+As PI: {\em Streaming Record Linkage for Online Data Deduplication} (DoD via North Carolina State University Laboratory for Analytic Sciences). PI: Kaplan and Brenda Betancourt (\$132,397.90; CSU: \$92,032.90). January 2020 - December 2020.
+
+As PI: {\em An Extensible Model for Deduplication of the GDELT Events Database} (DoD via North Carolina State University Laboratory for Analytic Sciences). PI: Kaplan (\$23,995.51). August 2019 - December 2019.
+
+As Co-PI: {\em Posterior Prototyping: Bridging the Gap between Record Linkage and Regression} (DoD via North Carolina State University Laboratory for Analytic Sciences). PI: Brenda Betancourt and Rebecca C. Steorts (\$96,897). January 2019 - December 2019.
+
+\section{\sc Software}
+\printbibliography[keyword=packages, heading=none, resetnumbers=true]
 
 \section{\sc Invited Talks}
-*Denotes presenter.\\
 \printbibliography[keyword=talk-invited, heading=none, resetnumbers=true]
 
 \section{\sc Departmental Seminars}
@@ -188,30 +180,49 @@ As Co-PI: {\em Posterior Prototyping: Bridging the Gap between Record Linkage an
 
 \section{\sc Invited Short Courses}
 
-{\bf Some of Record Linkage}, US Census Bureau \& Centro de Investigaci\'{o}n de Matem\'{a}ticas, A. C.
+{\bf Some of Record Linkage},  Full-Day Workshop
 
-\vspace{-.3cm}
+\vspace{-.4cm}
 {\em Co-instructor} \hfill \\
-Designed and facilitated a workshop that provides a broad introduction to multiple methods for performing record linkage and deduplification, including blocking and evaluation topics (\url{https://resteorts.github.io/record-linkage-tutorial/}).
+
+\vspace{-.7cm}
+US Census Bureau \hfill May 2018 \\
+
+\vspace{-.7cm}
+Centro de Investigaci\'{o}n de Matem\'{a}ticas, A. C. \hfill February 2018
+
+%Designed and facilitated a workshop that provides a broad introduction to multiple methods for performing record linkage and deduplification, including blocking and evaluation topics (\url{https://resteorts.github.io/record-linkage-tutorial/}).
 
 
-{\bf Machine Learning Day}, Duke University
+{\bf Machine Learning Day}, Full-Day Event
 
-\vspace{-.3cm}
+\vspace{-.4cm}
 {\em Co-organizer} \hfill \\
-Helped organize Duke's first Machine Learning Day for undergraduates and participated as a panel speaker.
 
-{\bf D3 Workshop}, NORC at the University of Chicago
+\vspace{-.7cm}
+Duke University \hfill March 2018
 
-\vspace{-.3cm}
+%Helped organize Duke's first Machine Learning Day for undergraduates and participated as a panel speaker.
+
+{\bf D3 Workshop}, Half-Day Workshop
+
+\vspace{-.4cm}
 {\em Co-instructor} \hfill \\
-Designed and presented a workshop for NORC employees on the JavaScript plotting library D3 (\url{http://andeekaplan.com/d3workshop/}).
 
-{\bf Week of R}, Iowa State University
+\vspace{-.7cm}
+NORC at the University of Chicago \hfill October 2015
 
-\vspace{-.3cm}
+%Designed and presented a workshop for NORC employees on the JavaScript plotting library D3 (\url{http://andeekaplan.com/d3workshop/}).
+
+{\bf Week of R}, Week-Long Workshop
+
+\vspace{-.4cm}
 {\em Co-instructor} \hfill \\
-Student run R workshop within the Department of Statistics covering the basics of R, plotting, data manipulation, scraping web data, and Shiny (\url{http://heike.github.io/rwrks/}).
+
+\vspace{-.7cm}
+Iowa State University \hfill June 2013, 2014, 2015
+
+%Student run R workshop within the Department of Statistics covering the basics of R, plotting, data manipulation, scraping web data, and Shiny (\url{http://heike.github.io/rwrks/}).
 
 
 \section{\sc Contributed Talks}
@@ -221,10 +232,11 @@ Student run R workshop within the Department of Statistics covering the basics o
 \printbibliography[keyword=poster, heading=none, resetnumbers=true]
 
 \section{\sc Teaching Experience}
+*Denotes courses developed.\\
 
 \begin{table}[H]
 \begin{tabular}{l l l r}
-CSU & DSCI 445 & Statistical Machine Learning & F20 \\
+CSU & DSCI 445* & Statistical Machine Learning & F20 \\
 CSU & STAT 730 & Advanced Theory of Statistics I & S20 \\
 CSU & STAT 400 & Statistical Computing & F19, F20 \\
 ISU & STAT 305 & Engineering Statistics & S17, SU17 \\

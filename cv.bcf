@@ -2181,14 +2181,11 @@
   <bcf:bibdata section="0">
     <bcf:datasource type="file" datatype="bibtex">bib/papers.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex">bib/posters.bib</bcf:datasource>
+    <bcf:datasource type="file" datatype="bibtex">bib/packages.bib</bcf:datasource>
     <bcf:datasource type="file" datatype="bibtex">bib/talks.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
     <bcf:citekey order="0" nocite="1">*</bcf:citekey>
-    <bcf:citekey order="1">kaplan2018posterior</bcf:citekey>
-    <bcf:citekey order="2">marchant2020dblink</bcf:citekey>
-    <bcf:citekey order="3">kaplan2016geometrically</bcf:citekey>
-    <bcf:citekey order="4">hare2017introductory</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

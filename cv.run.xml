@@ -81,6 +81,7 @@
     <requires type="editable">
       <file>bib/papers.bib</file>
       <file>bib/posters.bib</file>
+      <file>bib/packages.bib</file>
       <file>bib/talks.bib</file>
     </requires>
   </external>

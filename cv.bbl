@@ -66,6 +66,12 @@
       \true{nocite}
       \field{pages}{1\bibrangedash 42}
       \range{pages}{42}
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/abs/10.1080/10618600.2020.1825451
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/abs/10.1080/10618600.2020.1825451
+      \endverb
       \keyw{refereed}
     \endentry
     \entry{kaplan2016geometrically}{article}{}
@@ -111,6 +117,12 @@
       \true{nocite}
       \field{pages}{286\bibrangedash 296}
       \range{pages}{11}
+      \verb{urlraw}
+      \verb https://amstat.tandfonline.com/doi/abs/10.1080/10618600.2019.1668800#.YBryNC1h36s
+      \endverb
+      \verb{url}
+      \verb https://amstat.tandfonline.com/doi/abs/10.1080/10618600.2019.1668800#.YBryNC1h36s
+      \endverb
       \keyw{refereed}
     \endentry
     \entry{kaplan2016note}{article}{}
@@ -151,6 +163,12 @@
       \true{nocite}
       \field{pages}{627\bibrangedash 655}
       \range{pages}{29}
+      \verb{urlraw}
+      \verb https://academic.oup.com/imaiai/article-abstract/9/3/627/5612733
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/imaiai/article-abstract/9/3/627/5612733
+      \endverb
       \keyw{refereed}
     \endentry
     \entry{kaplan2016putting}{article}{}
@@ -185,6 +203,12 @@
       \true{nocite}
       \field{pages}{1449\bibrangedash 1464}
       \range{pages}{16}
+      \verb{urlraw}
+      \verb https://link.springer.com/article/10.1007/s00180-018-0850-7
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1007/s00180-018-0850-7
+      \endverb
       \keyw{refereed}
     \endentry
     \entry{kaplan2019properties}{article}{}
@@ -225,6 +249,12 @@
       \true{nocite}
       \field{pages}{23\bibrangedash 38}
       \range{pages}{16}
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11396
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/sam.11396
+      \endverb
       \keyw{refereed}
     \endentry
     \entry{hare2017introductory}{article}{}
@@ -247,6 +277,7 @@
       \strng{authorbibnamehash}{92e8682dc30f7935c7beaeed62c7e2a9}
       \strng{authornamehash}{92e8682dc30f7935c7beaeed62c7e2a9}
       \strng{authorfullhash}{92e8682dc30f7935c7beaeed62c7e2a9}
+      \field{extraname}{1}
       \field{sortinit}{6}
       \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labelnamesource}{author}
@@ -259,8 +290,11 @@
       \true{nocite}
       \field{pages}{493\bibrangedash 500}
       \range{pages}{8}
-      \verb{doi}
-      \verb 10.1080/10618600.2016.1276839
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/abs/10.1080/10618600.2016.1276839
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/abs/10.1080/10618600.2016.1276839
       \endverb
       \keyw{refereed}
     \endentry
@@ -302,8 +336,11 @@
       \true{nocite}
       \field{pages}{535\bibrangedash 557}
       \range{pages}{23}
-      \verb{doi}
-      \verb 10.1007/s00180-016-0663-5
+      \verb{urlraw}
+      \verb https://link.springer.com/article/10.1007/s00180-016-0663-5
+      \endverb
+      \verb{url}
+      \verb https://link.springer.com/article/10.1007/s00180-016-0663-5
       \endverb
       \keyw{refereed}
     \endentry
@@ -350,6 +387,12 @@
       \true{nocite}
       \field{pages}{20\bibrangedash 30}
       \range{pages}{11}
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/abs/10.1080/09332480.2014.890866
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/abs/10.1080/09332480.2014.890866
+      \endverb
       \keyw{refereed}
     \endentry
     \entry{lu2020improving}{article}{}
@@ -415,6 +458,7 @@
       \strng{authorbibnamehash}{c7ee4e1da5b017e65c3a6161d26a90be}
       \strng{authornamehash}{c7ee4e1da5b017e65c3a6161d26a90be}
       \strng{authorfullhash}{c7ee4e1da5b017e65c3a6161d26a90be}
+      \field{extraname}{1}
       \field{sortinit}{1}
       \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
@@ -480,6 +524,12 @@
       \true{nocite}
       \field{pages}{159\bibrangedash 160}
       \range{pages}{2}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/7347659
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/7347659
+      \endverb
       \keyw{conf-unref}
     \endentry
     \entry{hofmann2015visualizing}{inproceedings}{}
@@ -538,6 +588,12 @@
       \true{nocite}
       \field{pages}{161\bibrangedash 162}
       \range{pages}{2}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/7347660
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/7347660
+      \endverb
       \keyw{conf-unref}
     \endentry
     \entry{genschel2014statistical}{inproceedings}{}
@@ -595,6 +651,12 @@
       \field{title}{Statistical and Mathematical Self-Efficacy of Incoming Students at a Large Public University}
       \field{year}{2014}
       \true{nocite}
+      \verb{urlraw}
+      \verb https://iase-web.org/icots/9/proceedings/pdfs/ICOTS9_C259_GENSCHEL.pdf
+      \endverb
+      \verb{url}
+      \verb https://iase-web.org/icots/9/proceedings/pdfs/ICOTS9_C259_GENSCHEL.pdf
+      \endverb
       \keyw{conf-unref}
     \endentry
     \entry{mouzon2015cluster}{inproceedings}{}
@@ -647,12 +709,163 @@
       \true{nocite}
       \field{pages}{793\bibrangedash 800}
       \range{pages}{8}
+      \verb{urlraw}
+      \verb http://sigmaa.maa.org/rume/RUME18v2.pdf
+      \endverb
+      \verb{url}
+      \verb http://sigmaa.maa.org/rume/RUME18v2.pdf
+      \endverb
       \keyw{conf-ref}
     \endentry
     \entry{nrc2019}{inproceedings}{}
+      \list{location}{1}{%
+        {Fort Collins, CO, USA}%
+      }
+      \list{organization}{1}{%
+        {Institute of Mathematical Statistics}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{New Researchers Conference}
+      \field{month}{7}
+      \field{note}{Contributed Poster}
+      \field{title}{Life After Record Linkage: Tackling the Downstream Task with Error Propagation}
+      \field{year}{2019}
+      \true{nocite}
+      \keyw{poster}
+    \endentry
+    \entry{nrc2018}{inproceedings}{}
+      \list{location}{1}{%
+        {Vancouver, BC, Canada}%
+      }
+      \list{organization}{1}{%
+        {Institute of Mathematical Statistics}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{New Researchers Conference}
+      \field{month}{7}
+      \field{note}{Contributed Poster}
+      \field{title}{Population Sized Record Linkage}
+      \field{year}{2018}
+      \true{nocite}
+      \keyw{poster}
+    \endentry
+    \entry{fif2018}{inproceedings}{}
+      \list{location}{1}{%
+        {Minneapolis, MN, USA}%
+      }
+      \list{organization}{2}{%
+        {Institute for Mathematics}%
+        {its Application, University of Minnesota}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Frontiers in Forecasting}
+      \field{month}{2}
+      \field{note}{Contributed Poster}
+      \field{title}{Properties and Bayesian fitting of restricted Boltzmann machines}
+      \field{year}{2018}
+      \true{nocite}
+      \keyw{poster}
+    \endentry
+    \entry{coda2016}{inproceedings}{}
+      \list{location}{1}{%
+        {Santa Fe, NM, USA}%
+      }
+      \list{organization}{1}{%
+        {Los Alamos National Laboratory}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Conference on Data Analysis}
+      \field{month}{3}
+      \field{note}{Contributed Poster}
+      \field{title}{An Exposition on the Propriety of Restricted Boltzmann Machines}
+      \field{year}{2016}
+      \true{nocite}
+      \keyw{poster}
+    \endentry
+    \entry{csp2016}{inproceedings}{}
+      \list{location}{1}{%
+        {San Diego, CA, USA}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Conference on Statistical Practice}
+      \field{month}{2}
+      \field{note}{Contributed Poster}
+      \field{title}{Visualizing Linked Data Sources for the National Children's Study}
+      \field{year}{2016}
+      \true{nocite}
+      \keyw{poster}
+    \endentry
+    \entry{wis2014}{inproceedings}{}
+      \list{location}{1}{%
+        {Cary, NC, USA}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Women in Statistics Conference}
+      \field{month}{5}
+      \field{note}{Student Poster}
+      \field{title}{Mathematical Self-Efficacy of Incoming Students at a Large Public University}
+      \field{year}{2014}
+      \true{nocite}
+      \keyw{poster}
+    \endentry
+    \entry{dataexpo2013}{inproceedings}{}
+      \list{location}{1}{%
+        {Montreal, QC, Canada}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Joint Statistical Meetings}
+      \field{month}{8}
+      \field{note}{Data Exposition Poster}
+      \field{title}{Putting Down Roots: A Graphical Exploration of Community Attachment}
+      \field{year}{2013}
+      \true{nocite}
+      \keyw{poster}
+    \endentry
+    \entry{jsm2013}{inproceedings}{}
+      \list{location}{1}{%
+        {Montreal, QC, Canada}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Joint Statistical Meetings}
+      \field{month}{8}
+      \field{note}{Contributed Poster}
+      \field{title}{Can you buy a president? Politics after the Tillman Act}
+      \field{year}{2013}
+      \true{nocite}
+      \keyw{poster}
+    \endentry
+    \entry{representr}{manual}{}
       \name{author}{3}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+        {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
            familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=3c1fc8c229e36181b1e72f948f2a7f46}{%
            family={Betancourt},
@@ -665,328 +878,33 @@
            given={Rebecca\bibnamedelima C.},
            giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {Fort Collins, CO, USA}%
-      }
-      \list{organization}{1}{%
-        {Institute of Mathematical Statistics}%
-      }
-      \strng{namehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{fullhash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{bibnamehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{authorbibnamehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{authornamehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{authorfullhash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{New Researchers Conference}
-      \field{month}{7}
-      \field{note}{Contributed Poster}
-      \field{title}{Life After Record Linkage: Tackling the Downstream Task with Error Propagation}
-      \field{year}{2019}
-      \true{nocite}
-      \keyw{poster}
-    \endentry
-    \entry{nrc2018}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=3f3c8a16fa0bdd435241ef7bf4b69631}{%
-           family={Steorts},
-           familyi={S\bibinitperiod},
-           given={Rebecca\bibnamedelima C.},
-           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Vancouver, BC, Canada}%
-      }
-      \list{organization}{1}{%
-        {Institute of Mathematical Statistics}%
-      }
-      \strng{namehash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{fullhash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{bibnamehash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{authorbibnamehash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{authornamehash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{authorfullhash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{New Researchers Conference}
-      \field{month}{7}
-      \field{note}{Contributed Poster}
-      \field{title}{Population Sized Record Linkage}
-      \field{year}{2018}
-      \true{nocite}
-      \keyw{poster}
-    \endentry
-    \entry{fif2018}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
-           family={Nordman},
-           familyi={N\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
-        {{hash=cd5e8659b35c629f9667c06858878d58}{%
-           family={Vardeman},
-           familyi={V\bibinitperiod},
-           given={Stephen},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Minneapolis, MN, USA}%
-      }
-      \list{organization}{2}{%
-        {Institute for Mathematics}%
-        {its Application, University of Minnesota}%
-      }
-      \strng{namehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{fullhash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{bibnamehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{authorbibnamehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{authornamehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{authorfullhash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Frontiers in Forecasting}
-      \field{month}{2}
-      \field{note}{Contributed Poster}
-      \field{title}{Properties and Bayesian fitting of restricted Boltzmann machines}
-      \field{year}{2018}
-      \true{nocite}
-      \keyw{poster}
-    \endentry
-    \entry{coda2016}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
-           family={Nordman},
-           familyi={N\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
-        {{hash=cd5e8659b35c629f9667c06858878d58}{%
-           family={Vardeman},
-           familyi={V\bibinitperiod},
-           given={Stephen},
-           giveni={S\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Santa Fe, NM, USA}%
-      }
-      \list{organization}{1}{%
-        {Los Alamos National Laboratory}%
-      }
-      \strng{namehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{fullhash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{bibnamehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{authorbibnamehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{authornamehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{authorfullhash}{831fee91e3ebdfbd8232742bc8e7ca97}
+      \strng{namehash}{c7ee4e1da5b017e65c3a6161d26a90be}
+      \strng{fullhash}{c7ee4e1da5b017e65c3a6161d26a90be}
+      \strng{bibnamehash}{c7ee4e1da5b017e65c3a6161d26a90be}
+      \strng{authorbibnamehash}{c7ee4e1da5b017e65c3a6161d26a90be}
+      \strng{authornamehash}{c7ee4e1da5b017e65c3a6161d26a90be}
+      \strng{authorfullhash}{c7ee4e1da5b017e65c3a6161d26a90be}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Conference on Data Analysis}
-      \field{month}{3}
-      \field{note}{Contributed Poster}
-      \field{title}{An Exposition on the Propriety of Restricted Boltzmann Machines}
-      \field{year}{2016}
+      \field{note}{R package version 0.1.1}
+      \field{title}{representr: Create Representative Records After Entity Resolution}
+      \field{year}{2020}
       \true{nocite}
-      \keyw{poster}
+      \verb{urlraw}
+      \verb https://CRAN.R-project.org/package=representr
+      \endverb
+      \verb{url}
+      \verb https://CRAN.R-project.org/package=representr
+      \endverb
+      \keyw{packages}
     \endentry
-    \entry{csp2016}{inproceedings}{}
-      \name{author}{3}{}{%
+    \entry{protoshiny}{manual}{}
+      \name{author}{2}{}{%
         {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
            family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=8621420701237623bb1f977a2756e1a1}{%
-           family={Lin},
-           familyi={L\bibinitperiod},
-           given={Yongheng},
-           giveni={Y\bibinitperiod}}}%
-        {{hash=953f7fe57ccd30c579f3fd5e0fa7d707}{%
-           family={{Mulrow,\bibnamedelimb E.}*},
-           familyi={M\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {San Diego, CA, USA}%
-      }
-      \list{organization}{1}{%
-        {ASA}%
-      }
-      \strng{namehash}{7b3962eb6c114e731479b67fad8d8062}
-      \strng{fullhash}{7b3962eb6c114e731479b67fad8d8062}
-      \strng{bibnamehash}{7b3962eb6c114e731479b67fad8d8062}
-      \strng{authorbibnamehash}{7b3962eb6c114e731479b67fad8d8062}
-      \strng{authornamehash}{7b3962eb6c114e731479b67fad8d8062}
-      \strng{authorfullhash}{7b3962eb6c114e731479b67fad8d8062}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Conference on Statistical Practice}
-      \field{month}{2}
-      \field{note}{Contributed Poster}
-      \field{title}{Visualizing Linked Data Sources for the National Children's Study}
-      \field{year}{2016}
-      \true{nocite}
-      \keyw{poster}
-    \endentry
-    \entry{wis2014}{inproceedings}{}
-      \name{author}{8}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=627009a853194290393c3b2b55e82800}{%
-           family={Genschel},
-           familyi={G\bibinitperiod},
-           given={Ulrike},
-           giveni={U\bibinitperiod}}}%
-        {{hash=4acd63a2db9e48e51b5ad1deae819749}{%
-           family={Carriquiry},
-           familyi={C\bibinitperiod},
-           given={Alicia},
-           giveni={A\bibinitperiod}}}%
-        {{hash=1c144cbb8890c674b8815da5a3405ca1}{%
-           family={Johnston},
-           familyi={J\bibinitperiod},
-           given={Elgin},
-           giveni={E\bibinitperiod}}}%
-        {{hash=1f154bf97c99ffbab80d5b2c484b9293}{%
-           family={Kliemann},
-           familyi={K\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod}}}%
-        {{hash=5da2e3f21c389ddad7ab3e07d9708859}{%
-           family={Koehler},
-           familyi={K\bibinitperiod},
-           given={Kenneth},
-           giveni={K\bibinitperiod}}}%
-        {{hash=3a1848c907db2a8c8db31074a2428450}{%
-           family={Mouzon},
-           familyi={M\bibinitperiod},
-           given={Ian},
-           giveni={I\bibinitperiod}}}%
-        {{hash=b58179978bbb7e00be2f266773440915}{%
-           family={Nguyen},
-           familyi={N\bibinitperiod},
-           given={Xuan\bibnamedelima Hien},
-           giveni={X\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Cary, NC, USA}%
-      }
-      \list{organization}{1}{%
-        {ASA}%
-      }
-      \strng{namehash}{c8608f5925de3ec63c1bf49060e7ea65}
-      \strng{fullhash}{dcaf9e77ecf93d9c6dbcb88b78d0c6e4}
-      \strng{bibnamehash}{dcaf9e77ecf93d9c6dbcb88b78d0c6e4}
-      \strng{authorbibnamehash}{dcaf9e77ecf93d9c6dbcb88b78d0c6e4}
-      \strng{authornamehash}{c8608f5925de3ec63c1bf49060e7ea65}
-      \strng{authorfullhash}{dcaf9e77ecf93d9c6dbcb88b78d0c6e4}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Women in Statistics Conference}
-      \field{month}{5}
-      \field{note}{Student Poster}
-      \field{title}{Mathematical Self-Efficacy of Incoming Students at a Large Public University}
-      \field{year}{2014}
-      \true{nocite}
-      \keyw{poster}
-    \endentry
-    \entry{dataexpo2013}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=20bc608eb3d6a563c382856efb078458}{%
-           family={Hare},
-           familyi={H\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Montreal, QC, Canada}%
-      }
-      \list{organization}{1}{%
-        {ASA}%
-      }
-      \strng{namehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{fullhash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{bibnamehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{authorbibnamehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{authornamehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{authorfullhash}{ce97845128e47efc0639b10698aa6d11}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Joint Statistical Meetings}
-      \field{month}{8}
-      \field{note}{Data Exposition Poster}
-      \field{title}{Putting Down Roots: A Graphical Exploration of Community Attachment}
-      \field{year}{2013}
-      \true{nocite}
-      \keyw{poster}
-    \endentry
-    \entry{jsm2013}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=1c28d200f0f62f401828f87d0c8b43eb}{%
-           family={{Hare,\bibnamedelimb E.}*},
-           familyi={H\bibinitperiod}}}%
-        {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Montreal, QC, Canada}%
-      }
-      \list{organization}{1}{%
-        {ASA}%
-      }
-      \strng{namehash}{e6985fdf2129cef892470186ebb166f0}
-      \strng{fullhash}{e6985fdf2129cef892470186ebb166f0}
-      \strng{bibnamehash}{e6985fdf2129cef892470186ebb166f0}
-      \strng{authorbibnamehash}{e6985fdf2129cef892470186ebb166f0}
-      \strng{authornamehash}{e6985fdf2129cef892470186ebb166f0}
-      \strng{authorfullhash}{e6985fdf2129cef892470186ebb166f0}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Joint Statistical Meetings}
-      \field{month}{8}
-      \field{note}{Contributed Poster}
-      \field{title}{Can you buy a president? Politics after the Tillman Act}
-      \field{year}{2013}
-      \true{nocite}
-      \keyw{poster}
-    \endentry
-    \entry{isugg2020}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
            familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
         {{hash=15bc08be623a218b5f4594d9bbc0c84e}{%
            family={Bien},
@@ -994,21 +912,170 @@
            given={Jacob},
            giveni={J\bibinitperiod}}}%
       }
+      \strng{namehash}{d20eaf76dff2d03bc998ad95688d5fe5}
+      \strng{fullhash}{d20eaf76dff2d03bc998ad95688d5fe5}
+      \strng{bibnamehash}{d20eaf76dff2d03bc998ad95688d5fe5}
+      \strng{authorbibnamehash}{d20eaf76dff2d03bc998ad95688d5fe5}
+      \strng{authornamehash}{d20eaf76dff2d03bc998ad95688d5fe5}
+      \strng{authorfullhash}{d20eaf76dff2d03bc998ad95688d5fe5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 0.1.0}
+      \field{title}{protoshiny: Interactive dendrograms for Visualizing Hierarchical Clusters with Prototypes}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/andeek/protoshiny
+      \endverb
+      \verb{url}
+      \verb https://github.com/andeek/protoshiny
+      \endverb
+      \keyw{packages}
+    \endentry
+    \entry{dblink}{manual}{}
+      \name{author}{3}{}{%
+        {{hash=d6088582910a4f095ef14e06ed77d860}{%
+           family={Marchant},
+           familyi={M\bibinitperiod},
+           given={Neil},
+           giveni={N\bibinitperiod}}}%
+        {{hash=3f3c8a16fa0bdd435241ef7bf4b69631}{%
+           family={Steorts},
+           familyi={S\bibinitperiod},
+           given={Rebecca\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f134e230f725bc4fbeeedfab232b0cb}
+      \strng{fullhash}{2f134e230f725bc4fbeeedfab232b0cb}
+      \strng{bibnamehash}{2f134e230f725bc4fbeeedfab232b0cb}
+      \strng{authorbibnamehash}{2f134e230f725bc4fbeeedfab232b0cb}
+      \strng{authornamehash}{2f134e230f725bc4fbeeedfab232b0cb}
+      \strng{authorfullhash}{2f134e230f725bc4fbeeedfab232b0cb}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Scala package version 0.2.0}
+      \field{title}{dblink: Distributed End-to-End Bayesian Entity Resolution}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/cleanzr/dblink
+      \endverb
+      \verb{url}
+      \verb https://github.com/cleanzr/dblink
+      \endverb
+      \keyw{packages}
+    \endentry
+    \entry{conclique}{manual}{}
+      \name{author}{2}{}{%
+        {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
+           family={Nordman},
+           familyi={N\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{c887d30997ce070557a365d8afa8e53f}
+      \strng{fullhash}{c887d30997ce070557a365d8afa8e53f}
+      \strng{bibnamehash}{c887d30997ce070557a365d8afa8e53f}
+      \strng{authorbibnamehash}{c887d30997ce070557a365d8afa8e53f}
+      \strng{authornamehash}{c887d30997ce070557a365d8afa8e53f}
+      \strng{authorfullhash}{c887d30997ce070557a365d8afa8e53f}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 0.1.0}
+      \field{title}{conclique: Gibbs Sampling for Spatial Data and Concliques}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/andeek/conclique
+      \endverb
+      \verb{url}
+      \verb https://github.com/andeek/conclique
+      \endverb
+      \keyw{packages}
+    \endentry
+    \entry{intro}{manual}{}
+      \name{author}{2}{}{%
+        {{hash=20bc608eb3d6a563c382856efb078458}{%
+           family={Hare},
+           familyi={H\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{92e8682dc30f7935c7beaeed62c7e2a9}
+      \strng{fullhash}{92e8682dc30f7935c7beaeed62c7e2a9}
+      \strng{bibnamehash}{92e8682dc30f7935c7beaeed62c7e2a9}
+      \strng{authorbibnamehash}{92e8682dc30f7935c7beaeed62c7e2a9}
+      \strng{authornamehash}{92e8682dc30f7935c7beaeed62c7e2a9}
+      \strng{authorfullhash}{92e8682dc30f7935c7beaeed62c7e2a9}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 0.1}
+      \field{title}{intRo: Download and Run the intRo Statistical Software}
+      \field{year}{2017}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/gammarama/intRo
+      \endverb
+      \verb{url}
+      \verb https://github.com/gammarama/intRo
+      \endverb
+      \keyw{packages}
+    \endentry
+    \entry{forestr}{manual}{}
+      \name{author}{1}{}{%
+        {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ab31bdd40e42580f66dc437ecfb16562}
+      \strng{fullhash}{ab31bdd40e42580f66dc437ecfb16562}
+      \strng{bibnamehash}{ab31bdd40e42580f66dc437ecfb16562}
+      \strng{authorbibnamehash}{ab31bdd40e42580f66dc437ecfb16562}
+      \strng{authornamehash}{ab31bdd40e42580f66dc437ecfb16562}
+      \strng{authorfullhash}{ab31bdd40e42580f66dc437ecfb16562}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 0.0.0.9000}
+      \field{title}{forestr: Random forests with a user created splitting criterion}
+      \field{year}{2015}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/andeek/forestr
+      \endverb
+      \verb{url}
+      \verb https://github.com/andeek/forestr
+      \endverb
+      \keyw{packages}
+    \endentry
+    \entry{isugg2020}{inproceedings}{}
       \list{location}{1}{%
         {Ames, IA, USA (Remote via Zoom)}%
       }
       \list{organization}{1}{%
         {Iowa State University, Graphics Group}%
       }
-      \strng{namehash}{7a3f9e532da13f7c1f97ee6e1a763c78}
-      \strng{fullhash}{7a3f9e532da13f7c1f97ee6e1a763c78}
-      \strng{bibnamehash}{7a3f9e532da13f7c1f97ee6e1a763c78}
-      \strng{authorbibnamehash}{7a3f9e532da13f7c1f97ee6e1a763c78}
-      \strng{authornamehash}{7a3f9e532da13f7c1f97ee6e1a763c78}
-      \strng{authorfullhash}{7a3f9e532da13f7c1f97ee6e1a763c78}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Invited Talk}
       \field{month}{11}
@@ -1024,8 +1091,8 @@
       \list{organization}{1}{%
         {University of Toronto, Department of Statistics}%
       }
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{month}{11}
       \field{year}{2020}
       \true{nocite}
@@ -1040,45 +1107,22 @@
         {Research at the Intersection of Information, Society,}%
         {Methodology}%
       }
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{month}{10}
       \field{year}{2020}
       \true{nocite}
       \keyw{seminar}
     \endentry
     \entry{sdss2020}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=3c1fc8c229e36181b1e72f948f2a7f46}{%
-           family={Betancourt},
-           familyi={B\bibinitperiod},
-           given={Brenda},
-           giveni={B\bibinitperiod}}}%
-        {{hash=3f3c8a16fa0bdd435241ef7bf4b69631}{%
-           family={Steorts},
-           familyi={S\bibinitperiod},
-           given={Rebecca\bibnamedelima C.},
-           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {Pittsburgh, PA, USA (Remote via Zoom)}%
       }
       \list{organization}{1}{%
         {ASA}%
       }
-      \strng{namehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{fullhash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{bibnamehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{authorbibnamehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{authornamehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{authorfullhash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelnamesource}{author}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labeltitlesource}{title}
       \field{booktitle}{Symposium on Data Science and Statistics}
       \field{month}{6}
@@ -1089,37 +1133,14 @@
       \keyw{talk-invited}
     \endentry
     \entry{bayescomp2020}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=3c1fc8c229e36181b1e72f948f2a7f46}{%
-           family={Betancourt},
-           familyi={B\bibinitperiod},
-           given={Brenda},
-           giveni={B\bibinitperiod}}}%
-        {{hash=3f3c8a16fa0bdd435241ef7bf4b69631}{%
-           family={Steorts},
-           familyi={S\bibinitperiod},
-           given={Rebecca\bibnamedelima C.},
-           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {Gainesville, FL, USA}%
       }
       \list{organization}{1}{%
         {ISBA}%
       }
-      \strng{namehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{fullhash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{bibnamehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{authorbibnamehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{authornamehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{authorfullhash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \field{extraname}{3}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelnamesource}{author}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labeltitlesource}{title}
       \field{booktitle}{Bayes Comp}
       \field{month}{1}
@@ -1130,21 +1151,6 @@
       \keyw{talk-invited}
     \endentry
     \entry{cmstat2019}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=3c1fc8c229e36181b1e72f948f2a7f46}{%
-           family={Betancourt},
-           familyi={B\bibinitperiod},
-           given={Brenda},
-           giveni={B\bibinitperiod}}}%
-        {{hash=3f3c8a16fa0bdd435241ef7bf4b69631}{%
-           family={Steorts},
-           familyi={S\bibinitperiod},
-           given={Rebecca\bibnamedelima C.},
-           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {London, UK}%
       }
@@ -1152,16 +1158,8 @@
         {European Research Consortium for Informatics}%
         {Mathematics}%
       }
-      \strng{namehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{fullhash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{bibnamehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{authorbibnamehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{authornamehash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \strng{authorfullhash}{7ea40a7ebbf8b6a972d11a82a8f1d3ba}
-      \field{extraname}{4}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelnamesource}{author}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labeltitlesource}{title}
       \field{booktitle}{12th International Conference of the ERCIM WG on Computational and Methodological Statistics}
       \field{month}{12}
@@ -1179,40 +1177,22 @@
         {The University of Wisconsin, Systems, Information, Learning}%
         {Optimization (SILO) Research Group}%
       }
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{month}{11}
       \field{year}{2019}
       \true{nocite}
       \keyw{seminar}
     \endentry
     \entry{jsm2019}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=20bc608eb3d6a563c382856efb078458}{%
-           family={Hare},
-           familyi={H\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {Denver, CO, USA}%
       }
       \list{organization}{1}{%
         {ASA}%
       }
-      \strng{namehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{fullhash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{bibnamehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{authorbibnamehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{authornamehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{authorfullhash}{ce97845128e47efc0639b10698aa6d11}
-      \field{extraname}{2}
       \field{sortinit}{3}
       \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Joint Statistical Meetings}
       \field{month}{7}
@@ -1271,8 +1251,8 @@
       \list{organization}{1}{%
         {The Pennsylvania State University, Department of Statistics}%
       }
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{month}{2}
       \field{year}{2019}
       \true{nocite}
@@ -1285,8 +1265,8 @@
       \list{organization}{1}{%
         {Virginia Tech University, Department of Statistics}%
       }
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{month}{2}
       \field{year}{2019}
       \true{nocite}
@@ -1299,8 +1279,8 @@
       \list{organization}{1}{%
         {The University of Wisconsin, Department of Statistics}%
       }
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{month}{2}
       \field{year}{2019}
       \true{nocite}
@@ -1313,8 +1293,8 @@
       \list{organization}{1}{%
         {Colorado State University, Department of Statistics}%
       }
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{month}{1}
       \field{year}{2019}
       \true{nocite}
@@ -1328,8 +1308,8 @@
         {The University of Texas at Austin, Department of Statistics}%
         {Data Science}%
       }
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{month}{1}
       \field{year}{2019}
       \true{nocite}
@@ -1342,8 +1322,8 @@
       \list{organization}{1}{%
         {Stanford University, Department of Statistics}%
       }
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{month}{1}
       \field{year}{2019}
       \true{nocite}
@@ -1393,42 +1373,14 @@
       \keyw{seminar}
     \endentry
     \entry{ties2018}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=c380bf1479634cfa298d97408b2ba4d2}{%
-           family={Kaiser},
-           familyi={K\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod}}}%
-        {{hash=4e9bb0ee29de726a96aa3a1995662e74}{%
-           family={Lahiri},
-           familyi={L\bibinitperiod},
-           given={Soumendra},
-           giveni={S\bibinitperiod}}}%
-        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
-           family={Nordman},
-           familyi={N\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {Guanajuato, Gto., Mexico}%
       }
       \list{organization}{1}{%
         {The 28th Annual Conference of the International Envirometrics Society}%
       }
-      \strng{namehash}{c8608f5925de3ec63c1bf49060e7ea65}
-      \strng{fullhash}{0e05bf727105a9d8f1811ec895ab75cd}
-      \strng{bibnamehash}{0e05bf727105a9d8f1811ec895ab75cd}
-      \strng{authorbibnamehash}{0e05bf727105a9d8f1811ec895ab75cd}
-      \strng{authornamehash}{c8608f5925de3ec63c1bf49060e7ea65}
-      \strng{authorfullhash}{0e05bf727105a9d8f1811ec895ab75cd}
-      \field{extraname}{2}
       \field{sortinit}{4}
       \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Invited Session}
       \field{month}{7}
@@ -1438,37 +1390,14 @@
       \keyw{talk-invited}
     \endentry
     \entry{msmlc2018}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
-           family={Nordman},
-           familyi={N\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
-        {{hash=cd5e8659b35c629f9667c06858878d58}{%
-           family={Vardeman},
-           familyi={V\bibinitperiod},
-           given={Stephen},
-           giveni={S\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {Ames, IA, USA}%
       }
       \list{organization}{1}{%
         {The 1st Midwest Statistical Machine Learning Colloquium}%
       }
-      \strng{namehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{fullhash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{bibnamehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{authorbibnamehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{authornamehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{authorfullhash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \field{extraname}{3}
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
-      \field{labelnamesource}{author}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labeltitlesource}{title}
       \field{booktitle}{Keynote}
       \field{month}{5}
@@ -1484,8 +1413,8 @@
       \list{organization}{1}{%
         {Iowa State University, Department of Statistics}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{month}{1}
       \field{year}{2018}
       \true{nocite}
@@ -1498,8 +1427,8 @@
       \list{organization}{1}{%
         {North Carolina State University, Department of Statistics}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{month}{11}
       \field{year}{2017}
       \true{nocite}
@@ -1512,8 +1441,8 @@
       \list{organization}{1}{%
         {Centro de Investigación en Matemáticas}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{month}{10}
       \field{year}{2017}
       \true{nocite}
@@ -1526,8 +1455,8 @@
       \list{organization}{1}{%
         {Duke University, Department of Statistical Science}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{month}{4}
       \field{year}{2017}
       \true{nocite}
@@ -1541,8 +1470,8 @@
         {Michigan State University, Department of Statistics}%
         {Probability}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{month}{2}
       \field{year}{2017}
       \true{nocite}
@@ -1612,8 +1541,8 @@
         {Arizona State University, School of Mathematical}%
         {Statistical Sciences}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{month}{1}
       \field{year}{2017}
       \true{nocite}
@@ -1626,24 +1555,14 @@
       \list{organization}{1}{%
         {University of Massachussetts, Amherst, Department of Mathematics \& Statistics}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{month}{12}
       \field{year}{2016}
       \true{nocite}
       \keyw{seminar}
     \endentry
     \entry{cmstat2015}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
-           family={Nordman},
-           familyi={N\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {London, UK}%
       }
@@ -1651,15 +1570,8 @@
         {European Research Consortium for Informatics}%
         {Mathematics}%
       }
-      \strng{namehash}{13fb23f982a65c3383888e087360653b}
-      \strng{fullhash}{13fb23f982a65c3383888e087360653b}
-      \strng{bibnamehash}{13fb23f982a65c3383888e087360653b}
-      \strng{authorbibnamehash}{13fb23f982a65c3383888e087360653b}
-      \strng{authornamehash}{13fb23f982a65c3383888e087360653b}
-      \strng{authorfullhash}{13fb23f982a65c3383888e087360653b}
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
-      \field{labelnamesource}{author}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labeltitlesource}{title}
       \field{booktitle}{8th International Conference of the ERCIM WG on Computational and Methodological Statistics}
       \field{month}{12}
@@ -1676,37 +1588,22 @@
       \list{organization}{1}{%
         {Iowa State University, Department of Statistics}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{month}{1}
       \field{year}{2015}
       \true{nocite}
       \keyw{seminar}
     \endentry
     \entry{census2013}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=1c28d200f0f62f401828f87d0c8b43eb}{%
-           family={{Hare,\bibnamedelimb E.}*},
-           familyi={H\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {Washington, D.C., USA}%
       }
       \list{organization}{1}{%
         {U.S. Census Bureau}%
       }
-      \strng{namehash}{749322301af4e66a171baea2602749b3}
-      \strng{fullhash}{749322301af4e66a171baea2602749b3}
-      \strng{bibnamehash}{749322301af4e66a171baea2602749b3}
-      \strng{authorbibnamehash}{749322301af4e66a171baea2602749b3}
-      \strng{authornamehash}{749322301af4e66a171baea2602749b3}
-      \strng{authorfullhash}{749322301af4e66a171baea2602749b3}
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
-      \field{labelnamesource}{author}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labeltitlesource}{title}
       \field{booktitle}{Census Data Visualization Seminar}
       \field{month}{9}
@@ -1716,32 +1613,14 @@
       \keyw{talk-invited}
     \endentry
     \entry{jsm2018}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=3f3c8a16fa0bdd435241ef7bf4b69631}{%
-           family={Steorts},
-           familyi={S\bibinitperiod},
-           given={Rebecca\bibnamedelima C.},
-           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {Vancouver, BC, Canada}%
       }
       \list{organization}{1}{%
         {ASA}%
       }
-      \strng{namehash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{fullhash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{bibnamehash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{authorbibnamehash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{authornamehash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{authorfullhash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \field{extraname}{2}
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
-      \field{labelnamesource}{author}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labeltitlesource}{title}
       \field{booktitle}{Joint Statistical Meetings}
       \field{month}{7}
@@ -1752,32 +1631,14 @@
       \keyw{talk-contributed}
     \endentry
     \entry{isba2018}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=3f3c8a16fa0bdd435241ef7bf4b69631}{%
-           family={Steorts},
-           familyi={S\bibinitperiod},
-           given={Rebecca\bibnamedelima C.},
-           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {Edinburgh, UK}%
       }
       \list{organization}{1}{%
         {ISBA}%
       }
-      \strng{namehash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{fullhash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{bibnamehash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{authorbibnamehash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{authornamehash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \strng{authorfullhash}{cec6f07d7abb0587d12d0b12b0ab9c8c}
-      \field{extraname}{3}
       \field{sortinit}{6}
       \field{sortinithash}{7851c86048328b027313775d8fbd2131}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{ISBA World Meeting}
       \field{month}{6}
@@ -1788,42 +1649,14 @@
       \keyw{talk-contributed}
     \endentry
     \entry{jsm2017}{inproceedings}{}
-      \name{author}{4}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=c380bf1479634cfa298d97408b2ba4d2}{%
-           family={Kaiser},
-           familyi={K\bibinitperiod},
-           given={Mark},
-           giveni={M\bibinitperiod}}}%
-        {{hash=4e9bb0ee29de726a96aa3a1995662e74}{%
-           family={Lahiri},
-           familyi={L\bibinitperiod},
-           given={Soumendra},
-           giveni={S\bibinitperiod}}}%
-        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
-           family={Nordman},
-           familyi={N\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {Baltimore, MD, USA}%
       }
       \list{organization}{1}{%
         {ASA}%
       }
-      \strng{namehash}{c8608f5925de3ec63c1bf49060e7ea65}
-      \strng{fullhash}{0e05bf727105a9d8f1811ec895ab75cd}
-      \strng{bibnamehash}{0e05bf727105a9d8f1811ec895ab75cd}
-      \strng{authorbibnamehash}{0e05bf727105a9d8f1811ec895ab75cd}
-      \strng{authornamehash}{c8608f5925de3ec63c1bf49060e7ea65}
-      \strng{authorfullhash}{0e05bf727105a9d8f1811ec895ab75cd}
-      \field{extraname}{3}
       \field{sortinit}{6}
       \field{sortinithash}{7851c86048328b027313775d8fbd2131}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Joint Statistical Meetings}
       \field{month}{8}
@@ -1834,37 +1667,14 @@
       \keyw{talk-contributed}
     \endentry
     \entry{jsm2016}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
-           family={Nordman},
-           familyi={N\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
-        {{hash=cd5e8659b35c629f9667c06858878d58}{%
-           family={Vardeman},
-           familyi={V\bibinitperiod},
-           given={Stephen},
-           giveni={S\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {Chicago, IL, USA}%
       }
       \list{organization}{1}{%
         {ASA}%
       }
-      \strng{namehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{fullhash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{bibnamehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{authorbibnamehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{authornamehash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \strng{authorfullhash}{831fee91e3ebdfbd8232742bc8e7ca97}
-      \field{extraname}{4}
       \field{sortinit}{6}
       \field{sortinithash}{7851c86048328b027313775d8fbd2131}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{Joint Statistical Meetings}
       \field{month}{7}
@@ -1875,29 +1685,11 @@
       \keyw{talk-contributed}
     \endentry
     \entry{user2016}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=20bc608eb3d6a563c382856efb078458}{%
-           family={Hare},
-           familyi={H\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {Stanford, CA, USA}%
       }
-      \strng{namehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{fullhash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{bibnamehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{authorbibnamehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{authornamehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{authorfullhash}{ce97845128e47efc0639b10698aa6d11}
-      \field{extraname}{3}
       \field{sortinit}{6}
       \field{sortinithash}{7851c86048328b027313775d8fbd2131}
-      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{The R User Conference}
       \field{month}{6}
@@ -1908,32 +1700,14 @@
       \keyw{talk-contributed}
     \endentry
     \entry{jsm2015}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=20bc608eb3d6a563c382856efb078458}{%
-           family={Hare},
-           familyi={H\bibinitperiod},
-           given={Eric},
-           giveni={E\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {Seattle, WA, USA}%
       }
       \list{organization}{1}{%
         {ASA}%
       }
-      \strng{namehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{fullhash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{bibnamehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{authorbibnamehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{authornamehash}{ce97845128e47efc0639b10698aa6d11}
-      \strng{authorfullhash}{ce97845128e47efc0639b10698aa6d11}
-      \field{extraname}{4}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
-      \field{labelnamesource}{author}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labeltitlesource}{title}
       \field{booktitle}{Joint Statistical Meetings}
       \field{month}{8}
@@ -1943,254 +1717,20 @@
       \true{nocite}
       \keyw{talk-contributed}
     \endentry
-    \entry{jsm2015-2}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=1c28d200f0f62f401828f87d0c8b43eb}{%
-           family={{Hare,\bibnamedelimb E.}*},
-           familyi={H\bibinitperiod}}}%
-        {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Seattle, WA, USA}%
-      }
-      \list{organization}{1}{%
-        {ASA}%
-      }
-      \strng{namehash}{e6985fdf2129cef892470186ebb166f0}
-      \strng{fullhash}{e6985fdf2129cef892470186ebb166f0}
-      \strng{bibnamehash}{e6985fdf2129cef892470186ebb166f0}
-      \strng{authorbibnamehash}{e6985fdf2129cef892470186ebb166f0}
-      \strng{authornamehash}{e6985fdf2129cef892470186ebb166f0}
-      \strng{authorfullhash}{e6985fdf2129cef892470186ebb166f0}
-      \field{extraname}{2}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Joint Statistical Meetings}
-      \field{month}{8}
-      \field{note}{Contributed Paper}
-      \field{title}{IntRo: Software for Introductory Statistics}
-      \field{year}{2015}
-      \true{nocite}
-      \keyw{talk-contributed}
-    \endentry
     \entry{jsm2014}{inproceedings}{}
-      \name{author}{3}{}{%
-        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=aab385203b295bcea3e72bd9a22eebae}{%
-           family={Hofmann},
-           familyi={H\bibinitperiod},
-           given={Heike},
-           giveni={H\bibinitperiod}}}%
-        {{hash=ed12dfc9ed37f4cecbff234c50c43639}{%
-           family={Nordman},
-           familyi={N\bibinitperiod},
-           given={Daniel},
-           giveni={D\bibinitperiod}}}%
-      }
       \list{location}{1}{%
         {Boston, MA, USA}%
       }
       \list{organization}{1}{%
         {ASA}%
       }
-      \strng{namehash}{a7e1092c8f3b821dfe8645053ee536c3}
-      \strng{fullhash}{a7e1092c8f3b821dfe8645053ee536c3}
-      \strng{bibnamehash}{a7e1092c8f3b821dfe8645053ee536c3}
-      \strng{authorbibnamehash}{a7e1092c8f3b821dfe8645053ee536c3}
-      \strng{authornamehash}{a7e1092c8f3b821dfe8645053ee536c3}
-      \strng{authorfullhash}{a7e1092c8f3b821dfe8645053ee536c3}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
-      \field{labelnamesource}{author}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labeltitlesource}{title}
       \field{booktitle}{Joint Statistical Meetings}
       \field{month}{8}
       \field{note}{Contributed Paper}
       \field{title}{gravicom - A web-based tool for community detection in networks}
-      \field{year}{2014}
-      \true{nocite}
-      \keyw{talk-contributed}
-    \endentry
-    \entry{jsm2014-2}{inproceedings}{}
-      \name{author}{8}{}{%
-        {{hash=f793d56d6e3745a449631e5cf3d77138}{%
-           family={{Mouzon,\bibnamedelimb I.}*},
-           familyi={M\bibinitperiod}}}%
-        {{hash=627009a853194290393c3b2b55e82800}{%
-           family={Genschel},
-           familyi={G\bibinitperiod},
-           given={Ulrike},
-           giveni={U\bibinitperiod}}}%
-        {{hash=4acd63a2db9e48e51b5ad1deae819749}{%
-           family={Carriquiry},
-           familyi={C\bibinitperiod},
-           given={Alicia},
-           giveni={A\bibinitperiod}}}%
-        {{hash=b58179978bbb7e00be2f266773440915}{%
-           family={Nguyen},
-           familyi={N\bibinitperiod},
-           given={Xuan\bibnamedelima Hien},
-           giveni={X\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-        {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=1c144cbb8890c674b8815da5a3405ca1}{%
-           family={Johnston},
-           familyi={J\bibinitperiod},
-           given={Elgin},
-           giveni={E\bibinitperiod}}}%
-        {{hash=1f154bf97c99ffbab80d5b2c484b9293}{%
-           family={Kliemann},
-           familyi={K\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod}}}%
-        {{hash=5da2e3f21c389ddad7ab3e07d9708859}{%
-           family={Koehler},
-           familyi={K\bibinitperiod},
-           given={Kenneth},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Boston, MA, USA}%
-      }
-      \list{organization}{1}{%
-        {ASA}%
-      }
-      \strng{namehash}{1674d383b9b81bf07dc009df082e6473}
-      \strng{fullhash}{333360b3922a92dec3ae3906c926052f}
-      \strng{bibnamehash}{333360b3922a92dec3ae3906c926052f}
-      \strng{authorbibnamehash}{333360b3922a92dec3ae3906c926052f}
-      \strng{authornamehash}{1674d383b9b81bf07dc009df082e6473}
-      \strng{authorfullhash}{333360b3922a92dec3ae3906c926052f}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Joint Statistical Meetings}
-      \field{month}{8}
-      \field{note}{Contributed Paper}
-      \field{title}{Early College Performance, Gender, and Other Factors Influencing Continuation in STEM Fields}
-      \field{year}{2014}
-      \true{nocite}
-      \keyw{talk-contributed}
-    \endentry
-    \entry{jsm2014-3}{inproceedings}{}
-      \name{author}{7}{}{%
-        {{hash=d17fca0efd08be8ee8f1009e336e07fd}{%
-           family={{Genschel,\bibnamedelimb U.}*},
-           familyi={G\bibinitperiod}}}%
-        {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=4acd63a2db9e48e51b5ad1deae819749}{%
-           family={Carriquiry},
-           familyi={C\bibinitperiod},
-           given={Alicia},
-           giveni={A\bibinitperiod}}}%
-        {{hash=1c144cbb8890c674b8815da5a3405ca1}{%
-           family={Johnston},
-           familyi={J\bibinitperiod},
-           given={Elgin},
-           giveni={E\bibinitperiod}}}%
-        {{hash=1f154bf97c99ffbab80d5b2c484b9293}{%
-           family={Kliemann},
-           familyi={K\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod}}}%
-        {{hash=5da2e3f21c389ddad7ab3e07d9708859}{%
-           family={Koehler},
-           familyi={K\bibinitperiod},
-           given={Kenneth},
-           giveni={K\bibinitperiod}}}%
-        {{hash=3a1848c907db2a8c8db31074a2428450}{%
-           family={Mouzon},
-           familyi={M\bibinitperiod},
-           given={Ian},
-           giveni={I\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Boston, MA, USA}%
-      }
-      \list{organization}{1}{%
-        {ASA}%
-      }
-      \strng{namehash}{25b578c0f7423c6ac8b30620d0f5c835}
-      \strng{fullhash}{efff9cf88a566aa79a0658baf218f09b}
-      \strng{bibnamehash}{efff9cf88a566aa79a0658baf218f09b}
-      \strng{authorbibnamehash}{efff9cf88a566aa79a0658baf218f09b}
-      \strng{authornamehash}{25b578c0f7423c6ac8b30620d0f5c835}
-      \strng{authorfullhash}{efff9cf88a566aa79a0658baf218f09b}
-      \field{extraname}{1}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{Joint Statistical Meetings}
-      \field{month}{8}
-      \field{note}{Contributed Paper}
-      \field{title}{Statistical and Mathematical Self-Efficacy of Incoming Students at a Large Public University}
-      \field{year}{2014}
-      \true{nocite}
-      \keyw{talk-contributed}
-    \endentry
-    \entry{icots9}{inproceedings}{}
-      \name{author}{7}{}{%
-        {{hash=d17fca0efd08be8ee8f1009e336e07fd}{%
-           family={{Genschel,\bibnamedelimb U.}*},
-           familyi={G\bibinitperiod}}}%
-        {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=4acd63a2db9e48e51b5ad1deae819749}{%
-           family={Carriquiry},
-           familyi={C\bibinitperiod},
-           given={Alicia},
-           giveni={A\bibinitperiod}}}%
-        {{hash=1c144cbb8890c674b8815da5a3405ca1}{%
-           family={Johnston},
-           familyi={J\bibinitperiod},
-           given={Elgin},
-           giveni={E\bibinitperiod}}}%
-        {{hash=1f154bf97c99ffbab80d5b2c484b9293}{%
-           family={Kliemann},
-           familyi={K\bibinitperiod},
-           given={Wolfgang},
-           giveni={W\bibinitperiod}}}%
-        {{hash=5da2e3f21c389ddad7ab3e07d9708859}{%
-           family={Koehler},
-           familyi={K\bibinitperiod},
-           given={Kenneth},
-           giveni={K\bibinitperiod}}}%
-        {{hash=3a1848c907db2a8c8db31074a2428450}{%
-           family={Mouzon},
-           familyi={M\bibinitperiod},
-           given={Ian},
-           giveni={I\bibinitperiod}}}%
-      }
-      \list{location}{1}{%
-        {Flagstaff, AZ, USA}%
-      }
-      \strng{namehash}{25b578c0f7423c6ac8b30620d0f5c835}
-      \strng{fullhash}{efff9cf88a566aa79a0658baf218f09b}
-      \strng{bibnamehash}{efff9cf88a566aa79a0658baf218f09b}
-      \strng{authorbibnamehash}{efff9cf88a566aa79a0658baf218f09b}
-      \strng{authornamehash}{25b578c0f7423c6ac8b30620d0f5c835}
-      \strng{authorfullhash}{efff9cf88a566aa79a0658baf218f09b}
-      \field{extraname}{2}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{booktitle}{The Ninth International Conference on Teaching Statistics}
-      \field{month}{7}
-      \field{note}{Contributed Paper}
-      \field{title}{Statistical and Mathematical Self-Efficacy of Incoming Students at a Large Public University}
       \field{year}{2014}
       \true{nocite}
       \keyw{talk-contributed}
