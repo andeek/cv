@@ -984,18 +984,38 @@
       \keyw{poster}
     \endentry
     \entry{isugg2020}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=4d41099f99ff4f293855e3d4520af53b}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}*},
+           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=15bc08be623a218b5f4594d9bbc0c84e}{%
+           family={Bien},
+           familyi={B\bibinitperiod},
+           given={Jacob},
+           giveni={J\bibinitperiod}}}%
+      }
       \list{location}{1}{%
         {Ames, IA, USA (Remote via Zoom)}%
       }
       \list{organization}{1}{%
         {Iowa State University, Graphics Group}%
       }
+      \strng{namehash}{7a3f9e532da13f7c1f97ee6e1a763c78}
+      \strng{fullhash}{7a3f9e532da13f7c1f97ee6e1a763c78}
+      \strng{bibnamehash}{7a3f9e532da13f7c1f97ee6e1a763c78}
+      \strng{authorbibnamehash}{7a3f9e532da13f7c1f97ee6e1a763c78}
+      \strng{authornamehash}{7a3f9e532da13f7c1f97ee6e1a763c78}
+      \strng{authorfullhash}{7a3f9e532da13f7c1f97ee6e1a763c78}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Invited Talk}
       \field{month}{11}
+      \field{title}{Exploring Interactive Dendrograms with Prototypes}
       \field{year}{2020}
       \true{nocite}
-      \keyw{seminar}
+      \keyw{talk-invited}
     \endentry
     \entry{toronto2020}{inproceedings}{}
       \list{location}{1}{%
