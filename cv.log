@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  3 FEB 2021 13:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  6 APR 2021 09:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**cv.tex
+**cv
 (./cv.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06> (./res.cls
@@ -486,24 +486,24 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 ) (./cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
+LaTeX Font Info:    ... okay on input line 69.
 \AtBeginShipoutBox=\box95
-Package hyperref Info: Link coloring OFF on input line 40.
+Package hyperref Info: Link coloring OFF on input line 69.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 (/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
@@ -515,9 +515,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count393
 )
-LaTeX Info: Redefining \ref on input line 40.
-LaTeX Info: Redefining \pageref on input line 40.
-LaTeX Info: Redefining \nameref on input line 40.
+LaTeX Info: Redefining \ref on input line 69.
+LaTeX Info: Redefining \pageref on input line 69.
+LaTeX Info: Redefining \nameref on input line 69.
  (./cv.out) (./cv.out)
 \@outlinefile=\write4
 \openout4 = `cv.out'.
@@ -537,14 +537,14 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'cv.bbl' found.
 
 (./cv.bbl)
-Package biblatex Info: Reference section=0 on input line 40.
-Package biblatex Info: Reference segment=0 on input line 40.
+Package biblatex Info: Reference section=0 on input line 69.
+Package biblatex Info: Reference segment=0 on input line 69.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 48.
+(Font)              <7> on input line 77.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 48.
+(Font)              <5> on input line 77.
 
-Overfull \hbox (17.99998pt too wide) in paragraph at lines 48--53
+Overfull \hbox (17.99998pt too wide) in paragraph at lines 77--82
 [][] 
  []
 
@@ -556,86 +556,85 @@ Package biblatex Warning: Name format 'last-first' deprecated.
 (biblatex)                Please use 'family-given' instead.
 (biblatex)                Using 'family-given' now.
 
+
+Package biblatex Warning: Keyword 'inprep' not found on input line 182.
+
+
+LaTeX Warning: Empty bibliography on input line 182.
+
 [2]
-
-Package biblatex Warning: Keyword 'inprep' not found on input line 153.
-
-
-LaTeX Warning: Empty bibliography on input line 153.
-
-
-Overfull \hbox (14.00304pt too wide) in paragraph at lines 162--163
+Overfull \hbox (14.00304pt too wide) in paragraph at lines 191--192
 \OT1/cmr/m/it/10 ravel Con-nec-tions Be-tween Health, Ag-ing and En-vi-ron-ment
  \OT1/cmr/m/n/10 (NSF) PI: Michael J. Kirby (\TS1/cmr/m/n/10 $\OT1/cmr/m/n/10 1
 7,041,305.00).
  []
 
 [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 186--187
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 200--201
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 235--236
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 288--290
+Underfull \hbox (badness 10000) in paragraph at lines 317--319
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 292--295
+Underfull \hbox (badness 10000) in paragraph at lines 321--324
 
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 406--407
+Underfull \hbox (badness 10000) in paragraph at lines 435--436
 
  []
 
 [7] [8]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 489.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 489.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 518.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 518.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 489.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 489.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 518.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 518.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'cv.run.xml'.
 \openout1 = `cv.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 489.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 518.
  ) 
 Here is how much of TeX's memory you used:
- 12282 strings out of 480608
- 225126 string characters out of 5903631
- 874622 words of memory out of 5000000
- 27994 multiletter control sequences out of 15000+600000
+ 12286 strings out of 480608
+ 225325 string characters out of 5903631
+ 873841 words of memory out of 5000000
+ 27998 multiletter control sequences out of 15000+600000
  534401 words of font info for 31 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,9n,45p,944b,1322s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,9n,45p,940b,1313s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 }</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
@@ -646,10 +645,10 @@ sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/l
 ocal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/lo
 cal/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on cv.pdf (8 pages, 150272 bytes).
+Output written on cv.pdf (8 pages, 141783 bytes).
 PDF statistics:
- 198 PDF objects out of 1000 (max. 8388607)
- 177 compressed objects within 2 object streams
+ 195 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
  80 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -14,6 +14,35 @@
 \addbibresource{bib/packages.bib}
 \addbibresource{bib/talks.bib} % add a bib-reference file
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% bib links
+% https://tex.stackexchange.com/questions/48400/biblatex-make-title-hyperlink-to-dois-url-or-isbn
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newbibmacro{string+doiurlisbn}[1]{%
+  \iffieldundef{doi}{%
+    \iffieldundef{url}{%
+      \iffieldundef{isbn}{%
+        \iffieldundef{issn}{%
+          #1%
+        }{%
+          \href{http://books.google.com/books?vid=ISSN\thefield{issn}}{#1}%
+        }%
+      }{%
+        \href{http://books.google.com/books?vid=ISBN\thefield{isbn}}{#1}%
+      }%
+    }{%
+      \href{\thefield{url}}{#1}%
+    }%
+  }{%
+    \href{http://dx.doi.org/\thefield{doi}}{#1}%
+  }%
+}
+
+\DeclareFieldFormat{title}{\usebibmacro{string+doiurlisbn}{\mkbibemph{#1}}}
+\DeclareFieldFormat[article,incollection]{title}%
+    {\usebibmacro{string+doiurlisbn}{\mkbibquote{#1}}}
+\DeclareFieldFormat{url}{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \oddsidemargin -.5in
 \evensidemargin -.5in
@@ -144,7 +173,7 @@ Participant in Extensible Undergraduate Research in Communications Applications,
 {\em Women in Statistics Conference Travel Award } \hfill 2014\\
 {\em ASA Joint Statistical Meetings Special Student Funding Travel Award } \hfill 2014
 
-\section{\sc Refereed \\ Journal Publications}
+\section{\sc Refereed \\ Journal Publications} * Denotes student author.
 \printbibliography[keyword=refereed, heading=none, resetnumbers=true]
 
 \section{\sc Preprints}
