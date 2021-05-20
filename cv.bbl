@@ -486,10 +486,10 @@
       \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{To be Submitted to the Journal of Computational and Graphical Statistics}
       \field{title}{Interactive Exploration of Large Dendrograms with Prototypes}
       \field{year}{2021+}
       \true{nocite}
+      \keyw{submitted}
     \endentry
     \entry{keller2021tracking}{article}{}
       \name{author}{5}{}{%
@@ -527,10 +527,10 @@
       \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{To be Submitted to Statistics in Medicine}
       \field{title}{Tracking the Transmission Dynamics of COVID-19 with a Time-Varying State-Space Model}
       \field{year}{2021+}
       \true{nocite}
+      \keyw{submitted}
     \endentry
     \entry{taylor2021streaming}{article}{}
       \name{author}{3}{}{%
