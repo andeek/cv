@@ -1194,6 +1194,43 @@
       \true{nocite}
       \keyw{poster}
     \endentry
+    \entry{bstrl}{manual}{}
+      \name{author}{3}{}{%
+        {{hash=07407526e3c90e3b1460061cbe8c9e50}{%
+           family={{Taylor,\bibnamedelimb I.}*},
+           familyi={T\bibinitperiod}}}%
+        {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=3c1fc8c229e36181b1e72f948f2a7f46}{%
+           family={Betancourt},
+           familyi={B\bibinitperiod},
+           given={Brenda},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{3d4153aea8d878b9473fd600ac0bfe89}
+      \strng{fullhash}{3d4153aea8d878b9473fd600ac0bfe89}
+      \strng{bibnamehash}{3d4153aea8d878b9473fd600ac0bfe89}
+      \strng{authorbibnamehash}{3d4153aea8d878b9473fd600ac0bfe89}
+      \strng{authornamehash}{3d4153aea8d878b9473fd600ac0bfe89}
+      \strng{authorfullhash}{3d4153aea8d878b9473fd600ac0bfe89}
+      \field{extraname}{3}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{R package version 0.1.0}
+      \field{title}{bstrl: Bayesian Streaming Record Linkage}
+      \field{year}{2022}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://cran.r-project.org/web/packages/bstrl/index.html
+      \endverb
+      \verb{url}
+      \verb https://cran.r-project.org/web/packages/bstrl/index.html
+      \endverb
+      \keyw{packages}
+    \endentry
     \entry{protoshiny}{manual}{}
       \name{author}{2}{}{%
         {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
@@ -1390,7 +1427,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{R package version 0.0.0.9000}
-      \field{title}{forestr: Random forests with a user created splitting criterion}
+      \field{title}{forestr: Random Forests with a User Created Splitting Criterion}
       \field{year}{2015}
       \true{nocite}
       \verb{urlraw}
@@ -1408,8 +1445,8 @@
       \list{organization}{1}{%
         {ASA}%
       }
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labeltitlesource}{title}
       \field{booktitle}{Joint Statistical Meetings}
       \field{month}{8}
@@ -1567,8 +1604,8 @@
       \list{organization}{1}{%
         {Iowa State University, Graphics Group}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labeltitlesource}{title}
       \field{booktitle}{Invited Talk}
       \field{month}{11}
@@ -1730,8 +1767,8 @@
       \list{organization}{1}{%
         {The University of Kentucky, Department of Statistics}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{month}{2}
       \field{year}{2019}
       \true{nocite}
@@ -1872,8 +1909,8 @@
       \list{organization}{1}{%
         {The 28th Annual Conference of the International Envirometrics Society}%
       }
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labeltitlesource}{title}
       \field{booktitle}{Invited Session}
       \field{month}{7}
@@ -2019,8 +2056,8 @@
       \list{organization}{1}{%
         {University of Virginia, Department of Statistics}%
       }
-      \field{sortinit}{7}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
       \field{month}{1}
       \field{year}{2017}
       \true{nocite}
@@ -2181,8 +2218,8 @@
       \list{location}{1}{%
         {Stanford, CA, USA}%
       }
-      \field{sortinit}{8}
-      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
       \field{labeltitlesource}{title}
       \field{booktitle}{The R User Conference}
       \field{month}{6}
