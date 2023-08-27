@@ -613,7 +613,6 @@
       \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Major Revisions at JCGS}
       \field{title}{Fast Bayesian Record Linkage for Streaming Data Contexts}
       \field{year}{2023+}
       \true{nocite}
@@ -649,7 +648,6 @@
       \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Submitted to Biometrics}
       \field{title}{A formal goodness-of-fit test for spatial binary Markov random field models}
       \field{year}{2023+}
       \true{nocite}
