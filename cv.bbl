@@ -684,7 +684,6 @@
       \field{title}{Generative Filtering for Recursive Bayesian Inference with Streaming Data}
       \field{year}{2023+}
       \true{nocite}
-      \keyw{submitted}
     \endentry
     \entry{koslovsky2023unified}{article}{}
       \name{author}{3}{}{%
