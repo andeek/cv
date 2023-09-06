@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.8.16)  29 AUG 2023 09:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.4)  6 SEP 2023 14:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cv
 (./cv.tex
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-11>
+L3 programming layer <2023-08-29>
 (./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
@@ -451,18 +451,18 @@ Package biblatex Warning: 'firstinits' option is deprecated.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-08-11 L3 programming layer (loader) 
+Package: expl3 2023-08-29 L3 programming layer (loader) 
  (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count411
 \l__pdf_internal_box=\box100
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2023-08-11 L3 programming layer (loader) 
+(biblatex)             2023-08-29 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
  (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2023-02-02 L3 Experimental document command parser
+Package: xparse 2023-08-29 L3 Experimental document command parser
 )
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 ))
@@ -534,74 +534,74 @@ Package biblatex Warning: Keyword 'inprep' not found on input line 187.
 LaTeX Warning: Empty bibliography on input line 187.
 
 [3] [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 237--238
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--252
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 261--262
+Underfull \hbox (badness 10000) in paragraph at lines 263--264
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 271--272
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
 
  []
 
 
-Overfull \hbox (1.04749pt too wide) in paragraph at lines 283--283
+Overfull \hbox (1.04749pt too wide) in paragraph at lines 285--285
 []\OT1/cmr/m/n/10 ``A Bayesian En-tity Res-o-lu-tion Ap-proach to Tree De-mog-ra-phy Us-ing Over-lap-ping Li-dar Scans''.
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 286--287
+Underfull \hbox (badness 10000) in paragraph at lines 288--289
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 343--353
+Underfull \hbox (badness 10000) in paragraph at lines 345--355
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 454--464
+Underfull \hbox (badness 10000) in paragraph at lines 456--466
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 469--470
+Underfull \hbox (badness 10000) in paragraph at lines 471--472
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 474--477
+Underfull \hbox (badness 10000) in paragraph at lines 476--479
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 479--482
+Underfull \hbox (badness 10000) in paragraph at lines 481--484
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 484--485
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 486--487
 
  []
 
-[8] [9] (./cv.aux)
+[9] (./cv.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-11>
+L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -610,18 +610,18 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15961 strings out of 477129
- 295185 string characters out of 5811415
- 1934254 words of memory out of 5000000
- 36802 multiletter control sequences out of 15000+600000
+ 15965 strings out of 476874
+ 295391 string characters out of 5807395
+ 1935807 words of memory out of 5000000
+ 37060 multiletter control sequences out of 15000+600000
  560132 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,9n,81p,671b,1476s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/andeek/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv.pdf (9 pages, 151974 bytes).
+Output written on cv.pdf (9 pages, 152420 bytes).
 PDF statistics:
- 238 PDF objects out of 1000 (max. 8388607)
- 207 compressed objects within 3 object streams
- 98 named destinations out of 1000 (max. 500000)
+ 239 PDF objects out of 1000 (max. 8388607)
+ 208 compressed objects within 3 object streams
+ 99 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,0 +1,201 @@
+\documentclass[margin,line]{res}
+\usepackage{multicol, enumitem, url, float, hyperref}
+
+\usepackage[backend=biber,
+            sorting=none,
+            defernumbers=true,
+            firstinits=true,
+            maxbibnames=99,
+            hyperref=true]{biblatex} % load the package
+\DeclareNameAlias{author}{last-first}
+\renewbibmacro{in:}{} % get rid of "In:"
+\addbibresource{bib/papers.bib}
+\addbibresource{bib/posters.bib}
+\addbibresource{bib/packages.bib}
+\addbibresource{bib/talks.bib} % add a bib-reference file
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% bib links
+% https://tex.stackexchange.com/questions/48400/biblatex-make-title-hyperlink-to-dois-url-or-isbn
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newbibmacro{string+doiurlisbn}[1]{%
+  \iffieldundef{doi}{%
+    \iffieldundef{url}{%
+      \iffieldundef{isbn}{%
+        \iffieldundef{issn}{%
+          #1%
+        }{%
+          \href{http://books.google.com/books?vid=ISSN\thefield{issn}}{#1}%
+        }%
+      }{%
+        \href{http://books.google.com/books?vid=ISBN\thefield{isbn}}{#1}%
+      }%
+    }{%
+      \href{\thefield{url}}{#1}%
+    }%
+  }{%
+    \href{http://dx.doi.org/\thefield{doi}}{#1}%
+  }%
+}
+
+\DeclareFieldFormat{title}{\usebibmacro{string+doiurlisbn}{\mkbibemph{#1}}}
+\DeclareFieldFormat[article,incollection]{title}%
+    {\usebibmacro{string+doiurlisbn}{\mkbibquote{#1}}}
+\DeclareFieldFormat{url}{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\oddsidemargin -.5in
+\evensidemargin -.5in
+\textwidth=6.0in
+\itemsep=0in
+\parsep=0in
+
+\newenvironment{list1}{
+  \begin{list}{\ding{113}}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in}
+      \setlength{\leftmargin}{0.17in}}}{\end{list}}
+\newenvironment{list2}{
+  \begin{list}{$\bullet$}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in}
+      \setlength{\leftmargin}{0.2in}}}{\end{list}}
+
+\pagestyle{plain} % page numbers
+ 
+
+\begin{document}
+\nocite{*}
+\name{Andee Kaplan \vspace*{.1in}}
+
+\begin{resume}
+
+\section{\sc Contact Information}
+\vspace{.05in}
+\begin{tabular}{@{}p{2in}p{4in}}
+Department of Statistics  & {\it E-mail:} andee.kaplan@colostate.edu\\
+Colorado State University &  {\it WWW:} \url{https://andeekaplan.com} \\
+Fort Collins, CO 80523-1877 & ORCID: 0000-0002-2940-889X\\
+\end{tabular}
+
+\section{\sc Education}
+{\bf Ph.D. in Statistics}, Iowa State University, Ames, IA \hfill 2017 \\
+{\bf M.S. in Statistics}, Iowa State University, Ames, IA \hfill 2014 \\
+{\bf M.A. in Mathematics}, The University of Texas, Austin, TX \hfill 2010 \\
+{\bf B.S. in Mathematics}, The University of Texas, Austin, TX \hfill 2006 
+
+
+\section{\sc Professional Appointments}
+{\bf Assistant Professor} \hfill August 2019 -- Present \\
+Department of Statistics, Colorado State University,  Fort Collins, CO\\
+{\bf Postdoctoral Associate}  \hfill August 2017 -- July 2019 \\
+Department of Statistical Science, Duke University, Durham, NC 
+
+
+% \section{\sc Selected Honors and Awards}
+% {\em Selected for ``The Best of JCGS -- Invited Papers" Session at JSM } \hfill 2019\\
+% ``Designing Modular Software: A Case Study in Introductory Statistics" with E. Hare selected for inclusion in the session.
+
+\section{\sc Teaching Experience}
+*Denotes new courses developed.\\
+
+\vspace{-.4cm}
+
+\begin{table}[H]
+\begin{tabular}{l l}
+\multicolumn{2}{l}{{\bf Colorado State University}} \hfill Semester (Enrollment; Honors Options) \\
+STAT 630 & Advanced Statistical Data Analysis (3 credit hours [cr])  \hfill  F23 (10) \\
+STAA 577 & Statistical Learning and Data Mining (2 cr)   \hfill  S23 (14), F23 (7)\\
+DSCI 445* & Statistical Machine Learning (3 cr)  \hspace{.8cm} \hfill F20 (8; 1), F21 (32), F22 (28; 1) , F23 (27) \\
+STAT 400 & Statistical Computing (3 cr)  \hfill  F19 (15; 1), F20 (19), F21 (24), F22 (16) \\
+STAT 730 & Advanced Theory of Statistics I (4 cr)  \hfill  S20 (6) \\
+\end{tabular}
+\end{table}
+
+\section{\sc Open Course Materials}
+STAT400 Statistical Computing (\url{https://stat400-csu.github.io}) \\
+DSCI445 Statistical Machine Learning (\url{https://dsci445-csu.github.io}) \\
+STAT630 Advanced Statistical Data Analysis(\url{https://stat630-csu.github.io})
+
+
+\section{\sc Advising}
+
+{\bf Doctoral Student Advising} \hfill \\
+Hannah Butler (Statistics, 2022 -- ) \\
+Lane Drew (Statistics, 2021 -- ) \\
+Ian Taylor (Statistics, Co-advisor: Bailey Fosdick, 2020 -- ) \\
+\vspace{-.5cm}
+
+{\bf Doctoral Committee Member} \hfill \\
+Wilson Wright, (Statistics, 2023 -- )\\
+Justin Van Ee (Statistics, PhD 2023) \\
+Connor Gibbs (Statistics, PhD 2023)  \\
+Alex Fout (Statistics, PhD 2022) \\
+Xinyi (Lucy) Lu, (Statistics, PhD 2021) \\
+
+\vspace{-.5cm}
+{\bf Undergraduate Honors Thesis Committee Member} \hfill \\
+Olivia Beck (Statistics, Fall 2019) \\
+
+\vspace{-.5cm}
+{\bf Directed Undergraduate Research} \hfill \\
+Caleb Chou (Data Science, Summer 2023) \\
+Ryan Volkert (Data Science, Spring 2021) \\
+
+\section{\sc Selected Service and Leadership}
+
+{\bf Colorado State University} \\
+Data Science Research Institute Steering Committee \hfill {2020 -- Present} \\
+
+\vspace{-.3cm}
+{\bf College of Natural Science, Colorado State University} \\
+Data Science Committee to Explore Graduate Programs \hfill {2022} \\
+
+\vspace{-.3cm}
+{\bf Department of Statistics, Colorado State University} \\
+Graduate Admissions Committee \hfill {2020-2021, 2022 -- Present} \\
+Diversity, Equity and Inclusion Committee \hfill {2023 -- Present} \\
+Undergraduate Committee \hfill {2022 -- 2023} \\
+%Search Committee \hfill {Fall 2021 - Spring 2022} \\
+%Search Committee \hfill {Fall 2020 - Spring 2021} \\
+Co-organizer Statistical Learning and Data Science Journal Club \hfill {2020} \\
+%Seminar Co-organizer \hfill {Fall 2019 - Spring 2020} \\
+
+\section{\sc Publications}
+
+
+{\bf Selected Peer-reviewed Publications} (*Denotes mentored student) \\
+\begin{enumerate}
+\item Lu, X.*, Hooten, M. B., {\bf Kaplan, A.}, Womble, J. N., and Bower, M. R. (2022). Improving wildlife population inference using aerial imagery and entity resolution. {\em Journal of Agricultural, Biological and Environmental Statistics}, 27(2), 364-381.
+\item Marchant, N. G.*, {\bf Kaplan, A.}, Elazar, D. N., Rubinstein, B. I., and Steorts, R. C. (2021). d-blink: Distributed end-to-end Bayesian entity resolution. {\em Journal of Computational and Graphical Statistics}, 30(2), 406-421.
+\item Hare, E. and {\bf Kaplan, A.}, 2017. Designing modular software: a case study in introductory statistics. {\em Journal of Computational and Graphical Statistics}, 26(3), pp.493-500.
+\end{enumerate}
+
+
+{\bf Selected Manuscripts Submitted and Under Revision} (*Denotes mentored student) \\
+\begin{enumerate}
+\item Taylor, I.*, {\bf Kaplan, A.}, and Betancourt, B. Fast Bayesian Record Linkage for Streaming Data Contexts. Revision submitted to {\em Journal of Computational and Graphical Statistics}.
+\item Biswas, E.*, {\bf Kaplan, A.}, and Nordman, D. A formal goodness-of-fit test for spatial binary Markov random field models. Submitted to {\em Biometrics}.
+\item Taylor I.*, {\bf Kaplan, A.}, and Betancourt, B. Generative Filtering for Recursive Bayesian Inference with Streaming Data. Submitted to {\em Journal of the American Statistical Association}.
+\end{enumerate}
+
+{\bf Selected Manuscripts in Preparation} (*Denotes mentored student or postdoc) \\
+\begin{enumerate}
+\item Lu, X.*, \mkbibbold{Kaplan, A.}, Kanno, Y.,Valentine, G., Rash, J., and Hooten, M. B. Stochastic Spatial Stream Networks.
+\item Drew, L.*, {\bf Kaplan, A.}, and Breckheimer, I. An Entity Resolution Approach to Tree Demography with Lidar Data.
+\item Butler, H.*, {\bf Kaplan, A.} Leveraging Bayesian Entity Resolution to Illuminate the Lives of Freedom Seekers in 19th Century America.
+\item Chou, C.*, {\bf Kaplan, A.} The Fast and the Furious: Tracking the Effect of the Tomoa Skip on Speed Climbing.
+\end{enumerate}
+
+
+
+
+
+
+
+
+
+\end{resume}
+\end{document}

@@ -588,7 +588,7 @@
       \endverb
       \keyw{refereed}
     \endentry
-    \entry{taylor2023streaming}{article}{}
+    \entry{taylor2023efficient}{article}{}
       \name{author}{3}{}{%
         {{hash=07407526e3c90e3b1460061cbe8c9e50}{%
            family={{Taylor,\bibnamedelimb I.}*},
@@ -613,15 +613,9 @@
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Fast Bayesian Record Linkage for Streaming Data Contexts}
+      \field{title}{Generative Filtering for Recursive Bayesian Inference with Streaming Data}
       \field{year}{2023+}
       \true{nocite}
-      \verb{urlraw}
-      \verb https://arxiv.org/abs/2307.07005
-      \endverb
-      \verb{url}
-      \verb https://arxiv.org/abs/2307.07005
-      \endverb
       \keyw{submitted}
     \endentry
     \entry{biswas2023goodness}{article}{}
@@ -653,7 +647,7 @@
       \true{nocite}
       \keyw{submitted}
     \endentry
-    \entry{taylor2023efficient}{article}{}
+    \entry{taylor2023streaming}{article}{}
       \name{author}{3}{}{%
         {{hash=07407526e3c90e3b1460061cbe8c9e50}{%
            family={{Taylor,\bibnamedelimb I.}*},
@@ -678,10 +672,16 @@
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{To be Submitted to JASA}
-      \field{title}{Generative Filtering for Recursive Bayesian Inference with Streaming Data}
+      \field{title}{Fast Bayesian Record Linkage for Streaming Data Contexts}
       \field{year}{2023+}
       \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2307.07005
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2307.07005
+      \endverb
+      \keyw{submitted}
     \endentry
     \entry{koslovsky2023unified}{article}{}
       \name{author}{3}{}{%
