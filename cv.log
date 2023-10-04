@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.4)  6 SEP 2023 14:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.26)  4 OCT 2023 09:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**cv
+**cv.tex
 (./cv.tex
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -518,6 +518,11 @@ Overfull \hbox (17.99998pt too wide) in paragraph at lines 77--82
 [][] 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+
+ []
+
 [1
 
 {/Users/andeek/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
@@ -526,79 +531,83 @@ Package biblatex Warning: Name format 'last-first' deprecated.
 (biblatex)                Please use 'family-given' instead.
 (biblatex)                Using 'family-given' now.
 
-[2]
 
-Package biblatex Warning: Keyword 'inprep' not found on input line 187.
-
-
-LaTeX Warning: Empty bibliography on input line 187.
-
-[3] [4] [5]
-Underfull \hbox (badness 10000) in paragraph at lines 239--240
-
- []
+Package biblatex Warning: Keyword 'inprep' not found on input line 203.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 242--243
+LaTeX Warning: Empty bibliography on input line 203.
+
+[2] [3] [4] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 257--258
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 263--264
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 273--274
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
 
  []
 
 
-Overfull \hbox (1.04749pt too wide) in paragraph at lines 285--285
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
+
+ []
+
+
+Overfull \hbox (1.04749pt too wide) in paragraph at lines 303--303
 []\OT1/cmr/m/n/10 ``A Bayesian En-tity Res-o-lu-tion Ap-proach to Tree De-mog-ra-phy Us-ing Over-lap-ping Li-dar Scans''.
  []
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 345--355
+Underfull \hbox (badness 10000) in paragraph at lines 363--374
 
  []
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 456--466
+Underfull \hbox (badness 10000) in paragraph at lines 476--493
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--472
+Underfull \hbox (badness 10000) in paragraph at lines 498--499
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 476--479
+Underfull \hbox (badness 10000) in paragraph at lines 503--506
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 481--484
+Underfull \hbox (badness 10000) in paragraph at lines 508--511
 
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 486--487
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
 
  []
 
-[9] (./cv.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--518
+
+ []
+
+[8] [9] (./cv.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -610,18 +619,18 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 15965 strings out of 476874
- 295391 string characters out of 5807395
- 1935807 words of memory out of 5000000
- 37060 multiletter control sequences out of 15000+600000
+ 15969 strings out of 476874
+ 295608 string characters out of 5807394
+ 1934791 words of memory out of 5000000
+ 37063 multiletter control sequences out of 15000+600000
  560132 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,9n,81p,671b,1476s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,81p,675b,1465s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/andeek/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv.pdf (9 pages, 152420 bytes).
+Output written on cv.pdf (9 pages, 151375 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 208 compressed objects within 3 object streams
- 99 named destinations out of 1000 (max. 500000)
+ 242 PDF objects out of 1000 (max. 8388607)
+ 211 compressed objects within 3 object streams
+ 100 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

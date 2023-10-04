@@ -588,6 +588,37 @@
       \endverb
       \keyw{refereed}
     \endentry
+    \entry{koslovsky2023unified}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f29a381830a1e1e27a13dfd7616eb105}{%
+           family={Koslovsky},
+           familyi={K\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f3316a2fd8b7f9d73d644ceee19b892a}{%
+           family={Hooten},
+           familyi={H\bibinitperiod},
+           given={Mevin},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{9fccf62ac5e623f6fb8f64109b8ee752}
+      \strng{fullhash}{9fccf62ac5e623f6fb8f64109b8ee752}
+      \strng{bibnamehash}{9fccf62ac5e623f6fb8f64109b8ee752}
+      \strng{authorbibnamehash}{9fccf62ac5e623f6fb8f64109b8ee752}
+      \strng{authornamehash}{9fccf62ac5e623f6fb8f64109b8ee752}
+      \strng{authorfullhash}{9fccf62ac5e623f6fb8f64109b8ee752}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Unified Bayesian Framework for Modeling Measurement Error in Multinomial Data}
+      \field{year}{2023+}
+      \true{nocite}
+      \keyw{submitted}
+    \endentry
     \entry{taylor2023efficient}{article}{}
       \name{author}{3}{}{%
         {{hash=07407526e3c90e3b1460061cbe8c9e50}{%
@@ -616,6 +647,12 @@
       \field{title}{Generative Filtering for Recursive Bayesian Inference with Streaming Data}
       \field{year}{2023+}
       \true{nocite}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2309.14271
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2309.14271
+      \endverb
       \keyw{submitted}
     \endentry
     \entry{biswas2023goodness}{article}{}
@@ -682,37 +719,6 @@
       \verb https://arxiv.org/abs/2307.07005
       \endverb
       \keyw{submitted}
-    \endentry
-    \entry{koslovsky2023unified}{article}{}
-      \name{author}{3}{}{%
-        {{hash=f29a381830a1e1e27a13dfd7616eb105}{%
-           family={Koslovsky},
-           familyi={K\bibinitperiod},
-           given={Matthew},
-           giveni={M\bibinitperiod}}}%
-        {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
-           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
-           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=f3316a2fd8b7f9d73d644ceee19b892a}{%
-           family={Hooten},
-           familyi={H\bibinitperiod},
-           given={Mevin},
-           giveni={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{9fccf62ac5e623f6fb8f64109b8ee752}
-      \strng{fullhash}{9fccf62ac5e623f6fb8f64109b8ee752}
-      \strng{bibnamehash}{9fccf62ac5e623f6fb8f64109b8ee752}
-      \strng{authorbibnamehash}{9fccf62ac5e623f6fb8f64109b8ee752}
-      \strng{authornamehash}{9fccf62ac5e623f6fb8f64109b8ee752}
-      \strng{authorfullhash}{9fccf62ac5e623f6fb8f64109b8ee752}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{To be Submitted to BA}
-      \field{title}{A Unified Bayesian Framework for Modeling Measurement Error in Multinomial Data}
-      \field{year}{2023+}
-      \true{nocite}
     \endentry
     \entry{lu2023stochastic}{article}{}
       \name{author}{6}{}{%
@@ -789,29 +795,27 @@
       \field{year}{2023+}
       \true{nocite}
     \endentry
-    \entry{kaplan2023variational}{article}{}
+    \entry{chou2023fast}{article}{}
       \name{author}{2}{}{%
+        {{hash=ec92d7b1842f8fb0ad9e3ab2d45263d1}{%
+           family={{Chou,\bibnamedelimb C.}\dagger},
+           familyi={C\bibinitperiod}}}%
         {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
            family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
            familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
-        {{hash=f29a381830a1e1e27a13dfd7616eb105}{%
-           family={Koslovsky},
-           familyi={K\bibinitperiod},
-           given={Matthew},
-           giveni={M\bibinitperiod}}}%
       }
-      \strng{namehash}{f4957a99f8d6d4bd47421d38f6ed0584}
-      \strng{fullhash}{f4957a99f8d6d4bd47421d38f6ed0584}
-      \strng{bibnamehash}{f4957a99f8d6d4bd47421d38f6ed0584}
-      \strng{authorbibnamehash}{f4957a99f8d6d4bd47421d38f6ed0584}
-      \strng{authornamehash}{f4957a99f8d6d4bd47421d38f6ed0584}
-      \strng{authorfullhash}{f4957a99f8d6d4bd47421d38f6ed0584}
+      \strng{namehash}{9d35ad3f54564520f9634cfd49e4b8d1}
+      \strng{fullhash}{9d35ad3f54564520f9634cfd49e4b8d1}
+      \strng{bibnamehash}{9d35ad3f54564520f9634cfd49e4b8d1}
+      \strng{authorbibnamehash}{9d35ad3f54564520f9634cfd49e4b8d1}
+      \strng{authornamehash}{9d35ad3f54564520f9634cfd49e4b8d1}
+      \strng{authorfullhash}{9d35ad3f54564520f9634cfd49e4b8d1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{To be Submitted to TBD}
-      \field{title}{Variational Inference for Approximate Bayesian Entity Resolution}
+      \field{journaltitle}{To be Submitted to Chance}
+      \field{title}{The Fast and the Furious: Tracking the Effect of the Tomoa Skip on Speed Climbing}
       \field{year}{2023+}
       \true{nocite}
     \endentry
@@ -836,6 +840,35 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{To be Submitted to TBD}
       \field{title}{Leveraging Bayesian Entity Resolution to Illuminate the Lives of Freedom Seekers in 19th Century America}
+      \field{year}{2023+}
+      \true{nocite}
+    \endentry
+    \entry{kim2023variational}{article}{}
+      \name{author}{3}{}{%
+        {{hash=dba55c4be4292068b0a5cea550aadd36}{%
+           family={{Kim,\bibnamedelimb H.}*},
+           familyi={K\bibinitperiod}}}%
+        {{hash=ab31bdd40e42580f66dc437ecfb16562}{%
+           family={\mkbibbold{Kaplan,\bibnamedelimb A.}},
+           familyi={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f29a381830a1e1e27a13dfd7616eb105}{%
+           family={Koslovsky},
+           familyi={K\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{8adf60d696317db496e7bdea8e0a8002}
+      \strng{fullhash}{8adf60d696317db496e7bdea8e0a8002}
+      \strng{bibnamehash}{8adf60d696317db496e7bdea8e0a8002}
+      \strng{authorbibnamehash}{8adf60d696317db496e7bdea8e0a8002}
+      \strng{authornamehash}{8adf60d696317db496e7bdea8e0a8002}
+      \strng{authorfullhash}{8adf60d696317db496e7bdea8e0a8002}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{To be Submitted to TBD}
+      \field{title}{Variational Inference for Approximate Bayesian Entity Resolution}
       \field{year}{2023+}
       \true{nocite}
     \endentry
@@ -1157,8 +1190,8 @@
       \list{organization}{1}{%
         {Institute of Mathematical Statistics}%
       }
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
       \field{booktitle}{New Researchers Conference}
       \field{month}{7}
@@ -1389,8 +1422,8 @@
       \strng{authornamehash}{c7ee4e1da5b017e65c3a6161d26a90be}
       \strng{authorfullhash}{c7ee4e1da5b017e65c3a6161d26a90be}
       \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{note}{R package version 0.1.4}
@@ -1553,7 +1586,7 @@
       \field{month}{10}
       \field{note}{Invited Talk}
       \field{title}{Improved Recursive Bayesian Inference with Streaming Data}
-      \field{year}{2023 (Upcoming)}
+      \field{year}{2023}
       \true{nocite}
       \keyw{talk-invited}
     \endentry
@@ -1571,7 +1604,7 @@
       \field{month}{9}
       \field{note}{Invited Talk}
       \field{title}{Improving Bayesian inference with streaming data}
-      \field{year}{2023 (Upcoming)}
+      \field{year}{2023}
       \true{nocite}
       \keyw{talk-invited}
     \endentry
@@ -1629,8 +1662,8 @@
         {European Research Consortium for Informatics}%
         {Mathematics}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
       \field{booktitle}{14th International Conference of the ERCIM WG on Computational and Methodological Statistics}
       \field{month}{12}
@@ -1788,8 +1821,8 @@
       \list{organization}{1}{%
         {ISBA}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labeltitlesource}{title}
       \field{booktitle}{Bayes Comp}
       \field{month}{1}
@@ -1942,8 +1975,8 @@
       \list{organization}{1}{%
         {Colorado State University, Department of Statistics}%
       }
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{month}{1}
       \field{year}{2019}
       \true{nocite}
@@ -2090,8 +2123,8 @@
       \list{organization}{1}{%
         {Centro de Investigación en Matemáticas}%
       }
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{month}{10}
       \field{year}{2017}
       \true{nocite}
@@ -2237,8 +2270,8 @@
       \list{organization}{1}{%
         {Iowa State University, Department of Statistics}%
       }
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{month}{1}
       \field{year}{2015}
       \true{nocite}
