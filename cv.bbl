@@ -659,7 +659,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{A Unified Bayesian Framework for Modeling Measurement Error in Multinomial Data}
-      \field{year}{2023+}
+      \field{year}{2024+}
       \true{nocite}
       \verb{urlraw}
       \verb https://arxiv.org/abs/2310.09345
@@ -695,7 +695,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Generative Filtering for Recursive Bayesian Inference with Streaming Data}
-      \field{year}{2023+}
+      \field{year}{2024+}
       \true{nocite}
       \verb{urlraw}
       \verb https://arxiv.org/abs/2309.14271
@@ -730,7 +730,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{A formal goodness-of-fit test for spatial binary Markov random field models}
-      \field{year}{2023+}
+      \field{year}{2024+}
       \true{nocite}
       \keyw{submitted}
     \endentry
@@ -777,7 +777,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{To be Submitted to AoAS}
       \field{title}{Stochastic Spatial Stream Networks}
-      \field{year}{2023+}
+      \field{year}{2024+}
       \true{nocite}
     \endentry
     \entry{drew2023entity}{article}{}
@@ -806,7 +806,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{To be Submitted to AoAS}
       \field{title}{An Entity Resolution Approach to Tree Demography with Lidar Data}
-      \field{year}{2023+}
+      \field{year}{2024+}
       \true{nocite}
     \endentry
     \entry{chou2023fast}{article}{}
@@ -830,7 +830,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{To be Submitted to Chance}
       \field{title}{The Fast and the Furious: Tracking the Effect of the Tomoa Skip on Speed Climbing}
-      \field{year}{2023+}
+      \field{year}{2024+}
       \true{nocite}
     \endentry
     \entry{butler2023leveraging}{article}{}
@@ -854,7 +854,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{To be Submitted to TBD}
       \field{title}{Leveraging Bayesian Entity Resolution to Illuminate the Lives of Freedom Seekers in 19th Century America}
-      \field{year}{2023+}
+      \field{year}{2024+}
       \true{nocite}
     \endentry
     \entry{kim2023variational}{article}{}
@@ -883,7 +883,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{To be Submitted to TBD}
       \field{title}{Variational Inference for Approximate Bayesian Entity Resolution}
-      \field{year}{2023+}
+      \field{year}{2024+}
       \true{nocite}
     \endentry
     \entry{kaplan2023dependent}{article}{}
@@ -905,7 +905,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{To be Submitted to TBD}
       \field{title}{A Dependent Fields Model for Entity Resolution with Correlated Linkage Variables}
-      \field{year}{2023+}
+      \field{year}{2024+}
       \true{nocite}
     \endentry
     \entry{kaplan2023continuous}{article}{}
@@ -927,7 +927,7 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{To be Submitted to TBD}
       \field{title}{An Examination of the Instability and Degeneracy of Continuous Restricted Boltzmann Machines with Implications for Deep Learning}
-      \field{year}{2022+}
+      \field{year}{2024+}
       \true{nocite}
     \endentry
     \entry{hofmann2015move}{inproceedings}{}
@@ -1586,6 +1586,42 @@
       \endverb
       \keyw{packages}
     \endentry
+    \entry{jsm2024}{inproceedings}{}
+      \list{location}{1}{%
+        {Portland, OR, USA}%
+      }
+      \list{organization}{1}{%
+        {ASA}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Joint Statistical Meetings}
+      \field{month}{8}
+      \field{note}{Topic Contributed Paper}
+      \field{title}{Scaling Record Linkage to Streaming Data Contexts}
+      \field{year}{2024 (Upcoming)}
+      \true{nocite}
+      \keyw{talk-contributed}
+    \endentry
+    \entry{wnar2024}{inproceedings}{}
+      \list{location}{1}{%
+        {Fort Collins, CO, USA}%
+      }
+      \list{organization}{1}{%
+        {WNAR}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{WNAR/IMS Annual Meeting}
+      \field{month}{6}
+      \field{note}{Invited Paper}
+      \field{title}{An Improved MCMC Sampler for Streaming Bayesian Inference}
+      \field{year}{2024 (Upcoming)}
+      \true{nocite}
+      \keyw{talk-invited}
+    \endentry
     \entry{isu75th}{inproceedings}{}
       \list{location}{1}{%
         {Ames, IA, USA}%
@@ -1642,13 +1678,13 @@
     \endentry
     \entry{wnar2023}{inproceedings}{}
       \list{location}{1}{%
-        {Anchorage, AK}%
+        {Anchorage, AK, USA}%
       }
       \list{organization}{1}{%
         {WNAR}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
       \field{booktitle}{WNAR/IMS Annual Meeting}
       \field{month}{6}
@@ -1665,8 +1701,8 @@
       \list{organization}{1}{%
         {University of California Santa Cruz, Department of Statistics}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{month}{3}
       \field{year}{2023}
       \true{nocite}
@@ -1805,8 +1841,8 @@
       \list{organization}{1}{%
         {University of Toronto, Department of Statistics}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{month}{11}
       \field{year}{2020}
       \true{nocite}
@@ -1821,8 +1857,8 @@
         {Research at the Intersection of Information, Society,}%
         {Methodology}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{month}{10}
       \field{year}{2020}
       \true{nocite}
@@ -1965,8 +2001,8 @@
       \list{organization}{1}{%
         {The Pennsylvania State University, Department of Statistics}%
       }
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{month}{2}
       \field{year}{2019}
       \true{nocite}
@@ -1979,8 +2015,8 @@
       \list{organization}{1}{%
         {Virginia Tech University, Department of Statistics}%
       }
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{month}{2}
       \field{year}{2019}
       \true{nocite}
@@ -2110,8 +2146,8 @@
       \list{organization}{1}{%
         {The 1st Midwest Statistical Machine Learning Colloquium}%
       }
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labeltitlesource}{title}
       \field{booktitle}{Keynote}
       \field{month}{5}
@@ -2127,8 +2163,8 @@
       \list{organization}{1}{%
         {Iowa State University, Department of Statistics}%
       }
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{month}{1}
       \field{year}{2018}
       \true{nocite}
@@ -2255,8 +2291,8 @@
         {Arizona State University, School of Mathematical}%
         {Statistical Sciences}%
       }
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{month}{1}
       \field{year}{2017}
       \true{nocite}
@@ -2269,8 +2305,8 @@
       \list{organization}{1}{%
         {University of Massachussetts, Amherst, Department of Mathematics \& Statistics}%
       }
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{month}{12}
       \field{year}{2016}
       \true{nocite}
@@ -2420,8 +2456,8 @@
       \list{organization}{1}{%
         {ASA}%
       }
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{booktitle}{Joint Statistical Meetings}
       \field{month}{8}
@@ -2438,8 +2474,8 @@
       \list{organization}{1}{%
         {ASA}%
       }
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{booktitle}{Joint Statistical Meetings}
       \field{month}{8}
