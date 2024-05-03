@@ -44,6 +44,27 @@
 \DeclareFieldFormat{url}{}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% try highlighting in bib
+%% http://www.hansenlab.org/cv_bibliography_tex
+
+\renewcommand*{\mkbibnamegiven}[1]{
+\ifitemannotation{me}
+{\textbf{#1}}
+{#1}
+\ifitemannotation{gstudent}
+  {\textsuperscript{*}}
+  {}%
+\ifitemannotation{ustudent}
+  {$^\dagger$}
+  {}%
+}
+\renewcommand*{\mkbibnamefamily}[1]{
+\ifitemannotation{me}
+  {\textbf{#1}}
+  {#1}%
+}%%
+
 \oddsidemargin -.5in
 \evensidemargin -.5in
 \textwidth=6.0in
@@ -158,6 +179,9 @@ Postdoctoral Associate  \hfill August 2017 -- July 2019
 Bayesian Statistics, Computational Statistics, Record Linkage and Entity Resolution, Markov chain Monte Carlo, Spatial Resampling, Statistical Machine Learning, Interactive Statistical Graphics, Reproducible Research
 
 \section{\sc Honors and Awards}
+{\em National Science Foundation CAREER Award } \hfill 2024 \\
+Titled ``CAREER: Flexible Record Linkage through Realistic Modeling of Dependent, Missing, and Updating Data."
+
 {\em Selected for ``The Best of JCGS -- Invited Papers" Session at JSM } \hfill 2019\\
 ``Designing Modular Software: A Case Study in Introductory Statistics" with E. Hare selected for inclusion in the session.
 
@@ -185,6 +209,7 @@ Participant in Extensible Undergraduate Research in Communications Applications,
 {\em University of Texas at Austin Honors and Dean's List } \hfill 2005 \& 2006
 
 \section{\sc Other Awards}
+{\em Theory and Foundations of Statistics in the Era of Big Data Conference Travel Award} \hfill 2024\\
 {\em ISBA Bayes Comp Conference Travel Award} \hfill 2020 \\
 {\em IMS New Researchers Conference Travel Award} \hfill 2018 \& 2019 \\
 {\em IMA Frontiers in Forecasting Travel Award} \hfill 2018\\
@@ -194,7 +219,8 @@ Participant in Extensible Undergraduate Research in Communications Applications,
 {\em Women in Statistics Conference Travel Award } \hfill 2014\\
 {\em ASA Joint Statistical Meetings Special Student Funding Travel Award } \hfill 2014
 
-\section{\sc Refereed \\ Journal Publications} * Denotes student author.
+\section{\sc Refereed \\ Journal Publications} 
+* Denotes graduate student author, $\dagger$ denotes undergraduate student author. 
 \printbibliography[keyword=refereed, heading=none, resetnumbers=true]
 
 \section{\sc Preprints}
@@ -212,7 +238,7 @@ Participant in Extensible Undergraduate Research in Communications Applications,
 
 As PI: {\em Scalable Entity Resolution for Massive and Streaming Data Contexts} (NSF) PI: Kaplan (\$323,050). Pending.
 
-As PI: {\em CAREER: Flexible Record Linkage through Realistic Modeling of Dependent, Missing, and Updating Data} (NSF) PI: Kaplan (\$584,002). Pending. 
+As PI: {\em CAREER: Flexible Record Linkage through Realistic Modeling of Dependent, Missing, and Updating Data} (NSF) PI: Kaplan (\$550,002). May 2024 - April 2029. 
 
 As PI: {\em EnviBayes Workshop on Complex Environmental Data} (NSF) PI: Kaplan (\$20,000). September 2023 - August 2024.
 
@@ -229,6 +255,8 @@ As PI: {\em An Extensible Model for Deduplication of the GDELT Events Database} 
 As Co-PI: {\em Posterior Prototyping: Bridging the Gap between Record Linkage and Regression} (DoD via North Carolina State University Laboratory for Analytic Sciences). PI: Brenda Betancourt and Rebecca C. Steorts (\$96,897). January 2019 - December 2019.
 
 % \section{\sc Unfunded \\ Grants \& Contracts}
+
+% As Co-PI: {\em Integrating social science and environmental data analysis to address humanitarian injustices within the U.S. prison system} (CSU SoGES GCRT) PI: Caitlin Mothes, Carrie Chennault, Kaplan, Mindy Hill (\$60,000). Pending. % July 2024 - May 2026.
 %  
 % As Co-PI: {\em Racial Capitalism and the Unsustainable Sustainability of US Prison Agriculture } (CSU SoGES GCRT) PI: Carrie Chennault, Matthew Ross, Joshua Sbicca, Kaplan (\$30,000). July 2022 - May 2024.
 %  
@@ -367,15 +395,13 @@ Lane Drew, PhD Advisor \hfill Spring 2025 (Anticipated) \\
 Ian Taylor, PhD Advisor (Co-advisor: Bailey Fosdick) \hfill Fall 2023 \\
 Daniel Tedeschi (Math), PhD Committee Member, \hfill Spring 2027 (Anticipated) \\
 Mason Faldet (Math), PhD Committee Member, \hfill Spring 2027 (Anticipated) \\
+Yao Zheng, PhD Committee Member, \hfill Spring 2026 (Anticipated) \\ 
 Wilson Wright, PhD Committee Member, \hfill Spring 2024 (Anticipated) \\
 Justin Van Ee, PhD Committee Member \hfill Summer 2023 \\
 Connor Gibbs, PhD Committee Member, \hfill Spring 2023  \\
 Alex Fout, PhD Committee Member \hfill Summer 2022 \\
 Xinyi (Lucy) Lu, PhD Committee Member \hfill Summer 2021 \\
 Casey Schafer, GRA \hfill Fall 2019 \\
-
-
-
 
 %\vspace{-.3cm}
 %{\em Graduate Research Assistants} \hfill \\
@@ -392,7 +418,6 @@ Ryan Volkert (Colorado State University), Undergraduate Research \hfill Spring 2
 Olivia Beck (Colorado State University), Honors Thesis Committee Member \hfill Fall 2019 \\
 Ritika Bharati (Duke University), Undergraduate Research \hfill Spring 2018 - Spring 2019\\
 Srini Sunil (Duke University), Undergraduate Research \hfill Fall 2017 - Spring 2019
-
 
 % \section{\sc Research Experience}
 % {\bf Duke University}, Durham, North Carolina USA
@@ -453,13 +478,13 @@ Summer internship with Statistics and Methodology Department. Primarily develope
 
 \vspace{-.3cm}
 {\em Independent Contractor} \hfill {July, 2011 - July, 2012}\\
-Developed web-based environmental GIS reporting tool for Phase I reporting, developed and implemented a web-based tool to convert images to PDF files programatically, and utilized ESRI ArcSDE and .NET/C\#, as well as Microsoft SQL Server for development.
+Developed web-based environmental GIS reporting tool for Phase I reporting, developed and implemented a web-based tool to convert images to PDF files programatically, utilizing ESRI ArcSDE, .NET/C\#, and Microsoft SQL Server.
 
 {\bf Sense Corp}, Austin, Texas USA
 
 \vspace{-.3cm}
 {\em Consultant} \hfill {July, 2009 - July, 2011}\\
-Designed monthly subscriber activity forecasts across key markets at a top-five broadband telecommunications company using ARIMA time series modeling in R. Developed an automated process and custom web application designed for Business Intelligence Group use to run forecasts and analyze long-term trends in activity. Analyzed the effects of explanatory factors on elevated truck rolls and presented findings to corporate leadership.
+Designed monthly subscriber activity forecasts across key markets at a top-five broadband telecommunications company using ARIMA time series modeling in R. Developed an automated and custom web application for Business Intelligence Group to forecast and analyze long-term trends. %Analyzed the effects of explanatory factors on elevated truck rolls and presented findings to corporate leadership.
 
 {\bf Gelb Consulting Group}, Houston, Texas USA
 
@@ -500,6 +525,10 @@ Seminar Co-organizer \hfill {2019-2020} \\
 Data Science Research Institute Steering Committee \hfill {Fall 2020 - Present} \\
 
 {\bf Service to the Profession}
+
+\vspace{-.3cm}
+{\em Office in Professional Societies} \\
+Secretary/Treasurer ASA Bayesian Statistical Science Section \hfill {May 2024 - Present} \\
 
 \vspace{-.3cm}
 {\em Associate Editor}
