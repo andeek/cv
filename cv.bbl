@@ -54,12 +54,12 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Computational and Graphical Statistics}
-      \field{number}{0}
+      \field{number}{3}
       \field{title}{Fast Bayesian Record Linkage for Streaming Data Contexts}
-      \field{volume}{0}
-      \field{year}{2023}
+      \field{volume}{33}
+      \field{year}{2024}
       \true{nocite}
-      \field{pages}{1\bibrangedash 12}
+      \field{pages}{833\bibrangedash 844}
       \range{pages}{12}
       \verb{urlraw}
       \verb https://doi.org/10.1080/10618600.2023.2283571
@@ -794,7 +794,7 @@
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{biswas2023goodness}{article}{}{}
-      \name{author}{3}{}{%
+      \name{author}{4}{}{%
         {{hash=40180adb51a40a351a46c9a00856ff8c}{%
            family={Biswas},
            familyi={B\bibinitperiod},
@@ -805,20 +805,25 @@
            familyi={K\bibinitperiod},
            given={Andee},
            giveni={A\bibinitperiod}}}%
+        {{hash=cf092e70bd6245976b7cc407836d6dd0}{%
+           family={Kaiser},
+           familyi={K\bibinitperiod},
+           given={Mark\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
         {{hash=2a8514511a8586a199c60bb708aa26f5}{%
            family={Nordman},
            familyi={N\bibinitperiod},
            given={Daniel\bibnamedelima J.},
            giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
       }
-      \strng{namehash}{f973f0baee8da3f2aabac62becc8b71b}
-      \strng{fullhash}{f973f0baee8da3f2aabac62becc8b71b}
-      \strng{fullhashraw}{f973f0baee8da3f2aabac62becc8b71b}
-      \strng{bibnamehash}{f973f0baee8da3f2aabac62becc8b71b}
-      \strng{authorbibnamehash}{f973f0baee8da3f2aabac62becc8b71b}
-      \strng{authornamehash}{f973f0baee8da3f2aabac62becc8b71b}
-      \strng{authorfullhash}{f973f0baee8da3f2aabac62becc8b71b}
-      \strng{authorfullhashraw}{f973f0baee8da3f2aabac62becc8b71b}
+      \strng{namehash}{e449fcd890798ac985575cee6f059b6f}
+      \strng{fullhash}{57bce7ae27cc81fe229ff63ef6ed3cc7}
+      \strng{fullhashraw}{57bce7ae27cc81fe229ff63ef6ed3cc7}
+      \strng{bibnamehash}{57bce7ae27cc81fe229ff63ef6ed3cc7}
+      \strng{authorbibnamehash}{57bce7ae27cc81fe229ff63ef6ed3cc7}
+      \strng{authornamehash}{e449fcd890798ac985575cee6f059b6f}
+      \strng{authorfullhash}{57bce7ae27cc81fe229ff63ef6ed3cc7}
+      \strng{authorfullhashraw}{57bce7ae27cc81fe229ff63ef6ed3cc7}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
