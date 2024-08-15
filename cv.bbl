@@ -945,10 +945,10 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{To be Submitted to AoAS}
-      \field{title}{Stochastic Spatial Stream Networks}
+      \field{title}{Stochastic Spatial Stream Networks for Scalable Inferences of Riverscape Processes}
       \field{year}{2024+}
       \true{nocite}
+      \keyw{submitted}
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{butler2023leveraging}{article}{}{}
@@ -1765,6 +1765,53 @@
       \keyw{packages}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
+    \entry{scar2024}{inproceedings}{}{}
+      \list{location}{1}{%
+        {Columbia, SC, USA}%
+      }
+      \list{organization}{1}{%
+        {University of South Carolina, Department of Statistics}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{month}{11}
+      \field{year}{2024 (Upcoming)}
+      \true{nocite}
+      \keyw{seminar}
+    \endentry
+    \entry{clemson2024}{inproceedings}{}{}
+      \list{location}{1}{%
+        {Clemson, SC, USA}%
+      }
+      \list{organization}{2}{%
+        {Clemson University, School of Mathematical}%
+        {Statistical Sciences}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{month}{11}
+      \field{year}{2024 (Upcoming)}
+      \true{nocite}
+      \keyw{seminar}
+    \endentry
+    \entry{princeton}{inproceedings}{}{}
+      \list{location}{1}{%
+        {Princeton, New Jersey}%
+      }
+      \list{organization}{1}{%
+        {Data Driven Social Science Initiative at Princeton University}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Frontiers in Data Science Symposium: Advances in Record Linkage}
+      \field{month}{10}
+      \field{note}{Invited Talk}
+      \field{title}{Fast Bayesian Record Linkage for Streaming Data Contexts}
+      \field{year}{2024 (Upcoming)}
+      \true{nocite}
+      \keyw{talk-invited}
+    \endentry
     \entry{jsm2024}{inproceedings}{}{}
       \list{location}{1}{%
         {Portland, OR, USA}%
@@ -1779,7 +1826,7 @@
       \field{month}{8}
       \field{note}{Topic Contributed Paper}
       \field{title}{Scaling Record Linkage to Streaming Data Contexts}
-      \field{year}{2024 (Upcoming)}
+      \field{year}{2024}
       \true{nocite}
       \keyw{talk-contributed}
     \endentry
@@ -1797,7 +1844,7 @@
       \field{month}{6}
       \field{note}{Invited Paper}
       \field{title}{An Improved MCMC Sampler for Streaming Bayesian Inference}
-      \field{year}{2024 (Upcoming)}
+      \field{year}{2024}
       \true{nocite}
       \keyw{talk-invited}
     \endentry
@@ -1826,8 +1873,8 @@
       \list{organization}{1}{%
         {Iowa State University Department of Statistics}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
       \field{booktitle}{75th Anniversary Research Conference}
       \field{month}{10}
@@ -1844,8 +1891,8 @@
       \list{organization}{1}{%
         {ISBA}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
       \field{booktitle}{EnviBayes Workshop on Complex Environmental Data}
       \field{month}{9}
@@ -1862,8 +1909,8 @@
       \list{organization}{1}{%
         {ASA}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
       \field{booktitle}{Joint Statistical Meetings}
       \field{month}{8}
@@ -1996,8 +2043,8 @@
         {Colorado School of Mines, Department of Applied Mathematics}%
         {Statistics}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{month}{4}
       \field{year}{2022}
       \true{nocite}
@@ -2010,8 +2057,8 @@
       \list{organization}{1}{%
         {McGill University, Department of Biostatistics}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{month}{3}
       \field{year}{2022}
       \true{nocite}
@@ -2025,8 +2072,8 @@
         {University of Iowa, Department of Statistics}%
         {Actuarial Science}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{month}{9}
       \field{year}{2021}
       \true{nocite}
@@ -2156,8 +2203,8 @@
       \list{organization}{1}{%
         {ASA}%
       }
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labeltitlesource}{title}
       \field{booktitle}{Joint Statistical Meetings}
       \field{month}{7}
@@ -2174,8 +2221,8 @@
       \list{organization}{1}{%
         {Duke University, Department of Computer Science}%
       }
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{month}{4}
       \field{year}{2019}
       \true{nocite}
@@ -2188,8 +2235,8 @@
       \list{organization}{1}{%
         {The University of California Irvine, Department of Statistics}%
       }
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{month}{2}
       \field{year}{2019}
       \true{nocite}
@@ -2302,8 +2349,8 @@
         {Monash University, Department of Econometrics}%
         {Business Statistics}%
       }
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{month}{1}
       \field{year}{2019}
       \true{nocite}
@@ -2316,8 +2363,8 @@
       \list{organization}{1}{%
         {Texas A\&M University, Department of Statistics}%
       }
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{month}{11}
       \field{year}{2018}
       \true{nocite}
@@ -2330,8 +2377,8 @@
       \list{organization}{1}{%
         {North Carolina State University, Department of Statistics}%
       }
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{month}{10}
       \field{year}{2018}
       \true{nocite}
@@ -2449,8 +2496,8 @@
       \list{organization}{1}{%
         {University of Illinois, Urbana-Champaign, Department of Statistics}%
       }
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{month}{2}
       \field{year}{2017}
       \true{nocite}
@@ -2463,8 +2510,8 @@
       \list{organization}{1}{%
         {University of Florida, Department of Statistics}%
       }
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{month}{2}
       \field{year}{2017}
       \true{nocite}
@@ -2477,8 +2524,8 @@
       \list{organization}{1}{%
         {Rice University, Department of Statistics}%
       }
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{month}{1}
       \field{year}{2017}
       \true{nocite}
@@ -2602,8 +2649,8 @@
       \list{organization}{1}{%
         {ISBA}%
       }
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{booktitle}{ISBA World Meeting}
       \field{month}{6}
@@ -2620,8 +2667,8 @@
       \list{organization}{1}{%
         {ASA}%
       }
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{booktitle}{Joint Statistical Meetings}
       \field{month}{8}
@@ -2638,8 +2685,8 @@
       \list{organization}{1}{%
         {ASA}%
       }
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{booktitle}{Joint Statistical Meetings}
       \field{month}{7}
