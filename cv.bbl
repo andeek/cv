@@ -1725,6 +1725,8 @@
       \verb https://CRAN.R-project.org/package=cd
       \endverb
       \keyw{packages}
+      \annotation{item}{author}{default}{2}{}{0}{me}
+      \annotation{item}{author}{default}{3}{}{0}{ustudent}
     \endentry
     \entry{cora}{manual}{}{}
       \name{author}{3}{}{%
@@ -1769,6 +1771,8 @@
       \verb https://CRAN.R-project.org/package=cora
       \endverb
       \keyw{packages}
+      \annotation{item}{author}{default}{2}{}{0}{me}
+      \annotation{item}{author}{default}{3}{}{0}{ustudent}
     \endentry
     \entry{restaurant}{manual}{}{}
       \name{author}{3}{}{%
@@ -1813,6 +1817,8 @@
       \verb https://CRAN.R-project.org/package=restaurant
       \endverb
       \keyw{packages}
+      \annotation{item}{author}{default}{2}{}{0}{me}
+      \annotation{item}{author}{default}{3}{}{0}{ustudent}
     \endentry
     \entry{conclique}{manual}{}{}
       \name{author}{2}{}{%
