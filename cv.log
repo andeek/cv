@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.4)  11 NOV 2024 13:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.14)  18 NOV 2024 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -125,7 +125,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks25
 \@floatcapt=\box100
 ) (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2024-10-30 v7.01k Hypertext links for LaTeX
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
  (/Users/andeek/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ) (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
@@ -169,7 +169,7 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 \Hy@linkcounter=\count286
 \Hy@pagecounter=\count287
  (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2024-10-30 v7.01k Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (/Users/andeek/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -177,7 +177,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count288
  (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2024-10-30 v7.01k Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -216,7 +216,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2024-10-30 v7.01k Hyperref driver for pdfTeX
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
  (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -567,18 +567,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 311--312
  []
 
 
+
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 321--322
 
  []
 
 
-
-[6]
 Overfull \hbox (1.04749pt too wide) in paragraph at lines 333--333
 []\OT1/cmr/m/n/10 ``A Bayesian En-tity Res-o-lu-tion Ap-proach to Tree De-mog-ra-phy Us-ing Over-lap-ping Li-dar Scans''.
  []
 
 
+
+[7]
 Underfull \hbox (badness 10000) in paragraph at lines 336--337
 
  []
@@ -589,8 +591,6 @@ Overfull \hbox (20.50589pt too wide) in paragraph at lines 341--351
  []
 
 
-
-[7]
 Underfull \hbox (badness 10000) in paragraph at lines 393--408
 
  []
@@ -648,18 +648,18 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16231 strings out of 475322
- 303953 string characters out of 5769397
- 1112594 words of memory out of 5000000
- 38868 multiletter control sequences out of 15000+600000
+ 16238 strings out of 475322
+ 304235 string characters out of 5769396
+ 1113913 words of memory out of 5000000
+ 38874 multiletter control sequences out of 15000+600000
  560132 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,9n,81p,687b,1478s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/andeek/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv.pdf (10 pages, 172239 bytes).
+Output written on cv.pdf (10 pages, 172418 bytes).
 PDF statistics:
- 280 PDF objects out of 1000 (max. 8388607)
- 244 compressed objects within 3 object streams
- 115 named destinations out of 1000 (max. 500000)
+ 281 PDF objects out of 1000 (max. 8388607)
+ 245 compressed objects within 3 object streams
+ 116 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

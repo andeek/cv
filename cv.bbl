@@ -19,6 +19,43 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global/global}
+    \entry{chou2024fast}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=2277bae183d6fed9e14aa3c671a2286b}{%
+           family={Chou},
+           familyi={C\bibinitperiod},
+           given={Caleb},
+           giveni={C\bibinitperiod}}}%
+        {{hash=43f16082ea28968620f23762e32b5173}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={Andee},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{d097955f0bb3e1fa001f291d3dcc4753}
+      \strng{fullhash}{d097955f0bb3e1fa001f291d3dcc4753}
+      \strng{fullhashraw}{d097955f0bb3e1fa001f291d3dcc4753}
+      \strng{bibnamehash}{d097955f0bb3e1fa001f291d3dcc4753}
+      \strng{authorbibnamehash}{d097955f0bb3e1fa001f291d3dcc4753}
+      \strng{authornamehash}{d097955f0bb3e1fa001f291d3dcc4753}
+      \strng{authorfullhash}{d097955f0bb3e1fa001f291d3dcc4753}
+      \strng{authorfullhashraw}{d097955f0bb3e1fa001f291d3dcc4753}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Accepted at Chance}
+      \field{number}{0}
+      \field{title}{The Fast and the Furious: Tracking the Effect of the Tomoa Skip on Speed Climbing}
+      \field{volume}{0}
+      \field{year}{2024}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 15}
+      \range{pages}{15}
+      \keyw{refereed}
+      \annotation{item}{author}{default}{1}{}{0}{ustudent}
+      \annotation{item}{author}{default}{2}{}{0}{me}
+    \endentry
     \entry{koslovsky2023unified}{article}{}{}
       \name{author}{4}{}{%
         {{hash=f29a381830a1e1e27a13dfd7616eb105}{%
@@ -50,8 +87,8 @@
       \strng{authornamehash}{905c37a949d24b2bb6c4fec8c58b9236}
       \strng{authorfullhash}{c91e26028c6b6385c52a5ac35218e257}
       \strng{authorfullhashraw}{c91e26028c6b6385c52a5ac35218e257}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Accepted at Bayesian Analysis}
@@ -105,8 +142,8 @@
       \strng{authornamehash}{e449fcd890798ac985575cee6f059b6f}
       \strng{authorfullhash}{57bce7ae27cc81fe229ff63ef6ed3cc7}
       \strng{authorfullhashraw}{57bce7ae27cc81fe229ff63ef6ed3cc7}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Biometrics}
@@ -157,8 +194,8 @@
       \strng{authorfullhash}{f01719229f6dc8b248cac778459fa1c9}
       \strng{authorfullhashraw}{f01719229f6dc8b248cac778459fa1c9}
       \field{extraname}{1}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Computational and Graphical Statistics}
@@ -204,8 +241,8 @@
       \strng{authorfullhash}{d815ec54c42515d217457e827c75905a}
       \strng{authorfullhashraw}{d815ec54c42515d217457e827c75905a}
       \field{extraname}{1}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The American Statistician}
@@ -255,8 +292,8 @@
       \strng{authorfullhash}{8850f027328fa294a9ad45628a83f31c}
       \strng{authorfullhashraw}{8850f027328fa294a9ad45628a83f31c}
       \field{extraname}{1}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The American Statistician}
@@ -316,8 +353,8 @@
       \strng{authorfullhash}{5f6269eba52ef494fbacc6ab9070782c}
       \strng{authorfullhashraw}{5f6269eba52ef494fbacc6ab9070782c}
       \field{extraname}{1}
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Agricultural, Biological and Environmental Statistics}
@@ -377,8 +414,8 @@
       \strng{authornamehash}{94a932bb865576b58802841dfccd0b9a}
       \strng{authorfullhash}{efda1b5aa4adcdd183c512069ed09327}
       \strng{authorfullhashraw}{efda1b5aa4adcdd183c512069ed09327}
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Statistics in Medicine}
@@ -437,8 +474,8 @@
       \strng{authornamehash}{57a63c3d0c47b4b8f003714b0cdf943a}
       \strng{authorfullhash}{99a78d575e5f820c0c65c14c41861741}
       \strng{authorfullhashraw}{99a78d575e5f820c0c65c14c41861741}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Computational and Graphical Statistics}
@@ -858,38 +895,6 @@
       \annotation{item}{author}{default}{1}{}{0}{gstudent}
       \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
-    \entry{chou2023fast}{article}{}{}
-      \name{author}{2}{}{%
-        {{hash=2277bae183d6fed9e14aa3c671a2286b}{%
-           family={Chou},
-           familyi={C\bibinitperiod},
-           given={Caleb},
-           giveni={C\bibinitperiod}}}%
-        {{hash=43f16082ea28968620f23762e32b5173}{%
-           family={Kaplan},
-           familyi={K\bibinitperiod},
-           given={Andee},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{d097955f0bb3e1fa001f291d3dcc4753}
-      \strng{fullhash}{d097955f0bb3e1fa001f291d3dcc4753}
-      \strng{fullhashraw}{d097955f0bb3e1fa001f291d3dcc4753}
-      \strng{bibnamehash}{d097955f0bb3e1fa001f291d3dcc4753}
-      \strng{authorbibnamehash}{d097955f0bb3e1fa001f291d3dcc4753}
-      \strng{authornamehash}{d097955f0bb3e1fa001f291d3dcc4753}
-      \strng{authorfullhash}{d097955f0bb3e1fa001f291d3dcc4753}
-      \strng{authorfullhashraw}{d097955f0bb3e1fa001f291d3dcc4753}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{The Fast and the Furious: Tracking the Effect of the Tomoa Skip on Speed Climbing}
-      \field{year}{2024+}
-      \true{nocite}
-      \keyw{submitted}
-      \annotation{item}{author}{default}{1}{}{0}{ustudent}
-      \annotation{item}{author}{default}{2}{}{0}{me}
-    \endentry
     \entry{drew2023entity}{article}{}{}
       \name{author}{3}{}{%
         {{hash=a2653ed79549ade573707defbd874f48}{%
@@ -1074,6 +1079,37 @@
       \field{year}{2024+}
       \true{nocite}
       \annotation{item}{author}{default}{1}{}{0}{me}
+    \endentry
+    \entry{griffin2024stopping}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=15a23ca0faf737a6d110c627be30d8cc}{%
+           family={Griffin},
+           familyi={G\bibinitperiod},
+           given={Maryclare},
+           giveni={M\bibinitperiod}}}%
+        {{hash=43f16082ea28968620f23762e32b5173}{%
+           family={Kaplan},
+           familyi={K\bibinitperiod},
+           given={Andee},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{be0f56070e8f53a3e5e6b08bc13da57b}
+      \strng{fullhash}{be0f56070e8f53a3e5e6b08bc13da57b}
+      \strng{fullhashraw}{be0f56070e8f53a3e5e6b08bc13da57b}
+      \strng{bibnamehash}{be0f56070e8f53a3e5e6b08bc13da57b}
+      \strng{authorbibnamehash}{be0f56070e8f53a3e5e6b08bc13da57b}
+      \strng{authornamehash}{be0f56070e8f53a3e5e6b08bc13da57b}
+      \strng{authorfullhash}{be0f56070e8f53a3e5e6b08bc13da57b}
+      \strng{authorfullhashraw}{be0f56070e8f53a3e5e6b08bc13da57b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{To be Submitted to TBD}
+      \field{title}{A Novel Stopping Criterion for Markov Chain Monte Carlo}
+      \field{year}{2024+}
+      \true{nocite}
+      \annotation{item}{author}{default}{2}{}{0}{me}
     \endentry
     \entry{hofmann2015move}{inproceedings}{}{}
       \name{author}{7}{}{%
@@ -1369,8 +1405,8 @@
       \list{organization}{1}{%
         {Institute of Mathematical Statistics}%
       }
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
       \field{booktitle}{New Researchers Conference}
       \field{month}{7}
@@ -1620,8 +1656,8 @@
       \strng{authorfullhash}{8850f027328fa294a9ad45628a83f31c}
       \strng{authorfullhashraw}{8850f027328fa294a9ad45628a83f31c}
       \field{extraname}{2}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{addendum}{[Over 13,000 downloads]}
@@ -1931,6 +1967,20 @@
       \keyw{packages}
       \annotation{item}{author}{default}{1}{}{0}{me}
     \endentry
+    \entry{unl2025}{inproceedings}{}{}
+      \list{location}{1}{%
+        {Lincoln, NE, USA}%
+      }
+      \list{organization}{1}{%
+        {University of Nebraska -- Lincoln, Department of Statistics}%
+      }
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{month}{4}
+      \field{year}{2025 (Upcoming)}
+      \true{nocite}
+      \keyw{seminar}
+    \endentry
     \entry{scar2024}{inproceedings}{}{}
       \list{location}{1}{%
         {Columbia, SC, USA}%
@@ -1953,8 +2003,8 @@
         {Clemson University, School of Mathematical}%
         {Statistical Sciences}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{month}{11}
       \field{year}{2024}
       \true{nocite}
@@ -1967,8 +2017,8 @@
       \list{organization}{1}{%
         {Data Driven Social Science Initiative at Princeton University}%
       }
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labeltitlesource}{title}
       \field{booktitle}{Frontiers in Data Science Symposium: Advances in Record Linkage}
       \field{month}{10}
@@ -2129,8 +2179,8 @@
       \list{organization}{1}{%
         {University of California Santa Cruz, Department of Statistics}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{month}{3}
       \field{year}{2023}
       \true{nocite}
@@ -2143,8 +2193,8 @@
       \list{organization}{1}{%
         {Dalhousie University, Department of Statistics}%
       }
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
       \field{month}{3}
       \field{year}{2023}
       \true{nocite}
@@ -2285,8 +2335,8 @@
         {Research at the Intersection of Information, Society,}%
         {Methodology}%
       }
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{month}{10}
       \field{year}{2020}
       \true{nocite}
@@ -2299,8 +2349,8 @@
       \list{organization}{1}{%
         {ASA}%
       }
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labeltitlesource}{title}
       \field{booktitle}{Symposium on Data Science and Statistics}
       \field{month}{6}
@@ -2443,8 +2493,8 @@
       \list{organization}{1}{%
         {Virginia Tech University, Department of Statistics}%
       }
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{month}{2}
       \field{year}{2019}
       \true{nocite}
@@ -2457,8 +2507,8 @@
       \list{organization}{1}{%
         {The University of Wisconsin, Department of Statistics}%
       }
-      \field{sortinit}{7}
-      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{month}{2}
       \field{year}{2019}
       \true{nocite}
@@ -2591,8 +2641,8 @@
       \list{organization}{1}{%
         {Iowa State University, Department of Statistics}%
       }
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{month}{1}
       \field{year}{2018}
       \true{nocite}
@@ -2605,8 +2655,8 @@
       \list{organization}{1}{%
         {North Carolina State University, Department of Statistics}%
       }
-      \field{sortinit}{8}
-      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{month}{11}
       \field{year}{2017}
       \true{nocite}
@@ -2733,8 +2783,8 @@
       \list{organization}{1}{%
         {University of Massachussetts, Amherst, Department of Mathematics \& Statistics}%
       }
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{month}{12}
       \field{year}{2016}
       \true{nocite}
@@ -2748,8 +2798,8 @@
         {European Research Consortium for Informatics}%
         {Mathematics}%
       }
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labeltitlesource}{title}
       \field{booktitle}{8th International Conference of the ERCIM WG on Computational and Methodological Statistics}
       \field{month}{12}
