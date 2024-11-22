@@ -52,6 +52,12 @@
       \true{nocite}
       \field{pages}{1\bibrangedash 15}
       \range{pages}{15}
+      \verb{urlraw}
+      \verb https://arxiv.org/abs/2411.13696
+      \endverb
+      \verb{url}
+      \verb https://arxiv.org/abs/2411.13696
+      \endverb
       \keyw{refereed}
       \annotation{item}{author}{default}{1}{}{0}{ustudent}
       \annotation{item}{author}{default}{2}{}{0}{me}
