@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.11.15)  24 NOV 2024 15:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.27)  24 FEB 2025 13:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cv
 (./cv.tex
-LaTeX2e <2024-11-01>
-L3 programming layer <2024-11-02>
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-25>
 (./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
@@ -106,7 +106,7 @@ Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \colbreak@box=\box97
 \mc@col@check@num=\count280
 ) (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2019/06/20 v3.9 Customized lists
+Package: enumitem 2025/01/19 v3.10 Customized lists
 \enitkv@toks@=\toks22
 \labelindent=\skip54
 \enit@outerparindent=\dimen154
@@ -127,7 +127,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 ) (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
  (/Users/andeek/Library/TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2022/02/03 v1.0f TeX engine tests
+Package: iftex 2024/12/12 v1.0g TeX engine tests
 ) (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks26
@@ -449,14 +449,14 @@ Package biblatex Warning: 'firstinits' option is deprecated.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-11-02 L3 programming layer (loader) 
+Package: expl3 2024-12-25 L3 programming layer (loader) 
  (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count422
 \l__pdf_internal_box=\box101
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2024-11-02 L3 programming layer (loader) 
+(biblatex)             2024-12-25 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
  (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
@@ -552,6 +552,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 287--288
  []
 
 
+
+[6]
 Underfull \hbox (badness 10000) in paragraph at lines 290--291
 
  []
@@ -567,8 +569,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 311--312
  []
 
 
-
-[6]
 Underfull \hbox (badness 10000) in paragraph at lines 321--322
 
  []
@@ -608,38 +608,38 @@ Underfull \hbox (badness 10000) in paragraph at lines 529--531
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 536--538
+Underfull \hbox (badness 10000) in paragraph at lines 536--539
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 543--545
+Underfull \hbox (badness 10000) in paragraph at lines 544--546
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 546--549
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 551--552
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 554--556
+Underfull \hbox (badness 10000) in paragraph at lines 547--550
 
  []
 
 
 
 [9]
+Underfull \hbox (badness 10000) in paragraph at lines 552--553
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--557
+
+ []
+
+
 
 [10] (./cv.aux)
  ***********
-LaTeX2e <2024-11-01>
-L3 programming layer <2024-11-02>
+LaTeX2e <2024-11-01> patch level 1
+L3 programming layer <2024-12-25>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -648,18 +648,18 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16238 strings out of 475322
- 304235 string characters out of 5769396
- 1113913 words of memory out of 5000000
- 38874 multiletter control sequences out of 15000+600000
- 560132 words of font info for 43 fonts, out of 8000000 for 9000
+ 16267 strings out of 475178
+ 305170 string characters out of 5765351
+ 1114865 words of memory out of 5000000
+ 39035 multiletter control sequences out of 15000+600000
+ 560900 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,9n,81p,687b,1478s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,9n,81p,687b,1490s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/andeek/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv.pdf (10 pages, 172382 bytes).
+Output written on cv.pdf (10 pages, 173480 bytes).
 PDF statistics:
- 283 PDF objects out of 1000 (max. 8388607)
- 247 compressed objects within 3 object streams
- 116 named destinations out of 1000 (max. 500000)
+ 291 PDF objects out of 1000 (max. 8388607)
+ 255 compressed objects within 3 object streams
+ 120 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
