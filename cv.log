@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.1.27)  24 FEB 2025 13:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.2.11)  2 JUL 2025 14:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **cv
 (./cv.tex
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-25>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
 (./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
@@ -106,7 +106,7 @@ Package: multicol 2024/09/14 v1.9i multicolumn formatting (FMi)
 \colbreak@box=\box97
 \mc@col@check@num=\count280
 ) (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/enumitem/enumitem.sty
-Package: enumitem 2025/01/19 v3.10 Customized lists
+Package: enumitem 2025/02/06 v3.11 Customized lists
 \enitkv@toks@=\toks22
 \labelindent=\skip54
 \enit@outerparindent=\dimen154
@@ -449,14 +449,14 @@ Package biblatex Warning: 'firstinits' option is deprecated.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
 (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2024-12-25 L3 programming layer (loader) 
+Package: expl3 2025-01-18 L3 programming layer (loader) 
  (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count422
 \l__pdf_internal_box=\box101
 ))
 Package biblatex Info: ... and expl3
-(biblatex)             2024-12-25 L3 programming layer (loader) 
+(biblatex)             2025-01-18 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
 (biblatex)             setting 'casechanger=expl3'.
  (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty (/Users/andeek/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
@@ -517,7 +517,7 @@ Overfull \hbox (17.99998pt too wide) in paragraph at lines 98--103
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
+Underfull \hbox (badness 10000) in paragraph at lines 163--166
 
  []
 
@@ -535,10 +535,10 @@ Package biblatex Warning: Name format 'last-first' deprecated.
 
 [2]
 
-Package biblatex Warning: Keyword 'inprep' not found on input line 231.
+Package biblatex Warning: Keyword 'inprep' not found on input line 233.
 
 
-LaTeX Warning: Empty bibliography on input line 231.
+LaTeX Warning: Empty bibliography on input line 233.
 
 
 
@@ -547,90 +547,90 @@ LaTeX Warning: Empty bibliography on input line 231.
 [4]
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 287--288
-
- []
-
-
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 290--291
+Underfull \hbox (badness 10000) in paragraph at lines 289--290
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 301--302
+Underfull \hbox (badness 10000) in paragraph at lines 292--293
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 311--312
+Underfull \hbox (badness 10000) in paragraph at lines 303--304
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 321--322
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
 
  []
 
 
-Overfull \hbox (1.04749pt too wide) in paragraph at lines 333--333
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+
+ []
+
+
+Overfull \hbox (1.04749pt too wide) in paragraph at lines 335--335
 []\OT1/cmr/m/n/10 ``A Bayesian En-tity Res-o-lu-tion Ap-proach to Tree De-mog-ra-phy Us-ing Over-lap-ping Li-dar Scans''.
  []
 
 
 
 [7]
-Underfull \hbox (badness 10000) in paragraph at lines 336--337
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
 
  []
 
 
-Overfull \hbox (20.50589pt too wide) in paragraph at lines 341--351
+Overfull \hbox (20.50589pt too wide) in paragraph at lines 343--353
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--408
+Underfull \hbox (badness 10000) in paragraph at lines 395--413
 
  []
 
 
 
 [8]
-Underfull \hbox (badness 10000) in paragraph at lines 506--524
+Underfull \hbox (badness 10000) in paragraph at lines 512--530
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 529--531
+Underfull \hbox (badness 10000) in paragraph at lines 535--537
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 536--539
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 544--546
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 547--550
+Underfull \hbox (badness 10000) in paragraph at lines 542--545
 
  []
 
 
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 552--553
+Underfull \hbox (badness 10000) in paragraph at lines 550--552
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--557
+Underfull \hbox (badness 10000) in paragraph at lines 553--556
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 558--559
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 561--563
 
  []
 
@@ -638,8 +638,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 555--557
 
 [10] (./cv.aux)
  ***********
-LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-25>
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -648,18 +648,18 @@ Package logreq Info: Writing requests to 'cv.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16267 strings out of 475178
- 305170 string characters out of 5765351
- 1114865 words of memory out of 5000000
- 39035 multiletter control sequences out of 15000+600000
+ 16278 strings out of 475172
+ 305614 string characters out of 5765189
+ 1115073 words of memory out of 5000000
+ 39050 multiletter control sequences out of 15000+600000
  560900 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,9n,81p,687b,1490s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/andeek/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></Users/andeek/Library/TinyTeX/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on cv.pdf (10 pages, 173480 bytes).
+Output written on cv.pdf (10 pages, 174633 bytes).
 PDF statistics:
- 291 PDF objects out of 1000 (max. 8388607)
- 255 compressed objects within 3 object streams
- 120 named destinations out of 1000 (max. 500000)
+ 310 PDF objects out of 1000 (max. 8388607)
+ 274 compressed objects within 3 object streams
+ 122 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
